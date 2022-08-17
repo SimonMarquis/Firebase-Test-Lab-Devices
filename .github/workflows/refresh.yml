@@ -1,0 +1,40 @@
+name: 🔃 Refresh
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    name: Refresh
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - id: auth
+        uses: google-github-actions/auth@v0
+        with:
+          credentials_json: '${{ secrets.SERVICE_ACCOUNT_CREDENTIALS }}'
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v0
+      - name: List Android devices
+        run: gcloud firebase test android models list > devices.txt
+      - name: Update README.md
+        run: |
+          echo '# Firebase Test Lab Devices [![🔃 Refresh](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml/badge.svg)](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml)' > README.md
+          echo ''         >> README.md
+          echo '```'      >> README.md
+          cat devices.txt >> README.md
+          echo '```'      >> README.md
+      - name: Commit changes
+        run: |
+          if ! git diff --quiet --exit-code -- README.md devices.txt;
+          then
+            git config --global user.name "Simon Marquis"
+            git config --global user.email "SimonMarquis@users.noreply.github.com"
+            git commit README.md devices.txt -m "🔃"
+            git push
+            echo "::notice::UPDATED"
+          else
+            echo "::notice::UP-TO-DATE"
+          fi
