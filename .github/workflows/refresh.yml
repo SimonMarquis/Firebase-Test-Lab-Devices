@@ -32,7 +32,12 @@ jobs:
           then
             git config --global user.name "Simon Marquis"
             git config --global user.email "SimonMarquis@users.noreply.github.com"
-            git commit README.md devices.txt -m "🔃"
+            ( \
+              echo -e "🔃$(git diff --shortstat devices.txt)\n" ; \
+              echo -e "\`\`\`diff" ; \
+              git diff --unified=0 -- devices.txt | tail -n +5 ; \
+              echo -e "\`\`\`" ; \
+            ) | git commit README.md devices.txt --file -
             git push
             echo "::notice::UPDATED"
           else
