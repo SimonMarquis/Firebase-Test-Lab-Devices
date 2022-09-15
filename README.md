@@ -17,7 +17,7 @@
 │ HWANE-LX2           │ Huawei             │ ANE-LX2                                  │ PHYSICAL │ 1080 x 2280 │ 28                      │                  │
 │ HWCOR               │ Huawei             │ COR-L29                                  │ PHYSICAL │ 1080 x 2340 │ 27                      │                  │
 │ HWMHA               │ Huawei             │ MHA-L29                                  │ PHYSICAL │ 1920 x 1080 │ 24                      │                  │
-│ MediumPhone.arm     │ Generic            │ MediumPhone (ARM)                        │ EMULATOR │ 2400 x 1080 │ 28,29,30,32,33          │ preview=33, beta │
+│ MediumPhone.arm     │ Generic            │ MediumPhone (ARM)                        │ EMULATOR │ 2400 x 1080 │ 26,27,28,29,30,32,33    │ preview=33, beta │
 │ Nexus10             │ Samsung            │ Nexus 10                                 │ VIRTUAL  │ 2560 x 1600 │ 19,21,22                │                  │
 │ Nexus4              │ LG                 │ Nexus 4                                  │ VIRTUAL  │ 1280 x 768  │ 19,21,22                │                  │
 │ Nexus5              │ LG                 │ Nexus 5                                  │ VIRTUAL  │ 1920 x 1080 │ 19,21,22,23             │                  │
@@ -30,11 +30,11 @@
 │ NexusLowRes         │ Generic            │ Low-resolution MDPI phone                │ VIRTUAL  │  640 x 360  │ 23,24,25,26,27,28,29,30 │                  │
 │ OnePlus5T           │ OnePlus            │ ONEPLUS A5010                            │ PHYSICAL │ 1080 x 2160 │ 28                      │                  │
 │ Pixel2              │ Google             │ Pixel 2                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30          │                  │
-│ Pixel2.arm          │ Google             │ Pixel 2 (ARM)                            │ EMULATOR │ 1920 x 1080 │ 28,29,30,32,33          │ preview=33, beta │
+│ Pixel2.arm          │ Google             │ Pixel 2 (ARM)                            │ EMULATOR │ 1920 x 1080 │ 26,27,28,29,30,32,33    │ preview=33, beta │
 │ Pixel3              │ Google             │ Pixel 3                                  │ VIRTUAL  │ 2160 x 1080 │ 30                      │                  │
 │ SC-02K              │ Samsung            │ SC-02K                                   │ PHYSICAL │ 2220 x 1080 │ 28                      │ deprecated=28    │
 │ SH-01L              │ SHARP              │ SH-01L                                   │ PHYSICAL │ 2160 x 1080 │ 28                      │                  │
-│ SmallPhone.arm      │ Generic            │ SmallPhone (ARM)                         │ EMULATOR │ 1280 x 720  │ 28,29,30,32,33          │ preview=33, beta │
+│ SmallPhone.arm      │ Generic            │ SmallPhone (ARM)                         │ EMULATOR │ 1280 x 720  │ 26,27,28,29,30,32,33    │ preview=33, beta │
 │ TC77                │ Zebra Technologies │ TC77                                     │ PHYSICAL │ 1280 x 720  │ 27                      │                  │
 │ a10                 │ Samsung            │ SM-A105FN                                │ PHYSICAL │  720 x 1520 │ 29                      │                  │
 │ b2q                 │ Samsung            │ SM-F711U1                                │ PHYSICAL │  260 x 512  │ 30,31                   │                  │
@@ -48,13 +48,13 @@
 │ grandppltedx        │ Samsung            │ SM-G532G                                 │ PHYSICAL │  540 x 960  │ 23                      │                  │
 │ griffin             │ Motorola           │ XT1650                                   │ PHYSICAL │ 1440 x 2560 │ 24                      │                  │
 │ gts3lltevzw         │ Samsung            │ SM-T827V                                 │ PHYSICAL │ 1536 x 2048 │ 28                      │                  │
-│ gts4lltevzw         │ Samsung            │ SM-T837V                                 │ PHYSICAL │ 2560 x 1600 │ 28                      │                  │
+│ gts4lltevzw         │ Samsung            │ SM-T837V                                 │ PHYSICAL │ 2560 x 1600 │ 28                      │ deprecated=28    │
 │ hammerhead          │ LG                 │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                      │                  │
 │ harpia              │ Motorola           │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                      │                  │
 │ heroqlteaio         │ Samsung            │ SAMSUNG-SM-G930AZ                        │ PHYSICAL │ 1080 x 1920 │ 26                      │                  │
 │ htc_pmeuhl          │ HTC                │ HTC 10                                   │ PHYSICAL │ 1440 x 2560 │ 26                      │ deprecated=26    │
 │ hwALE-H             │ Huawei             │ ALE-L23                                  │ PHYSICAL │ 1280 x 720  │ 21                      │ deprecated=21    │
-│ joan                │ LG                 │ LG-H932                                  │ PHYSICAL │ 1440 x 2880 │ 26                      │                  │
+│ joan                │ LG                 │ LG-H932                                  │ PHYSICAL │ 1440 x 2880 │ 26                      │ deprecated=26    │
 │ lt02wifi            │ Samsung            │ SM-T210                                  │ PHYSICAL │  600 x 1024 │ 19                      │                  │
 │ lv0                 │ LG                 │ LG-AS110                                 │ PHYSICAL │  854 x 480  │ 23                      │                  │
 │ oriole              │ Google             │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 31,32,33                │                  │
