@@ -32,6 +32,7 @@ jobs:
           echo '```'              >> README.md
           echo ''                 >> README.md
           echo '## iOS'           >> README.md
+          echo ''                 >> README.md
           echo '```'              >> README.md
           cat ios_devices.txt     >> README.md
           echo '```'              >> README.md
