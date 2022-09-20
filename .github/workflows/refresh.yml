@@ -45,7 +45,8 @@ jobs:
             ( \
               echo -e "🔃$(git diff --shortstat android_devices.txt ios_devices.txt)\n" ; \
               echo -e "\`\`\`diff" ; \
-              git diff --unified=0 -- android_devices.txt ios_devices.txt | tail -n +5 ; \
+              git diff --unified=0 -- android_devices.txt | tail -n +5 ; \
+              git diff --unified=0 -- ios_devices.txt | tail -n +5 ; \
               echo -e "\`\`\`" ; \
             ) | git commit README.md android_devices.txt ios_devices.txt --file -
             git push
