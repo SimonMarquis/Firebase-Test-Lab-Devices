@@ -26,6 +26,7 @@ jobs:
           echo '# Firebase Test Lab Devices [![🔃 Refresh](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml/badge.svg)](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml)' > README.md
           echo ''                 >> README.md
           echo '## Android'       >> README.md
+          echo ''                 >> README.md
           echo '```'              >> README.md
           cat android_devices.txt >> README.md
           echo '```'              >> README.md
