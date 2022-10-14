@@ -42,6 +42,7 @@
 │ bluejay             │ Google             │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                      │                  │
 │ blueline            │ Google             │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                      │                  │
 │ cactus              │ Xiaomi             │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                      │                  │
+│ cheetah             │ Google             │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                      │                  │
 │ cruiserlteatt       │ Samsung            │ SM-G892A                                 │ PHYSICAL │ 1080 x 2220 │ 26                      │ deprecated=26    │
 │ dreamlte            │ Samsung            │ SM-G950F                                 │ PHYSICAL │ 1080 x 2220 │ 28                      │                  │
 │ f2q                 │ Samsung            │ SM-F916U1                                │ PHYSICAL │ 2208 x 1768 │ 30                      │                  │
@@ -57,6 +58,7 @@
 │ lt02wifi            │ Samsung            │ SM-T210                                  │ PHYSICAL │  600 x 1024 │ 19                      │                  │
 │ lv0                 │ LG                 │ LG-AS110                                 │ PHYSICAL │  854 x 480  │ 23                      │                  │
 │ oriole              │ Google             │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 31,32,33                │                  │
+│ panther             │ Google             │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                      │                  │
 │ pettyl              │ Motorola           │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                      │                  │
 │ q2q                 │ Samsung            │ SM-F926U1                                │ PHYSICAL │ 2208 x 1768 │ 30,31                   │                  │
 │ redfin              │ Google             │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                      │ default          │
