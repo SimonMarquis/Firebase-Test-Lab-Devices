@@ -50,11 +50,9 @@
 │ grandppltedx        │ Samsung            │ SM-G532G                                 │ PHYSICAL │  540 x 960  │ 23                      │                  │
 │ griffin             │ Motorola           │ XT1650                                   │ PHYSICAL │ 1440 x 2560 │ 24                      │                  │
 │ gts3lltevzw         │ Samsung            │ SM-T827V                                 │ PHYSICAL │ 1536 x 2048 │ 28                      │                  │
-│ gts4lltevzw         │ Samsung            │ SM-T837V                                 │ PHYSICAL │ 2560 x 1600 │ 28                      │ deprecated=28    │
 │ hammerhead          │ LG                 │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                      │                  │
 │ harpia              │ Motorola           │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                      │                  │
 │ heroqlteaio         │ Samsung            │ SAMSUNG-SM-G930AZ                        │ PHYSICAL │ 1080 x 1920 │ 26                      │                  │
-│ joan                │ LG                 │ LG-H932                                  │ PHYSICAL │ 1440 x 2880 │ 26                      │ deprecated=26    │
 │ lt02wifi            │ Samsung            │ SM-T210                                  │ PHYSICAL │  600 x 1024 │ 19                      │                  │
 │ lv0                 │ LG                 │ LG-AS110                                 │ PHYSICAL │  854 x 480  │ 23                      │                  │
 │ oriole              │ Google             │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 31,32,33                │                  │
@@ -72,17 +70,17 @@
 ## iOS
 
 ```
-┌─────────────┬───────────────────────┬────────────────┬──────────────────────────┐
-│   MODEL_ID  │          NAME         │ OS_VERSION_IDS │           TAGS           │
-├─────────────┼───────────────────────┼────────────────┼──────────────────────────┤
-│ ipad5       │ iPad (5th generation) │ 15.4           │                          │
-│ ipadmini4   │ iPad mini 4           │ 15.4           │                          │
-│ iphone11    │ iPhone 11             │ 13.3,13.6      │                          │
-│ iphone11pro │ iPhone 11 Pro         │ 13.3,14.7      │                          │
-│ iphone13pro │ iPhone 13 Pro         │ 15.2           │                          │
-│ iphone8     │ iPhone 8              │ 12.4,13.6,14.7 │ deprecated=12.4, default │
-│ iphone8plus │ iPhone 8 Plus         │ 12.0           │ deprecated=12.0          │
-│ iphonexr    │ iPhone XR             │ 12.4,13.2      │ deprecated=12.4          │
-│ iphonexsmax │ iPhone XS Max         │ 12.1           │ deprecated=12.1          │
-└─────────────┴───────────────────────┴────────────────┴──────────────────────────┘
+┌─────────────┬───────────────────────┬─────────────────────┬──────────────────────────┐
+│   MODEL_ID  │          NAME         │    OS_VERSION_IDS   │           TAGS           │
+├─────────────┼───────────────────────┼─────────────────────┼──────────────────────────┤
+│ ipad5       │ iPad (5th generation) │ 15.4                │                          │
+│ ipadmini4   │ iPad mini 4           │ 15.4                │                          │
+│ iphone11    │ iPhone 11             │ 13.3,13.6           │                          │
+│ iphone11pro │ iPhone 11 Pro         │ 13.3,14.7           │                          │
+│ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7           │                          │
+│ iphone8     │ iPhone 8              │ 12.4,13.6,14.7,15.7 │ deprecated=12.4, default │
+│ iphone8plus │ iPhone 8 Plus         │ 12.0                │ deprecated=12.0          │
+│ iphonexr    │ iPhone XR             │ 12.4,13.2           │ deprecated=12.4          │
+│ iphonexsmax │ iPhone XS Max         │ 12.1                │ deprecated=12.1          │
+└─────────────┴───────────────────────┴─────────────────────┴──────────────────────────┘
 ```
