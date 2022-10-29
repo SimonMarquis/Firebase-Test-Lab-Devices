@@ -13,7 +13,7 @@
 │ F01L                │ FUJITSU            │ F-01L                                    │ PHYSICAL │ 1280 x 720  │ 27                      │                  │
 │ FRT                 │ HMD Global         │ Nokia 1                                  │ PHYSICAL │  854 x 480  │ 27                      │                  │
 │ G8142               │ Sony               │ G8142                                    │ PHYSICAL │ 1080 x 1920 │ 25                      │                  │
-│ G8342               │ Sony               │ G8342                                    │ PHYSICAL │ 1080 x 1920 │ 26                      │                  │
+│ G8342               │ Sony               │ G8342                                    │ PHYSICAL │ 1080 x 1920 │ 26                      │ deprecated=26    │
 │ GoogleTvEmulator    │ Google             │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                      │ beta=30          │
 │ H9493               │ Sony               │ H9493                                    │ PHYSICAL │ 2880 x 1440 │ 28                      │ deprecated=28    │
 │ HWANE-LX2           │ Huawei             │ ANE-LX2                                  │ PHYSICAL │ 1080 x 2280 │ 28                      │                  │
@@ -30,7 +30,7 @@
 │ Nexus7_clone_16_9   │ Generic            │ Nexus7 clone, DVD 16:9 aspect ratio      │ VIRTUAL  │ 1280 x 720  │ 23,24,25,26             │ beta             │
 │ Nexus9              │ HTC                │ Nexus 9                                  │ VIRTUAL  │ 2048 x 1536 │ 21,22,23,24,25          │                  │
 │ NexusLowRes         │ Generic            │ Low-resolution MDPI phone                │ VIRTUAL  │  640 x 360  │ 23,24,25,26,27,28,29,30 │                  │
-│ OnePlus5T           │ OnePlus            │ ONEPLUS A5010                            │ PHYSICAL │ 1080 x 2160 │ 28                      │                  │
+│ OnePlus5T           │ OnePlus            │ ONEPLUS A5010                            │ PHYSICAL │ 1080 x 2160 │ 28                      │ deprecated=28    │
 │ Pixel2              │ Google             │ Pixel 2                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30          │                  │
 │ Pixel2.arm          │ Google             │ Pixel 2 (ARM)                            │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,32,33    │ preview=33, beta │
 │ Pixel3              │ Google             │ Pixel 3                                  │ VIRTUAL  │ 2160 x 1080 │ 30                      │                  │
@@ -77,6 +77,7 @@
 │ ipadmini4   │ iPad mini 4           │ 15.4                │                          │
 │ iphone11    │ iPhone 11             │ 13.3,13.6           │                          │
 │ iphone11pro │ iPhone 11 Pro         │ 13.3,14.7           │                          │
+│ iphone12pro │ iPhone 12 Pro         │ 14.8                │                          │
 │ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7           │                          │
 │ iphone8     │ iPhone 8              │ 12.4,13.6,14.7,15.7 │ deprecated=12.4, default │
 │ iphone8plus │ iPhone 8 Plus         │ 12.0                │ deprecated=12.0          │
