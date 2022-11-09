@@ -43,7 +43,6 @@
 │ blueline            │ Google             │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                      │                  │
 │ cactus              │ Xiaomi             │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                      │                  │
 │ cheetah             │ Google             │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                      │                  │
-│ cruiserlteatt       │ Samsung            │ SM-G892A                                 │ PHYSICAL │ 1080 x 2220 │ 26                      │ deprecated=26    │
 │ dreamlte            │ Samsung            │ SM-G950F                                 │ PHYSICAL │ 1080 x 2220 │ 28                      │                  │
 │ f2q                 │ Samsung            │ SM-F916U1                                │ PHYSICAL │ 2208 x 1768 │ 30                      │                  │
 │ flo                 │ Asus               │ Nexus 7                                  │ PHYSICAL │ 1200 x 1920 │ 19                      │                  │
