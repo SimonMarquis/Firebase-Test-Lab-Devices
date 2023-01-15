@@ -19,13 +19,13 @@
 │ HWMHA               │ Huawei             │ MHA-L29                                  │ PHYSICAL │ 1920 x 1080 │ 24                      │                  │
 │ MediumPhone.arm     │ Generic            │ MediumPhone (ARM)                        │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,32,33    │ preview=33, beta │
 │ MediumTablet.arm    │ Generic            │ MediumTablet (ARM)                       │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,32,33    │ preview=33, beta │
-│ Nexus10             │ Samsung            │ Nexus 10                                 │ VIRTUAL  │ 2560 x 1600 │ 19,21,22                │ deprecated=19    │
-│ Nexus4              │ LG                 │ Nexus 4                                  │ VIRTUAL  │ 1280 x 768  │ 19,21,22                │ deprecated=19    │
-│ Nexus5              │ LG                 │ Nexus 5                                  │ VIRTUAL  │ 1920 x 1080 │ 19,21,22,23             │ deprecated=19    │
+│ Nexus10             │ Samsung            │ Nexus 10                                 │ VIRTUAL  │ 2560 x 1600 │ 21,22                   │                  │
+│ Nexus4              │ LG                 │ Nexus 4                                  │ VIRTUAL  │ 1280 x 768  │ 21,22                   │                  │
+│ Nexus5              │ LG                 │ Nexus 5                                  │ VIRTUAL  │ 1920 x 1080 │ 21,22,23                │                  │
 │ Nexus5X             │ LG                 │ Nexus 5X                                 │ VIRTUAL  │ 1920 x 1080 │ 23,24,25,26             │                  │
 │ Nexus6              │ Motorola           │ Nexus 6                                  │ VIRTUAL  │ 2560 x 1440 │ 21,22,23,24,25          │                  │
 │ Nexus6P             │ Google             │ Nexus 6P                                 │ VIRTUAL  │ 2560 x 1440 │ 23,24,25,26,27          │                  │
-│ Nexus7              │ Asus               │ Nexus 7 (2012)                           │ VIRTUAL  │ 1280 x 800  │ 19,21,22                │ deprecated=19    │
+│ Nexus7              │ Asus               │ Nexus 7 (2012)                           │ VIRTUAL  │ 1280 x 800  │ 21,22                   │                  │
 │ Nexus7_clone_16_9   │ Generic            │ Nexus7 clone, DVD 16:9 aspect ratio      │ VIRTUAL  │ 1280 x 720  │ 23,24,25,26             │ beta             │
 │ Nexus9              │ HTC                │ Nexus 9                                  │ VIRTUAL  │ 2048 x 1536 │ 21,22,23,24,25          │                  │
 │ NexusLowRes         │ Generic            │ Low-resolution MDPI phone                │ VIRTUAL  │  640 x 360  │ 23,24,25,26,27,28,29,30 │                  │
