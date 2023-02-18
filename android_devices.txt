@@ -51,7 +51,6 @@
 │ panther             │ Google             │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                      │                  │
 │ pettyl              │ Motorola           │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                      │                  │
 │ q2q                 │ Samsung            │ SM-F926U1                                │ PHYSICAL │ 2208 x 1768 │ 30,31                   │                  │
-│ r11                 │ Google             │ Google Pixel Watch                       │ PHYSICAL │  384 x 384  │ 30                      │                  │
 │ redfin              │ Google             │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                      │ default          │
 │ sailfish            │ Google             │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                      │                  │
 │ starqlteue          │ Samsung            │ SM-G960U1                                │ PHYSICAL │ 1080 x 2220 │ 26                      │                  │
