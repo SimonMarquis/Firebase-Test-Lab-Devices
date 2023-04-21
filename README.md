@@ -17,8 +17,8 @@
 │ HWANE-LX2           │ Huawei             │ ANE-LX2                                  │ PHYSICAL │ 1080 x 2280 │ 28                      │         │
 │ HWCOR               │ Huawei             │ COR-L29                                  │ PHYSICAL │ 1080 x 2340 │ 27                      │         │
 │ HWMHA               │ Huawei             │ MHA-L29                                  │ PHYSICAL │ 1920 x 1080 │ 24                      │         │
-│ MediumPhone.arm     │ Generic            │ Medium Phone, 6.4in/16cm (ARM)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,32,33    │ beta    │
-│ MediumTablet.arm    │ Generic            │ Medium Tablet, 10in/25cm (ARM)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,32,33    │ beta    │
+│ MediumPhone.arm     │ Generic            │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,32,33    │ beta    │
+│ MediumTablet.arm    │ Generic            │ Medium Tablet, 10in/25cm (Arm)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,32,33    │ beta    │
 │ Nexus10             │ Samsung            │ Nexus 10                                 │ VIRTUAL  │ 2560 x 1600 │ 21,22                   │         │
 │ Nexus4              │ LG                 │ Nexus 4                                  │ VIRTUAL  │ 1280 x 768  │ 21,22                   │         │
 │ Nexus5              │ LG                 │ Nexus 5                                  │ VIRTUAL  │ 1920 x 1080 │ 21,22,23                │         │
@@ -30,10 +30,10 @@
 │ Nexus9              │ HTC                │ Nexus 9                                  │ VIRTUAL  │ 2048 x 1536 │ 21,22,23,24,25          │         │
 │ NexusLowRes         │ Generic            │ Low-resolution MDPI phone                │ VIRTUAL  │  640 x 360  │ 23,24,25,26,27,28,29,30 │         │
 │ Pixel2              │ Google             │ Pixel 2                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30          │         │
-│ Pixel2.arm          │ Google             │ Pixel 2 (ARM)                            │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,32,33    │ beta    │
+│ Pixel2.arm          │ Google             │ Pixel 2 (Arm)                            │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,32,33    │ beta    │
 │ Pixel3              │ Google             │ Pixel 3                                  │ VIRTUAL  │ 2160 x 1080 │ 30                      │         │
 │ SH-01L              │ SHARP              │ SH-01L                                   │ PHYSICAL │ 2160 x 1080 │ 28                      │         │
-│ SmallPhone.arm      │ Generic            │ Small Phone, 4.7in/12cm (ARM)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,32,33    │ beta    │
+│ SmallPhone.arm      │ Generic            │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,32,33    │ beta    │
 │ TC77                │ Zebra Technologies │ TC77                                     │ PHYSICAL │ 1280 x 720  │ 27                      │         │
 │ a10                 │ Samsung            │ SM-A105FN                                │ PHYSICAL │  720 x 1520 │ 29                      │         │
 │ b0q                 │ Samsung            │ SM-S908U1                                │ PHYSICAL │ 3088 x 1440 │ 33                      │         │
