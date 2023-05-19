@@ -17,8 +17,8 @@
 │ HWANE-LX2           │ Huawei             │ ANE-LX2                                  │ PHYSICAL │ 1080 x 2280 │ 28                      │                              │
 │ HWCOR               │ Huawei             │ COR-L29                                  │ PHYSICAL │ 1080 x 2340 │ 27                      │                              │
 │ HWMHA               │ Huawei             │ MHA-L29                                  │ PHYSICAL │ 1920 x 1080 │ 24                      │                              │
-│ MediumPhone.arm     │ Generic            │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,32,33    │ preview=33, beta             │
-│ MediumTablet.arm    │ Generic            │ Medium Tablet, 10in/25cm (Arm)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,32,33    │ preview=33, beta             │
+│ MediumPhone.arm     │ Generic            │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33 │ preview=33, beta             │
+│ MediumTablet.arm    │ Generic            │ Medium Tablet, 10in/25cm (Arm)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33 │ preview=33, beta             │
 │ Nexus10             │ Samsung            │ Nexus 10                                 │ VIRTUAL  │ 2560 x 1600 │ 21,22                   │                              │
 │ Nexus4              │ LG                 │ Nexus 4                                  │ VIRTUAL  │ 1280 x 768  │ 21,22                   │                              │
 │ Nexus5              │ LG                 │ Nexus 5                                  │ VIRTUAL  │ 1920 x 1080 │ 21,22,23                │                              │
@@ -30,10 +30,10 @@
 │ Nexus9              │ HTC                │ Nexus 9                                  │ VIRTUAL  │ 2048 x 1536 │ 21,22,23,24,25          │                              │
 │ NexusLowRes         │ Generic            │ Low-resolution MDPI phone                │ VIRTUAL  │  640 x 360  │ 23,24,25,26,27,28,29,30 │                              │
 │ Pixel2              │ Google             │ Pixel 2                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30          │                              │
-│ Pixel2.arm          │ Google             │ Pixel 2 (Arm)                            │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,32,33    │ preview=33, beta             │
+│ Pixel2.arm          │ Google             │ Pixel 2 (Arm)                            │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,31,32,33 │ preview=33, beta             │
 │ Pixel3              │ Google             │ Pixel 3                                  │ VIRTUAL  │ 2160 x 1080 │ 30                      │                              │
 │ SH-01L              │ SHARP              │ SH-01L                                   │ PHYSICAL │ 2160 x 1080 │ 28                      │                              │
-│ SmallPhone.arm      │ Generic            │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,32,33    │ preview=33, beta             │
+│ SmallPhone.arm      │ Generic            │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33 │ preview=33, beta             │
 │ TC77                │ Zebra Technologies │ TC77                                     │ PHYSICAL │ 1280 x 720  │ 27                      │                              │
 │ a10                 │ Samsung            │ SM-A105FN                                │ PHYSICAL │  720 x 1520 │ 29                      │                              │
 │ b0q                 │ Samsung            │ SM-S908U1                                │ PHYSICAL │ 3088 x 1440 │ 33                      │                              │
@@ -56,6 +56,7 @@
 │ panther             │ Google             │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                      │                              │
 │ pettyl              │ Motorola           │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                      │                              │
 │ q2q                 │ Samsung            │ SM-F926U1                                │ PHYSICAL │ 2208 x 1768 │ 30,31                   │                              │
+│ r11                 │ Google             │ Google Pixel Watch                       │ PHYSICAL │  384 x 384  │ 30                      │                              │
 │ redfin              │ Google             │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                      │ default                      │
 │ sailfish            │ Google             │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                      │                              │
 │ starqlteue          │ Samsung            │ SM-G960U1                                │ PHYSICAL │ 1080 x 2220 │ 26                      │                              │
@@ -67,14 +68,14 @@
 ## iOS
 
 ```
-┌─────────────┬───────────────────────┬─────────────────────┬─────────────────┐
-│   MODEL_ID  │          NAME         │    OS_VERSION_IDS   │       TAGS      │
-├─────────────┼───────────────────────┼─────────────────────┼─────────────────┤
-│ ipad5       │ iPad (5th generation) │ 15.4                │                 │
-│ ipadmini4   │ iPad mini 4           │ 15.4                │                 │
-│ iphone11pro │ iPhone 11 Pro         │ 14.7,16.2,16.3      │ deprecated=16.2 │
-│ iphone12pro │ iPhone 12 Pro         │ 14.8                │                 │
-│ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7           │ default         │
-│ iphone8     │ iPhone 8              │ 14.7,15.7,16.2,16.3 │ deprecated=16.2 │
-└─────────────┴───────────────────────┴─────────────────────┴─────────────────┘
+┌─────────────┬───────────────────────┬────────────────┬─────────┐
+│   MODEL_ID  │          NAME         │ OS_VERSION_IDS │   TAGS  │
+├─────────────┼───────────────────────┼────────────────┼─────────┤
+│ ipad5       │ iPad (5th generation) │ 15.4           │         │
+│ ipadmini4   │ iPad mini 4           │ 15.4           │         │
+│ iphone11pro │ iPhone 11 Pro         │ 14.7,16.3      │         │
+│ iphone12pro │ iPhone 12 Pro         │ 14.8           │         │
+│ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7      │ default │
+│ iphone8     │ iPhone 8              │ 14.7,15.7,16.3 │         │
+└─────────────┴───────────────────────┴────────────────┴─────────┘
 ```
