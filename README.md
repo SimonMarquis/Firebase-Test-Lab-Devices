@@ -51,6 +51,7 @@
 │ hammerhead          │ LG                 │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                      │                              │
 │ harpia              │ Motorola           │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                      │                              │
 │ htc_ocnuhljapan     │ HTC                │ HTC U11                                  │ PHYSICAL │ 2560 x 1440 │ 28                      │ deprecated=28                │
+│ java                │ Motorola           │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                      │                              │
 │ lv0                 │ LG                 │ LG-AS110                                 │ PHYSICAL │  854 x 480  │ 23                      │                              │
 │ oriole              │ Google             │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 31,32,33                │                              │
 │ panther             │ Google             │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                      │                              │
