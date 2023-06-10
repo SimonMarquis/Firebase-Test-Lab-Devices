@@ -14,7 +14,6 @@
 │ FRT                 │ HMD Global         │ Nokia 1                                  │ PHYSICAL │  854 x 480  │ 27                      │                              │
 │ G8142               │ Sony               │ G8142                                    │ PHYSICAL │ 1080 x 1920 │ 25                      │                              │
 │ GoogleTvEmulator    │ Google             │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                      │ beta=30                      │
-│ HWANE-LX2           │ Huawei             │ ANE-LX2                                  │ PHYSICAL │ 1080 x 2280 │ 28                      │                              │
 │ HWCOR               │ Huawei             │ COR-L29                                  │ PHYSICAL │ 1080 x 2340 │ 27                      │                              │
 │ HWMHA               │ Huawei             │ MHA-L29                                  │ PHYSICAL │ 1920 x 1080 │ 24                      │                              │
 │ MediumPhone.arm     │ Generic            │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33 │ preview=33, beta             │
@@ -37,7 +36,6 @@
 │ TC77                │ Zebra Technologies │ TC77                                     │ PHYSICAL │ 1280 x 720  │ 27                      │                              │
 │ a10                 │ Samsung            │ SM-A105FN                                │ PHYSICAL │  720 x 1520 │ 29                      │                              │
 │ b0q                 │ Samsung            │ SM-S908U1                                │ PHYSICAL │ 3088 x 1440 │ 33                      │                              │
-│ b2q                 │ Samsung            │ SM-F711U1                                │ PHYSICAL │  260 x 512  │ 30,31                   │ deprecated=30, deprecated=31 │
 │ bluejay             │ Google             │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                      │                              │
 │ blueline            │ Google             │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                      │                              │
 │ cactus              │ Xiaomi             │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                      │                              │
@@ -50,7 +48,6 @@
 │ gts3lltevzw         │ Samsung            │ SM-T827V                                 │ PHYSICAL │ 1536 x 2048 │ 28                      │                              │
 │ hammerhead          │ LG                 │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                      │                              │
 │ harpia              │ Motorola           │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                      │                              │
-│ htc_ocnuhljapan     │ HTC                │ HTC U11                                  │ PHYSICAL │ 2560 x 1440 │ 28                      │ deprecated=28                │
 │ java                │ Motorola           │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                      │                              │
 │ lv0                 │ LG                 │ LG-AS110                                 │ PHYSICAL │  854 x 480  │ 23                      │                              │
 │ oriole              │ Google             │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 31,32,33                │                              │
