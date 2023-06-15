@@ -12,7 +12,7 @@
 │ AndroidTablet270dpi │ Generic            │ Generic 720x1600 Android tablet @ 270dpi │ VIRTUAL  │ 1600 x 720  │ 30                      │                              │
 │ F01L                │ FUJITSU            │ F-01L                                    │ PHYSICAL │ 1280 x 720  │ 27                      │                              │
 │ FRT                 │ HMD Global         │ Nokia 1                                  │ PHYSICAL │  854 x 480  │ 27                      │                              │
-│ G8142               │ Sony               │ G8142                                    │ PHYSICAL │ 1080 x 1920 │ 25                      │                              │
+│ G8142               │ Sony               │ G8142                                    │ PHYSICAL │ 1080 x 1920 │ 25                      │ deprecated=25                │
 │ GoogleTvEmulator    │ Google             │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                      │ beta=30                      │
 │ HWCOR               │ Huawei             │ COR-L29                                  │ PHYSICAL │ 1080 x 2340 │ 27                      │                              │
 │ HWMHA               │ Huawei             │ MHA-L29                                  │ PHYSICAL │ 1920 x 1080 │ 24                      │                              │
@@ -43,7 +43,7 @@
 │ crownqlteue         │ Samsung            │ SM-N960U1                                │ PHYSICAL │ 1080 x 2220 │ 29                      │                              │
 │ dreamlte            │ Samsung            │ SM-G950F                                 │ PHYSICAL │ 1080 x 2220 │ 28                      │                              │
 │ f2q                 │ Samsung            │ SM-F916U1                                │ PHYSICAL │ 2208 x 1768 │ 30                      │                              │
-│ grandppltedx        │ Samsung            │ SM-G532G                                 │ PHYSICAL │  540 x 960  │ 23                      │                              │
+│ grandppltedx        │ Samsung            │ SM-G532G                                 │ PHYSICAL │  540 x 960  │ 23                      │ deprecated=23                │
 │ griffin             │ Motorola           │ XT1650                                   │ PHYSICAL │ 1440 x 2560 │ 24                      │                              │
 │ gts3lltevzw         │ Samsung            │ SM-T827V                                 │ PHYSICAL │ 1536 x 2048 │ 28                      │                              │
 │ hammerhead          │ LG                 │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                      │                              │
