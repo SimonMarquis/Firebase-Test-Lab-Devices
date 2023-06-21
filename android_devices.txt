@@ -53,6 +53,7 @@
 │ redfin              │ Google             │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                      │ default                      │
 │ sailfish            │ Google             │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                      │                              │
 │ starqlteue          │ Samsung            │ SM-G960U1                                │ PHYSICAL │ 1080 x 2220 │ 26                      │                              │
+│ tangorpro           │ Google             │ Pixel Tablet                             │ PHYSICAL │ 2560 x 1600 │ 33                      │                              │
 │ walleye             │ Google             │ Pixel 2                                  │ PHYSICAL │ 1920 x 1080 │ 27                      │ deprecated=27                │
 │ x1q                 │ Samsung            │ SM-G981U1                                │ PHYSICAL │ 3200 x 1440 │ 29                      │                              │
 └─────────────────────┴────────────────────┴──────────────────────────────────────────┴──────────┴─────────────┴─────────────────────────┴──────────────────────────────┘
