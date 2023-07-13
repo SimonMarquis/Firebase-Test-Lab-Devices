@@ -34,6 +34,7 @@
 │ SmallPhone.arm      │ Generic            │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33 │ preview=33, beta │
 │ TC77                │ Zebra Technologies │ TC77                                     │ PHYSICAL │ 1280 x 720  │ 27                      │                  │
 │ a10                 │ Samsung            │ SM-A105FN                                │ PHYSICAL │  720 x 1520 │ 29                      │                  │
+│ a51                 │ Samsung            │ SM-A515U                                 │ PHYSICAL │ 2400 x 1080 │ 31                      │                  │
 │ b0q                 │ Samsung            │ SM-S908U1                                │ PHYSICAL │ 3088 x 1440 │ 33                      │                  │
 │ bluejay             │ Google             │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                      │                  │
 │ blueline            │ Google             │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                      │                  │
