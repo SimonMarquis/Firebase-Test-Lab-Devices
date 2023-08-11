@@ -47,6 +47,7 @@
 │ harpia              │ Motorola           │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                      │                  │
 │ java                │ Motorola           │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                      │                  │
 │ lv0                 │ LG                 │ LG-AS110                                 │ PHYSICAL │  854 x 480  │ 23                      │                  │
+│ lynx                │ Google             │ Pixel 7a                                 │ PHYSICAL │ 2400 x 1080 │ 33                      │                  │
 │ oriole              │ Google             │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 31,32,33                │                  │
 │ panther             │ Google             │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                      │                  │
 │ pettyl              │ Motorola           │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                      │                  │
