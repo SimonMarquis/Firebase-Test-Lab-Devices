@@ -31,6 +31,7 @@
 │ a10                 │ Samsung            │ SM-A105FN                                │ PHYSICAL │  720 x 1520 │ 29                      │                  │
 │ a51                 │ Samsung            │ SM-A515U                                 │ PHYSICAL │ 2400 x 1080 │ 31                      │                  │
 │ b0q                 │ Samsung            │ SM-S908U1                                │ PHYSICAL │ 3088 x 1440 │ 33                      │                  │
+│ b4q                 │ Samsung            │ SM-F721B                                 │ PHYSICAL │ 2640 x 1080 │ 33                      │                  │
 │ bluejay             │ Google             │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                      │                  │
 │ blueline            │ Google             │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                      │                  │
 │ cactus              │ Xiaomi             │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                      │                  │
