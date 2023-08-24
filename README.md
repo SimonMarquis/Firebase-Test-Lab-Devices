@@ -11,7 +11,6 @@
 │ AndroidTablet270dpi │ Generic            │ Generic 720x1600 Android tablet @ 270dpi │ VIRTUAL  │ 1600 x 720  │ 30                      │                  │
 │ F01L                │ FUJITSU            │ F-01L                                    │ PHYSICAL │ 1280 x 720  │ 27                      │                  │
 │ FRT                 │ HMD Global         │ Nokia 1                                  │ PHYSICAL │  854 x 480  │ 27                      │                  │
-│ G8142               │ Sony               │ G8142                                    │ PHYSICAL │ 1080 x 1920 │ 25                      │ deprecated=25    │
 │ GoogleTvEmulator    │ Google             │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                      │ beta=30          │
 │ HWCOR               │ Huawei             │ COR-L29                                  │ PHYSICAL │ 1080 x 2340 │ 27                      │                  │
 │ HWMHA               │ Huawei             │ MHA-L29                                  │ PHYSICAL │ 1920 x 1080 │ 24                      │                  │
@@ -70,15 +69,15 @@
 ## iOS
 
 ```
-┌─────────────┬───────────────────────┬────────────────┬─────────┐
-│   MODEL_ID  │          NAME         │ OS_VERSION_IDS │   TAGS  │
-├─────────────┼───────────────────────┼────────────────┼─────────┤
-│ ipad5       │ iPad (5th generation) │ 15.4           │         │
-│ ipadmini4   │ iPad mini 4           │ 15.4           │         │
-│ iphone11pro │ iPhone 11 Pro         │ 14.7,16.5      │         │
-│ iphone12pro │ iPhone 12 Pro         │ 14.8           │         │
-│ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7      │ default │
-│ iphone14pro │ iPhone 14 Pro         │ 16.5           │         │
-│ iphone8     │ iPhone 8              │ 14.7,15.7,16.5 │         │
-└─────────────┴───────────────────────┴────────────────┴─────────┘
+┌─────────────┬───────────────────────┬─────────────────────┬─────────────────┐
+│   MODEL_ID  │          NAME         │    OS_VERSION_IDS   │       TAGS      │
+├─────────────┼───────────────────────┼─────────────────────┼─────────────────┤
+│ ipad5       │ iPad (5th generation) │ 15.4                │                 │
+│ ipadmini4   │ iPad mini 4           │ 15.4                │                 │
+│ iphone11pro │ iPhone 11 Pro         │ 14.7,16.5,16.6      │ deprecated=16.5 │
+│ iphone12pro │ iPhone 12 Pro         │ 14.8                │                 │
+│ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7           │ default         │
+│ iphone14pro │ iPhone 14 Pro         │ 16.5                │                 │
+│ iphone8     │ iPhone 8              │ 14.7,15.7,16.5,16.6 │ deprecated=16.5 │
+└─────────────┴───────────────────────┴─────────────────────┴─────────────────┘
 ```
