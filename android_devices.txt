@@ -58,5 +58,6 @@
 │ sailfish            │ Google             │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                      │                      │
 │ starqlteue          │ Samsung            │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 26                      │ reduced_stability=26 │
 │ tangorpro           │ Google             │ Pixel Tablet                             │ PHYSICAL │ 2560 x 1600 │ 33                      │                      │
+│ vivo_1906           │ vivo               │ vivo 1906                                │ PHYSICAL │ 1544 x 720  │ 28                      │                      │
 │ x1q                 │ Samsung            │ Galaxy S20                               │ PHYSICAL │ 3200 x 1440 │ 29                      │                      │
 └─────────────────────┴────────────────────┴──────────────────────────────────────────┴──────────┴─────────────┴─────────────────────────┴──────────────────────┘

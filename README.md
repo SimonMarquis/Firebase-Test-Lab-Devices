@@ -63,6 +63,7 @@
 │ sailfish            │ Google             │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                      │                      │
 │ starqlteue          │ Samsung            │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 26                      │ reduced_stability=26 │
 │ tangorpro           │ Google             │ Pixel Tablet                             │ PHYSICAL │ 2560 x 1600 │ 33                      │                      │
+│ vivo_1906           │ vivo               │ vivo 1906                                │ PHYSICAL │ 1544 x 720  │ 28                      │                      │
 │ x1q                 │ Samsung            │ Galaxy S20                               │ PHYSICAL │ 3200 x 1440 │ 29                      │                      │
 └─────────────────────┴────────────────────┴──────────────────────────────────────────┴──────────┴─────────────┴─────────────────────────┴──────────────────────┘
 ```
@@ -70,15 +71,15 @@
 ## iOS
 
 ```
-┌─────────────┬───────────────────────┬─────────────────────┬─────────────────────────────────┐
-│   MODEL_ID  │          NAME         │    OS_VERSION_IDS   │               TAGS              │
-├─────────────┼───────────────────────┼─────────────────────┼─────────────────────────────────┤
-│ ipad5       │ iPad (5th generation) │ 15.4                │ reduced_stability=15.4          │
-│ ipadmini4   │ iPad mini 4           │ 15.4                │                                 │
-│ iphone11pro │ iPhone 11 Pro         │ 14.7,16.5,16.6      │ deprecated=16.5                 │
-│ iphone12pro │ iPhone 12 Pro         │ 14.8                │                                 │
-│ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7           │ reduced_stability=15.2, default │
-│ iphone14pro │ iPhone 14 Pro         │ 16.5,16.6           │ deprecated=16.5                 │
-│ iphone8     │ iPhone 8              │ 14.7,15.7,16.5,16.6 │ deprecated=16.5                 │
-└─────────────┴───────────────────────┴─────────────────────┴─────────────────────────────────┘
+┌─────────────┬───────────────────────┬────────────────┬─────────────────────────────────┐
+│   MODEL_ID  │          NAME         │ OS_VERSION_IDS │               TAGS              │
+├─────────────┼───────────────────────┼────────────────┼─────────────────────────────────┤
+│ ipad5       │ iPad (5th generation) │ 15.4           │ reduced_stability=15.4          │
+│ ipadmini4   │ iPad mini 4           │ 15.4           │                                 │
+│ iphone11pro │ iPhone 11 Pro         │ 14.7,16.6      │                                 │
+│ iphone12pro │ iPhone 12 Pro         │ 14.8           │                                 │
+│ iphone13pro │ iPhone 13 Pro         │ 15.2,15.7      │ reduced_stability=15.2, default │
+│ iphone14pro │ iPhone 14 Pro         │ 16.6           │                                 │
+│ iphone8     │ iPhone 8              │ 14.7,15.7,16.6 │                                 │
+└─────────────┴───────────────────────┴────────────────┴─────────────────────────────────┘
 ```
