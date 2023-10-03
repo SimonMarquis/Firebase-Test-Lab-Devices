@@ -42,6 +42,7 @@
 │ cactus              │ Xiaomi             │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                      │                      │
 │ cheetah             │ Google             │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                      │                      │
 │ crownqlteue         │ Samsung            │ Galaxy Note9                             │ PHYSICAL │ 1080 x 2220 │ 29                      │                      │
+│ dm3q                │ Samsung            │ SM-S918U1                                │ PHYSICAL │ 3088 x 1440 │ 33                      │                      │
 │ dreamlte            │ Samsung            │ Galaxy S8                                │ PHYSICAL │ 1080 x 2220 │ 28                      │                      │
 │ f2q                 │ Samsung            │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                      │                      │
 │ felix               │ Google             │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 33                      │                      │
