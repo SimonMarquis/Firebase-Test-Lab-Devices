@@ -30,6 +30,7 @@
 │ SH-01L              │ SHARP              │ AQUOS sense2 SH-01L                      │ PHYSICAL │ 2160 x 1080 │ 28                         │ reduced_stability=28 │
 │ SmallPhone.arm      │ Generic            │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34 │ preview=34           │
 │ TC77                │ Zebra Technologies │ TC77                                     │ PHYSICAL │ 1280 x 720  │ 27                         │ deprecated=27        │
+│ a02q                │ Samsung            │ SM-A025F                                 │ PHYSICAL │ 1600 x 720  │ 31                         │                      │
 │ a10                 │ Samsung            │ Galaxy A10                               │ PHYSICAL │  720 x 1520 │ 29                         │                      │
 │ a51                 │ Samsung            │ Galaxy A51                               │ PHYSICAL │ 2400 x 1080 │ 31                         │                      │
 │ b0q                 │ Samsung            │ Galaxy S22 Ultra                         │ PHYSICAL │ 3088 x 1440 │ 33                         │                      │
