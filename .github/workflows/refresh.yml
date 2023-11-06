@@ -18,9 +18,13 @@ jobs:
       - name: Set up Cloud SDK
         uses: google-github-actions/setup-gcloud@v1
       - name: List Android devices
-        run: gcloud firebase test android models list > android_devices.txt
+        run: |
+          gcloud firebase test android models list > android_devices.txt
+          gcloud firebase test android models list --format=json > android_devices.json
       - name: List iOS devices
-        run: gcloud firebase test ios models list > ios_devices.txt
+        run: |
+          gcloud firebase test ios models list > ios_devices.txt
+          gcloud firebase test ios models list --format=json > ios_devices.json
       - name: Update README.md
         run: |
           echo '# Firebase Test Lab Devices [![🔃 Refresh](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml/badge.svg)](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml)' > README.md
@@ -38,17 +42,17 @@ jobs:
           echo '```'              >> README.md
       - name: Commit changes
         run: |
-          if ! git diff --quiet --exit-code -- README.md android_devices.txt ios_devices.txt;
+          if ! git diff --quiet --exit-code -- README.md android_devices.txt android_devices.json ios_devices.txt ios_devices.json;
           then
             git config --global user.name "Simon Marquis"
             git config --global user.email "SimonMarquis@users.noreply.github.com"
             ( \
-              echo -e "🔃$(git diff --shortstat android_devices.txt ios_devices.txt)\n" ; \
+              echo -e "🔃$(git diff --shortstat android_devices.json ios_devices.json)\n" ; \
               echo -e "\`\`\`diff" ; \
-              git diff --unified=0 -- android_devices.txt | tail -n +5 ; \
-              git diff --unified=0 -- ios_devices.txt | tail -n +5 ; \
+              git diff --unified=0 -- android_devices.json | tail -n +5 ; \
+              git diff --unified=0 -- ios_devices.json | tail -n +5 ; \
               echo -e "\`\`\`" ; \
-            ) | git commit README.md android_devices.txt ios_devices.txt --file -
+            ) | git commit README.md android_devices.txt android_devices.json ios_devices.txt ios_devices.json --file -
             git push
             echo "::notice::UPDATED"
           else
