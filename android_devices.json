@@ -155,7 +155,7 @@
     "name": "Honor Play",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "versionId": "27"
       }
     ],
@@ -1416,7 +1416,7 @@
     "name": "K3 2017",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "versionId": "23"
       }
     ],
@@ -1445,7 +1445,7 @@
     "name": "Pixel 7a",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
