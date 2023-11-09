@@ -1445,7 +1445,7 @@
     "name": "Pixel 7a",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
