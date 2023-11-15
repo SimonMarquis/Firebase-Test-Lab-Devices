@@ -26,6 +26,7 @@
 │ Nexus7_clone_16_9   │ Generic    │ Nexus7 clone, DVD 16:9 aspect ratio      │ VIRTUAL  │ 1280 x 720  │ 23,24,25,26                │ beta                 │
 │ Nexus9              │ HTC        │ Nexus 9                                  │ VIRTUAL  │ 2048 x 1536 │ 21,22,23,24,25             │                      │
 │ NexusLowRes         │ Generic    │ Low-resolution MDPI phone                │ VIRTUAL  │  640 x 360  │ 23,24,25,26,27,28,29,30    │                      │
+│ OP515BL1            │ OnePlus    │ DN2103                                   │ PHYSICAL │ 2400 x 1080 │ 33                         │                      │
 │ OnePlus9Pro         │ OnePlus    │ LE2121                                   │ PHYSICAL │ 2412 x 1080 │ 33                         │                      │
 │ PD1901              │ vivo       │ VIVO 1901                                │ PHYSICAL │ 1544 x 720  │ 28                         │                      │
 │ Pixel2              │ Google     │ Pixel 2                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30             │                      │

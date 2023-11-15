@@ -526,6 +526,33 @@
   },
   {
     "brand": "OnePlus",
+    "codename": "OP515BL1",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "OP515BL1",
+    "manufacturer": "OnePlus",
+    "name": "DN2103",
+    "perVersionInfo": [
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
+        "versionId": "33"
+      }
+    ],
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/z7DxYtXbyAi2a93dM3MI9oxTbdLfZZKMXqSBtcM0xUYKjCTnFAZJ3AlsDtYtw_jkT5pnQLnFaF-4"
+  },
+  {
+    "brand": "OnePlus",
     "codename": "OnePlus9Pro",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -847,7 +874,7 @@
     "supportedVersionIds": [
       "31"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/YVsOkZwxfWVM9oYjSAPi_oIohbnLPaPlRWesd2UQ5LNF6mGf__eLCy3uXPKeI2HxcX7Oe-7gYDTC"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/FAIgei5ReUz8teqFlG_QaRcQPZWNy7a8S2aK8WpKYW5NYoPIkDBCR_osWXwGznTA3ILe1yZagsxa"
   },
   {
     "brand": "samsung",
