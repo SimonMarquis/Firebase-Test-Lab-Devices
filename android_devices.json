@@ -94,9 +94,6 @@
     "supportedVersionIds": [
       "27"
     ],
-    "tags": [
-      "reduced_stability=27"
-    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/42SDlSVVJ2jXKlHp4P4iHDP4Alsrc4FIF5gW2N5t8RkEFcUVNgd_47K1qUilHdvPd86R9XCxXq1n"
   },
   {
@@ -372,6 +369,9 @@
       "23",
       "24",
       "25"
+    ],
+    "tags": [
+      "reduced_stability=21"
     ]
   },
   {
@@ -732,9 +732,6 @@
     ],
     "supportedVersionIds": [
       "28"
-    ],
-    "tags": [
-      "reduced_stability=28"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/IzqBfPK4K340vsj6RNw_FArIfGujmOO0ZuDDEH7Ex6bY-CjcM62abnNYzjsPOyLnnC5TC8bOS3c"
   },
@@ -1289,9 +1286,6 @@
     "supportedVersionIds": [
       "28"
     ],
-    "tags": [
-      "besteffort=28"
-    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/Ei1LFgQvf4Yj3wDCKdnge1mlusicePcwVnsSFqFcTtbJUecMZAEy_cjfLTKNwXDxs1lZJtgto-HVaw"
   },
   {
@@ -1457,9 +1451,6 @@
     "supportedVersionIds": [
       "23"
     ],
-    "tags": [
-      "reduced_stability=23"
-    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/7g_xh8i3kF7oHMjStyLLfI3cyXScJUO47YUUZHS9nw6EPYjebUKHUtPoynSqk8KE-H4SzxgqZpN9"
   },
   {
@@ -1617,9 +1608,6 @@
       "30",
       "31"
     ],
-    "tags": [
-      "besteffort=31"
-    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/-0T0LkEXHA5PjXvo6N3qtYtMjTse08ljvS-eHLMRehgjaveNVtBwcVXvj4mYB4dUEkq7bTHgEL0d"
   },
   {
@@ -1763,9 +1751,6 @@
     ],
     "supportedVersionIds": [
       "26"
-    ],
-    "tags": [
-      "reduced_stability=26"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/xD06N1P46ZHuvYUnWkZBd5Alqr5pkkbreynLQ29yRO4-YFE3yDqix9MFUy-9rC0aLmSOb9UJOeI7"
   },

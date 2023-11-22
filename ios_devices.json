@@ -37,6 +37,9 @@
     "screenY": 2360,
     "supportedVersionIds": [
       "16.6"
+    ],
+    "tags": [
+      "reduced_stability=16.6"
     ]
   },
   {
@@ -77,9 +80,6 @@
     "screenY": 2048,
     "supportedVersionIds": [
       "15.4"
-    ],
-    "tags": [
-      "reduced_stability=15.4"
     ]
   },
   {
@@ -119,6 +119,9 @@
     "screenY": 2048,
     "supportedVersionIds": [
       "15.4"
+    ],
+    "tags": [
+      "reduced_stability=15.4"
     ]
   },
   {
@@ -216,6 +219,9 @@
     "screenY": 2532,
     "supportedVersionIds": [
       "14.8"
+    ],
+    "tags": [
+      "reduced_stability=14.8"
     ]
   },
   {
@@ -269,7 +275,6 @@
       "15.7"
     ],
     "tags": [
-      "reduced_stability=15.2",
       "default"
     ]
   },
