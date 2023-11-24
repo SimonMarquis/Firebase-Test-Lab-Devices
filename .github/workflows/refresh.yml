@@ -48,10 +48,6 @@ jobs:
             git config --global user.email "SimonMarquis@users.noreply.github.com"
             ( \
               echo -e "🔃$(git diff --shortstat android_devices.json ios_devices.json)\n" ; \
-              echo -e "\`\`\`diff" ; \
-              git diff --unified=0 -- android_devices.json | tail -n +5 ; \
-              git diff --unified=0 -- ios_devices.json | tail -n +5 ; \
-              echo -e "\`\`\`" ; \
             ) | git commit README.md android_devices.txt android_devices.json ios_devices.txt ios_devices.json --file -
             git push
             echo "::notice::UPDATED"
