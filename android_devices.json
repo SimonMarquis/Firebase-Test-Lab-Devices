@@ -736,6 +736,33 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/IzqBfPK4K340vsj6RNw_FArIfGujmOO0ZuDDEH7Ex6bY-CjcM62abnNYzjsPOyLnnC5TC8bOS3c"
   },
   {
+    "brand": "docomo",
+    "codename": "SO-41A",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "SO-41A",
+    "manufacturer": "Sony",
+    "name": "SO-41A",
+    "perVersionInfo": [
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "versionId": "31"
+      }
+    ],
+    "screenDensity": 457,
+    "screenX": 2520,
+    "screenY": 1080,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/ky2ZeZwXHjZ-gBXSZA4N5k2hrP1HlmjId6eEGoouUAty4cyAPzHWdfDKfN1yZvxHldDpehYX5dWd"
+  },
+  {
     "brand": "Android",
     "codename": "SmallPhone.arm",
     "form": "VIRTUAL",
@@ -1726,6 +1753,33 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y3CK3aSh9wV7Dmrti0ogN_C0r5j1M5-Vmdu_-trvcCF-BQDJsUxKQcRuxx05H1a0CvteCOL9umU"
+  },
+  {
+    "brand": "samsung",
+    "codename": "starlte",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "starlte",
+    "manufacturer": "Samsung",
+    "name": "SM-G960F",
+    "perVersionInfo": [
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "versionId": "29"
+      }
+    ],
+    "screenDensity": 480,
+    "screenX": 2220,
+    "screenY": 1080,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "29"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/A83BEHrC0i7dyg1H2_ynJDC89dX3zV01HTVlpQBpvCSlI_GFQaKLLLOcNec0hnVmgYMixstcP4gt"
   },
   {
     "brand": "samsung",
