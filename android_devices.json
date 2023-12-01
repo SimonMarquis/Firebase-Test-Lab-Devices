@@ -1286,6 +1286,9 @@
     "supportedVersionIds": [
       "24"
     ],
+    "tags": [
+      "besteffort=24"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/LiBYTSr3xQ7VHF62fDVPs3JgQ8d_F441YWuuWAbWYkiH7FRy_wyko-DyfsHV2kc8erE1uv4s9t9V"
   },
   {
@@ -1312,6 +1315,9 @@
     ],
     "supportedVersionIds": [
       "28"
+    ],
+    "tags": [
+      "besteffort=28"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/Ei1LFgQvf4Yj3wDCKdnge1mlusicePcwVnsSFqFcTtbJUecMZAEy_cjfLTKNwXDxs1lZJtgto-HVaw"
   },
@@ -1393,6 +1399,9 @@
     ],
     "supportedVersionIds": [
       "23"
+    ],
+    "tags": [
+      "besteffort=23"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/aKod2b8C3siC0gmFd476ckJ3akKySdQgpJgpUMfNcKJWHWhr9B_r8BuQezNk8cmIx_WGeGUC6xrHbg"
   },
@@ -1519,18 +1528,18 @@
     "perVersionInfo": [
       {
         "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "versionId": "31"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
         "versionId": "32"
       },
       {
         "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "33"
+      },
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
+        "directAccessVersionInfo": {
+          "directAccessSupported": true
+        },
+        "versionId": "31"
       }
     ],
     "screenDensity": 420,
@@ -1613,14 +1622,14 @@
     "perVersionInfo": [
       {
         "deviceCapacity": "DEVICE_CAPACITY_LOW",
+        "versionId": "30"
+      },
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
         "versionId": "31"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "30"
       }
     ],
     "screenDensity": 420,
@@ -1634,6 +1643,9 @@
     "supportedVersionIds": [
       "30",
       "31"
+    ],
+    "tags": [
+      "besteffort=31"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/-0T0LkEXHA5PjXvo6N3qtYtMjTse08ljvS-eHLMRehgjaveNVtBwcVXvj4mYB4dUEkq7bTHgEL0d"
   },
