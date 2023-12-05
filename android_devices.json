@@ -819,6 +819,33 @@
   },
   {
     "brand": "samsung",
+    "codename": "a03s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a03s",
+    "manufacturer": "Samsung",
+    "name": "SM-A037G",
+    "perVersionInfo": [
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "versionId": "33"
+      }
+    ],
+    "screenDensity": 300,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/ePMevY-LazGFEOm4X5dx1ZWJtJoaQbtiIKafE8l9N8mMrmLw_utoIZ8DKPLW-09X9VC0oP3uXYc0-g"
+  },
+  {
+    "brand": "samsung",
     "codename": "a10",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -928,7 +955,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/uUcnszVlCOjsBx5mSxp7QJNIzKhZXRC2gTFdk6N0TJnwKIyT3u-1PJBr4JAiJVlYo1HdiFhxHfw"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/-jYAkTPmoRKVJi5OXU41fNyhUmqQSFBmrrqAYcLkqmzR2B_99HbY0xWJtCaIm5KEtetS_H0qty0"
   },
   {
     "brand": "samsung",

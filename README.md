@@ -37,6 +37,7 @@
 │ SO-41A              │ Sony       │ SO-41A                                   │ PHYSICAL │ 1080 x 2520 │ 31                         │                      │
 │ SmallPhone.arm      │ Generic    │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34 │ preview=34           │
 │ a02q                │ Samsung    │ SM-A025F                                 │ PHYSICAL │ 1600 x 720  │ 31                         │                      │
+│ a03s                │ Samsung    │ SM-A037G                                 │ PHYSICAL │ 1600 x 720  │ 33                         │                      │
 │ a10                 │ Samsung    │ Galaxy A10                               │ PHYSICAL │  720 x 1520 │ 29                         │                      │
 │ a12                 │ Samsung    │ SM-A125F                                 │ PHYSICAL │ 1600 x 720  │ 31                         │                      │
 │ a51                 │ Samsung    │ Galaxy A51                               │ PHYSICAL │ 2400 x 1080 │ 31                         │                      │
