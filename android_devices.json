@@ -534,7 +534,7 @@
     "name": "DN2103",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "versionId": "33"
       }
     ],
