@@ -1077,7 +1077,7 @@
     "name": "Pixel 7 Pro",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "33"
       }
     ],
@@ -1387,7 +1387,7 @@
     "name": "Nexus 5",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "23"
       }
     ],
