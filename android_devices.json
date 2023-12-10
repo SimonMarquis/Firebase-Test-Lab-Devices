@@ -152,7 +152,7 @@
     "name": "Honor Play",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "27"
       }
     ],
