@@ -1243,6 +1243,10 @@
     "name": "Pixel Fold",
     "perVersionInfo": [
       {
+        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
+        "versionId": "34"
+      },
+      {
         "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "directAccessVersionInfo": {
           "directAccessSupported": true
@@ -1257,6 +1261,7 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
+      "34",
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/PQzlGq9efYSc-AM6uGVUGsqw9J9SdZVxEVVaLjqLsQP0qqfA3zdoKCptbf-1YvShTlZ83AQpPMc9RQ"

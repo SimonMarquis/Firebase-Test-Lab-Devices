@@ -47,7 +47,7 @@
 │ dm3q                │ Samsung    │ SM-S918U1                                │ PHYSICAL │ 3088 x 1440 │ 33                         │                      │
 │ dreamlte            │ Samsung    │ Galaxy S8                                │ PHYSICAL │ 1080 x 2220 │ 28                         │                      │
 │ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                      │
-│ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 33                         │                      │
+│ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                      │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                      │
 │ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │ besteffort=24        │
 │ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │ besteffort=28        │
