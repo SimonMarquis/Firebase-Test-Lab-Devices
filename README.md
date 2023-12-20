@@ -54,11 +54,11 @@
 │ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                      │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                      │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                      │
-│ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │ besteffort=24        │
-│ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │ besteffort=28        │
+│ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │                      │
+│ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │                      │
 │ gts8uwifi           │ Samsung    │ Galaxy Tab S8 Ultra                      │ PHYSICAL │ 2960 x 1848 │ 33                         │                      │
 │ hammerhead          │ LG         │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                         │                      │
-│ harpia              │ Motorola   │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                         │ besteffort=23        │
+│ harpia              │ Motorola   │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                         │                      │
 │ husky               │ Google     │ Pixel 8 Pro                              │ PHYSICAL │ 2244 x 1008 │ 34                         │                      │
 │ java                │ Motorola   │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                         │                      │
 │ lv0                 │ LG         │ K3 2017                                  │ PHYSICAL │  854 x 480  │ 23                         │                      │
@@ -66,7 +66,7 @@
 │ oriole              │ Google     │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 32,33,31                   │                      │
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                         │                      │
 │ pettyl              │ Motorola   │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                         │                      │
-│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30,31                      │ besteffort=31        │
+│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30,31                      │                      │
 │ r11                 │ Google     │ Google Pixel Watch                       │ PHYSICAL │  384 x 384  │ 30                         │                      │
 │ redfin              │ Google     │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                         │ default              │
 │ sailfish            │ Google     │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                         │                      │
