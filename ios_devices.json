@@ -263,7 +263,7 @@
         "versionId": "15.2"
       },
       {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "versionId": "15.7"
       }
     ],
