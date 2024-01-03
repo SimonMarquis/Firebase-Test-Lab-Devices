@@ -14,6 +14,7 @@
 │ GoogleTvEmulator    │ Google     │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                         │ beta=30              │
 │ HWCOR               │ Huawei     │ Honor Play                               │ PHYSICAL │ 1080 x 2340 │ 27                         │                      │
 │ HWMHA               │ Huawei     │ Mate 9                                   │ PHYSICAL │ 1920 x 1080 │ 24                         │                      │
+│ J606F               │ Lenovo     │ Lenovo TB-J606F                          │ PHYSICAL │ 2000 x 1200 │ 30                         │                      │
 │ MediumPhone.arm     │ Generic    │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34 │ preview=34           │
 │ MediumTablet.arm    │ Generic    │ Medium Tablet, 10in/25cm (Arm)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34 │ preview=34           │
 │ Nexus10             │ Samsung    │ Nexus 10                                 │ VIRTUAL  │ 2560 x 1600 │ 21,22                      │                      │

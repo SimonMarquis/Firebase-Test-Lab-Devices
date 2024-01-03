@@ -197,6 +197,33 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/kWhwyvrchgAaa_hbhAH2uq1Wj_sPy6Jc98_Cs6Ju9K29NPH6tPnUk0SLfAbTmh1Zle-Vh4ibbUs"
   },
   {
+    "brand": "Lenovo",
+    "codename": "J606F",
+    "form": "PHYSICAL",
+    "formFactor": "TABLET",
+    "id": "J606F",
+    "manufacturer": "Lenovo",
+    "name": "Lenovo TB-J606F",
+    "perVersionInfo": [
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "versionId": "30"
+      }
+    ],
+    "screenDensity": 240,
+    "screenX": 1200,
+    "screenY": 2000,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "30"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/3_CuQyIpFznYSZmuuzfG8EF_qT-6DDLN2VXZE5FTg4BZcES3v0poFWPYhbSZGlkxzUIwfC8mqc9B"
+  },
+  {
     "brand": "Google",
     "codename": "MediumPhone.arm",
     "form": "VIRTUAL",
