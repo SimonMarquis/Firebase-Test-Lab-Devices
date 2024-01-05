@@ -1427,6 +1427,9 @@
     "supportedVersionIds": [
       "23"
     ],
+    "tags": [
+      "deprecated=23"
+    ],
     "thumbnailUrl": "https://lh5.ggpht.com/qxU0oYP3cwwYZMG_xkfwOQE2yVzFIbKaE1xxkBtA9UBncP6XyItLc85-cTLtFA_lZNHmMH7Pxdo"
   },
   {
@@ -1645,7 +1648,7 @@
     "name": "moto e5 play",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "versionId": "27"
       }
     ],

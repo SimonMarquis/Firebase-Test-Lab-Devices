@@ -58,7 +58,7 @@
 │ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │                      │
 │ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │                      │
 │ gts8uwifi           │ Samsung    │ Galaxy Tab S8 Ultra                      │ PHYSICAL │ 2960 x 1848 │ 33                         │                      │
-│ hammerhead          │ LG         │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                         │                      │
+│ hammerhead          │ LG         │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                         │ deprecated=23        │
 │ harpia              │ Motorola   │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                         │                      │
 │ husky               │ Google     │ Pixel 8 Pro                              │ PHYSICAL │ 2244 x 1008 │ 34                         │                      │
 │ java                │ Motorola   │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                         │                      │
