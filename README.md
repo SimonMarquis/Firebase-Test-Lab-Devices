@@ -68,6 +68,7 @@
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                         │                      │
 │ pettyl              │ Motorola   │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                         │                      │
 │ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30,31                      │                      │
+│ q4q                 │ Samsung    │ SM-F936U1                                │ PHYSICAL │ 2176 x 1812 │ 33                         │                      │
 │ r11                 │ Google     │ Google Pixel Watch                       │ PHYSICAL │  384 x 384  │ 30                         │                      │
 │ redfin              │ Google     │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                         │ default              │
 │ sailfish            │ Google     │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                         │                      │

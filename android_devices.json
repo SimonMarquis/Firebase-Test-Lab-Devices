@@ -1700,6 +1700,33 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/-0T0LkEXHA5PjXvo6N3qtYtMjTse08ljvS-eHLMRehgjaveNVtBwcVXvj4mYB4dUEkq7bTHgEL0d"
   },
   {
+    "brand": "samsung",
+    "codename": "q4q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q4q",
+    "manufacturer": "Samsung",
+    "name": "SM-F936U1",
+    "perVersionInfo": [
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "versionId": "33"
+      }
+    ],
+    "screenDensity": 420,
+    "screenX": 1812,
+    "screenY": 2176,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/8BDneZ1dS-xCNoYu_atRyzdLxM3_17DGuoOnJZo6PywJCoIpxcyBUnLBC-q-m4BVjR8uzVHLYY_CAw"
+  },
+  {
     "brand": "google",
     "codename": "r11",
     "form": "PHYSICAL",
