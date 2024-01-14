@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/iron
+      - run: npm install --global json-diff
       - id: auth
         uses: google-github-actions/auth@v2
         with:
@@ -46,8 +50,20 @@ jobs:
           then
             git config --global user.name "Simon Marquis"
             git config --global user.email "SimonMarquis@users.noreply.github.com"
-            ( \
-              echo -e "🔃$(git diff --shortstat android_devices.json ios_devices.json)\n" ; \
+            (
+              echo -e "🔃$(git diff --shortstat android_devices.json ios_devices.json)\n\n"
+
+              if ! git diff --quiet --exit-code -- android_devices.json;
+              then
+                git show HEAD:android_devices.json > ${{ runner.temp }}/android_devices.json
+                json-diff ${{ runner.temp }}/android_devices.json android_devices.json --max-elisions=0 --output-keys=id,name
+              fi
+
+              if ! git diff --quiet --exit-code -- ios_devices.json;
+              then
+                git show HEAD:ios_devices.json > ${{ runner.temp }}/ios_devices.json
+                json-diff ${{ runner.temp }}/ios_devices.json ios_devices.json --max-elisions=0 --output-keys=id,name
+              fi
             ) | git commit README.md android_devices.txt android_devices.json ios_devices.txt ios_devices.json --file -
             git push
             echo "::notice::UPDATED"
