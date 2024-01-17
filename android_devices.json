@@ -1709,7 +1709,7 @@
     "name": "SM-F936U1",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
         "versionId": "33"
       }
     ],
