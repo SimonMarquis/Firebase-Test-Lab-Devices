@@ -1051,7 +1051,7 @@
     "name": "Pixel 3",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "versionId": "28"
       }
     ],
