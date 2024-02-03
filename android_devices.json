@@ -106,7 +106,7 @@
     "name": "Nokia 1",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "27"
       }
     ],
@@ -166,6 +166,9 @@
     ],
     "supportedVersionIds": [
       "27"
+    ],
+    "tags": [
+      "deprecated=27"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/U8VkhxAM2xAOXTTqi1Zt4v_r4_1FQmTKCcqKG-uwFvoJarYuFVj-pb37RKOKgtKvlhC_n2ATgHKQ"
   },
@@ -637,7 +640,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/cnuw3ssy4HeuXGit94oKXoZ3a-w1k1y6aPATG_mtn3rH0L_IYnmS4gI6GPTZ5RrhK4ph1DgXigth"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/KR76UKTC7_r-cR0nU82QQw6GLd37TiMWYpRqpsdLRTQIwOYLw_ahBd8UZLam3uLCpZSaE2y5w5QYjg"
   },
   {
     "brand": "vivo",
