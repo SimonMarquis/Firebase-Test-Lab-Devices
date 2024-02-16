@@ -80,6 +80,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "27"
       }
     ],
@@ -783,6 +784,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "28"
       }
     ],
@@ -975,6 +977,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "31"
       }
     ],
@@ -1005,6 +1008,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "33"
       }
     ],
@@ -1062,6 +1066,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "32"
       }
     ],
@@ -1170,6 +1175,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "29"
       }
     ],
@@ -1315,6 +1321,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "33"
       }
     ],
@@ -1344,6 +1351,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "33"
       }
     ],
@@ -1425,6 +1433,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "33"
       }
     ],
@@ -1509,6 +1518,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "34"
       }
     ],
@@ -1537,6 +1547,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "30"
       }
     ],
@@ -1593,6 +1604,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "33"
       }
     ],
@@ -1629,6 +1641,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "31"
       }
     ],
@@ -1661,6 +1674,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "33"
       }
     ],
@@ -1719,6 +1733,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "31"
       }
     ],
@@ -1777,6 +1792,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "30"
       }
     ],
@@ -1806,6 +1822,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "30"
       }
     ],
@@ -1866,6 +1883,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "34"
       }
     ],
@@ -1948,6 +1966,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "33"
       }
     ],
@@ -2002,6 +2021,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "29"
       }
     ],
