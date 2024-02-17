@@ -1260,6 +1260,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "287s",
         "versionId": "28"
       }
     ],
