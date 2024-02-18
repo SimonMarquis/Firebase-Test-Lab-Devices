@@ -210,7 +210,7 @@
     "name": "Lenovo TB-J606F",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "30"
       }
     ],
@@ -1260,7 +1260,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "287s",
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "28"
       }
     ],
