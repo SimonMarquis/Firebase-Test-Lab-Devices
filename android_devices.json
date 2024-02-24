@@ -1171,7 +1171,7 @@
     "name": "Galaxy Note9",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
