@@ -2022,7 +2022,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "33s",
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "29"
       }
     ],
