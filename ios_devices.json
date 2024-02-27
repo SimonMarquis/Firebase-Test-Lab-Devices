@@ -359,7 +359,7 @@
     "name": "iPhone 8",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "14.7"
       },
       {
