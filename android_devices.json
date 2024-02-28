@@ -641,7 +641,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/KR76UKTC7_r-cR0nU82QQw6GLd37TiMWYpRqpsdLRTQIwOYLw_ahBd8UZLam3uLCpZSaE2y5w5QYjg"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/cnuw3ssy4HeuXGit94oKXoZ3a-w1k1y6aPATG_mtn3rH0L_IYnmS4gI6GPTZ5RrhK4ph1DgXigth"
   },
   {
     "brand": "vivo",
@@ -977,7 +977,6 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "31"
       }
     ],
@@ -1734,7 +1733,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "30s",
+        "interactiveDeviceAvailabilityEstimate": "930s",
         "versionId": "31"
       }
     ],
