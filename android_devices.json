@@ -753,7 +753,7 @@
     "name": "RMX3563",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "33"
       }
     ],
@@ -1230,6 +1230,10 @@
       {
         "deviceCapacity": "DEVICE_CAPACITY_HIGH",
         "versionId": "33"
+      },
+      {
+        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
+        "versionId": "34"
       }
     ],
     "screenDensity": 600,
@@ -1241,7 +1245,8 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "33"
+      "33",
+      "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/iXtm0Mdnx3jjtxdetuuE1zjb30lMdKKuBYPlf_kv0lIIRjjG3tyn9YCmEOaJ-wXBiGKlnLB0rN8"
   },
@@ -1259,7 +1264,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "30s",
+        "interactiveDeviceAvailabilityEstimate": "210s",
         "versionId": "28"
       }
     ],
@@ -1604,7 +1609,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "30s",
+        "interactiveDeviceAvailabilityEstimate": "120s",
         "versionId": "33"
       }
     ],
@@ -1733,7 +1738,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "930s",
+        "interactiveDeviceAvailabilityEstimate": "30s",
         "versionId": "31"
       }
     ],
