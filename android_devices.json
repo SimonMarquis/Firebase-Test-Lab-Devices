@@ -653,7 +653,7 @@
     "name": "VIVO 1901",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "28"
       }
     ],
@@ -977,7 +977,6 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "930s",
         "versionId": "31"
       }
     ],
