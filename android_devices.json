@@ -183,7 +183,7 @@
     "name": "Mate 9",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "24"
       }
     ],
@@ -599,7 +599,7 @@
     "name": "DN2103",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "33"
       }
     ],
@@ -641,7 +641,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/KR76UKTC7_r-cR0nU82QQw6GLd37TiMWYpRqpsdLRTQIwOYLw_ahBd8UZLam3uLCpZSaE2y5w5QYjg"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/cnuw3ssy4HeuXGit94oKXoZ3a-w1k1y6aPATG_mtn3rH0L_IYnmS4gI6GPTZ5RrhK4ph1DgXigth"
   },
   {
     "brand": "vivo",
@@ -867,7 +867,7 @@
     "name": "SM-A025F",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "versionId": "31"
       }
     ],
@@ -1228,7 +1228,7 @@
     "name": "SM-S918U1",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
+        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
         "versionId": "33"
       },
       {
