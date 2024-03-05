@@ -144,36 +144,6 @@
     ]
   },
   {
-    "brand": "HONOR",
-    "codename": "HWCOR",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "HWCOR",
-    "manufacturer": "Huawei",
-    "name": "Honor Play",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "27"
-      }
-    ],
-    "screenDensity": 480,
-    "screenX": 2340,
-    "screenY": 1080,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "27"
-    ],
-    "tags": [
-      "deprecated=27"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/U8VkhxAM2xAOXTTqi1Zt4v_r4_1FQmTKCcqKG-uwFvoJarYuFVj-pb37RKOKgtKvlhC_n2ATgHKQ"
-  },
-  {
     "brand": "HUAWEI",
     "codename": "HWMHA",
     "form": "PHYSICAL",
@@ -641,7 +611,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/KR76UKTC7_r-cR0nU82QQw6GLd37TiMWYpRqpsdLRTQIwOYLw_ahBd8UZLam3uLCpZSaE2y5w5QYjg"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/cnuw3ssy4HeuXGit94oKXoZ3a-w1k1y6aPATG_mtn3rH0L_IYnmS4gI6GPTZ5RrhK4ph1DgXigth"
   },
   {
     "brand": "vivo",
@@ -1062,7 +1032,7 @@
     "name": "Pixel 6a",
     "perVersionInfo": [
       {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
+        "deviceCapacity": "DEVICE_CAPACITY_LOW",
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
@@ -1265,7 +1235,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "30s",
+        "interactiveDeviceAvailabilityEstimate": "1830s",
         "versionId": "28"
       }
     ],
