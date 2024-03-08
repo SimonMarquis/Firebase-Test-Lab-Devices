@@ -947,6 +947,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
+        "interactiveDeviceAvailabilityEstimate": "930s",
         "versionId": "31"
       }
     ],
@@ -1234,7 +1235,7 @@
         "directAccessVersionInfo": {
           "directAccessSupported": true
         },
-        "interactiveDeviceAvailabilityEstimate": "930s",
+        "interactiveDeviceAvailabilityEstimate": "1830s",
         "versionId": "28"
       }
     ],
