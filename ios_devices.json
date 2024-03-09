@@ -80,6 +80,9 @@
     "screenY": 2048,
     "supportedVersionIds": [
       "15.4"
+    ],
+    "tags": [
+      "deprecated=15.4"
     ]
   },
   {
@@ -121,7 +124,7 @@
       "15.4"
     ],
     "tags": [
-      "reduced_stability=15.4"
+      "deprecated=15.4"
     ]
   },
   {
@@ -275,6 +278,7 @@
       "15.7"
     ],
     "tags": [
+      "deprecated=15.2",
       "default"
     ]
   },
