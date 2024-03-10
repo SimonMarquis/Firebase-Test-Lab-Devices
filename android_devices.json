@@ -7,12 +7,6 @@
     "id": "1610",
     "manufacturer": "Vivo",
     "name": "vivo 1610",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "23"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 720,
     "screenY": 1280,
@@ -74,16 +68,6 @@
     "id": "F01L",
     "manufacturer": "FUJITSU",
     "name": "F-01L",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "27"
-      }
-    ],
     "screenDensity": 360,
     "screenX": 720,
     "screenY": 1280,
@@ -105,12 +89,6 @@
     "id": "FRT",
     "manufacturer": "HMD Global",
     "name": "Nokia 1",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "27"
-      }
-    ],
     "screenDensity": 240,
     "screenX": 480,
     "screenY": 854,
@@ -151,12 +129,6 @@
     "id": "HWMHA",
     "manufacturer": "Huawei",
     "name": "Mate 9",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "24"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 1920,
@@ -178,12 +150,6 @@
     "id": "J606F",
     "manufacturer": "Lenovo",
     "name": "Lenovo TB-J606F",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "30"
-      }
-    ],
     "screenDensity": 240,
     "screenX": 1200,
     "screenY": 2000,
@@ -567,12 +533,6 @@
     "id": "OP515BL1",
     "manufacturer": "OnePlus",
     "name": "DN2103",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 2400,
@@ -594,12 +554,6 @@
     "id": "OnePlus9Pro",
     "manufacturer": "OnePlus",
     "name": "LE2121",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 2412,
@@ -621,12 +575,6 @@
     "id": "PD1901",
     "manufacturer": "vivo",
     "name": "VIVO 1901",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "28"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 720,
     "screenY": 1544,
@@ -721,12 +669,6 @@
     "id": "RED8BEL1",
     "manufacturer": "realme",
     "name": "RMX3563",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 2412,
@@ -748,16 +690,6 @@
     "id": "SH-01L",
     "manufacturer": "SHARP",
     "name": "AQUOS sense2 SH-01L",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "28"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 2160,
@@ -779,12 +711,6 @@
     "id": "SO-41A",
     "manufacturer": "Sony",
     "name": "SO-41A",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "31"
-      }
-    ],
     "screenDensity": 457,
     "screenX": 2520,
     "screenY": 1080,
@@ -835,12 +761,6 @@
     "id": "a02q",
     "manufacturer": "Samsung",
     "name": "SM-A025F",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "31"
-      }
-    ],
     "screenDensity": 280,
     "screenX": 720,
     "screenY": 1600,
@@ -861,12 +781,6 @@
     "id": "a03s",
     "manufacturer": "Samsung",
     "name": "SM-A037G",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 300,
     "screenX": 720,
     "screenY": 1600,
@@ -888,12 +802,6 @@
     "id": "a10",
     "manufacturer": "Samsung",
     "name": "Galaxy A10",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "29"
-      }
-    ],
     "screenDensity": 280,
     "screenX": 1520,
     "screenY": 720,
@@ -914,12 +822,6 @@
     "id": "a12",
     "manufacturer": "Samsung",
     "name": "SM-A125F",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "31"
-      }
-    ],
     "screenDensity": 300,
     "screenX": 720,
     "screenY": 1600,
@@ -941,16 +843,6 @@
     "id": "a51",
     "manufacturer": "Samsung",
     "name": "Galaxy A51",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "330s",
-        "versionId": "31"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1080,
     "screenY": 2400,
@@ -972,16 +864,6 @@
     "id": "b0q",
     "manufacturer": "Samsung",
     "name": "Galaxy S22 Ultra",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 600,
     "screenX": 1440,
     "screenY": 3088,
@@ -1003,12 +885,6 @@
     "id": "b4q",
     "manufacturer": "Samsung",
     "name": "Galaxy Z Flip4",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 2640,
@@ -1030,16 +906,6 @@
     "id": "bluejay",
     "manufacturer": "Google",
     "name": "Pixel 6a",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "32"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1080,
     "screenY": 2400,
@@ -1061,12 +927,6 @@
     "id": "blueline",
     "manufacturer": "Google",
     "name": "Pixel 3",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "28"
-      }
-    ],
     "screenDensity": 440,
     "screenX": 1080,
     "screenY": 2160,
@@ -1088,12 +948,6 @@
     "id": "cactus",
     "manufacturer": "Xiaomi",
     "name": "Redmi 6A",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "27"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 720,
     "screenY": 1440,
@@ -1114,12 +968,6 @@
     "id": "cheetah",
     "manufacturer": "Google",
     "name": "Pixel 7 Pro",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 560,
     "screenX": 1440,
     "screenY": 3120,
@@ -1139,16 +987,6 @@
     "id": "crownqlteue",
     "manufacturer": "Samsung",
     "name": "Galaxy Note9",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "29"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 2220,
     "screenY": 1080,
@@ -1170,12 +1008,6 @@
     "id": "daisy_sprout",
     "manufacturer": "Xiaomi",
     "name": "Mi A2 Lite",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "29"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 2280,
@@ -1197,16 +1029,6 @@
     "id": "dm3q",
     "manufacturer": "Samsung",
     "name": "SM-S918U1",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "33"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "34"
-      }
-    ],
     "screenDensity": 600,
     "screenX": 1440,
     "screenY": 3088,
@@ -1229,16 +1051,6 @@
     "id": "dreamlte",
     "manufacturer": "Samsung",
     "name": "Galaxy S8",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "28"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 2220,
     "screenY": 1080,
@@ -1260,12 +1072,6 @@
     "id": "f2q",
     "manufacturer": "Samsung",
     "name": "Galaxy Z Fold2",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "30"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1768,
     "screenY": 2208,
@@ -1287,20 +1093,6 @@
     "id": "felix",
     "manufacturer": "Google",
     "name": "Pixel Fold",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "34"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 2208,
     "screenY": 1840,
@@ -1321,16 +1113,6 @@
     "id": "felix_camera",
     "manufacturer": "Google",
     "name": "Pixel Fold (Camera-enabled)",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 2208,
     "screenY": 1840,
@@ -1349,12 +1131,6 @@
     "id": "griffin",
     "manufacturer": "Motorola",
     "name": "Moto Z",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "24"
-      }
-    ],
     "screenDensity": 640,
     "screenX": 2560,
     "screenY": 1440,
@@ -1376,12 +1152,6 @@
     "id": "gts3lltevzw",
     "manufacturer": "Samsung",
     "name": "Galaxy Tab S3",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "28"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 2048,
     "screenY": 1536,
@@ -1403,16 +1173,6 @@
     "id": "gts8uwifi",
     "manufacturer": "Samsung",
     "name": "Galaxy Tab S8 Ultra",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 1848,
     "screenY": 2960,
@@ -1433,12 +1193,6 @@
     "id": "hammerhead",
     "manufacturer": "LG",
     "name": "Nexus 5",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "23"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1080,
     "screenY": 1920,
@@ -1462,12 +1216,6 @@
     "id": "harpia",
     "manufacturer": "Motorola",
     "name": "Moto G Play",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "23"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 720,
     "screenY": 1280,
@@ -1488,16 +1236,6 @@
     "id": "husky",
     "manufacturer": "Google",
     "name": "Pixel 8 Pro",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "34"
-      }
-    ],
     "screenDensity": 390,
     "screenX": 1008,
     "screenY": 2244,
@@ -1517,16 +1255,6 @@
     "id": "java",
     "manufacturer": "Motorola",
     "name": "Motorola G20",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "30"
-      }
-    ],
     "screenDensity": 280,
     "screenX": 720,
     "screenY": 1600,
@@ -1548,12 +1276,6 @@
     "id": "lv0",
     "manufacturer": "LG",
     "name": "K3 2017",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "23"
-      }
-    ],
     "screenDensity": 240,
     "screenX": 480,
     "screenY": 854,
@@ -1574,16 +1296,6 @@
     "id": "lynx",
     "manufacturer": "Google",
     "name": "Pixel 7a",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1080,
     "screenY": 2400,
@@ -1603,24 +1315,6 @@
     "id": "oriole",
     "manufacturer": "Google",
     "name": "Pixel 6",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "32"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "33"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "31"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1080,
     "screenY": 2400,
@@ -1644,16 +1338,6 @@
     "id": "panther",
     "manufacturer": "Google",
     "name": "Pixel 7",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1080,
     "screenY": 2400,
@@ -1673,12 +1357,6 @@
     "id": "pettyl",
     "manufacturer": "Motorola",
     "name": "moto e5 play",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "27"
-      }
-    ],
     "screenDensity": 240,
     "screenX": 480,
     "screenY": 960,
@@ -1699,20 +1377,6 @@
     "id": "q2q",
     "manufacturer": "Samsung",
     "name": "Galaxy Z Fold3",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "30"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "31"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1768,
     "screenY": 2208,
@@ -1735,12 +1399,6 @@
     "id": "q4q",
     "manufacturer": "Samsung",
     "name": "SM-F936U1",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1812,
     "screenY": 2176,
@@ -1762,16 +1420,6 @@
     "id": "r11",
     "manufacturer": "Google",
     "name": "Google Pixel Watch",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "30"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 384,
     "screenY": 384,
@@ -1792,16 +1440,6 @@
     "id": "redfin",
     "manufacturer": "Google",
     "name": "Pixel 5",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "30"
-      }
-    ],
     "screenDensity": 440,
     "screenX": 1080,
     "screenY": 2340,
@@ -1826,12 +1464,6 @@
     "id": "sailfish",
     "manufacturer": "Google",
     "name": "Pixel",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "25"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 480,
     "screenY": 640,
@@ -1853,16 +1485,6 @@
     "id": "shiba",
     "manufacturer": "Google",
     "name": "Pixel 8",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "34"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1080,
     "screenY": 2400,
@@ -1882,12 +1504,6 @@
     "id": "starlte",
     "manufacturer": "Samsung",
     "name": "SM-G960F",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "29"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 2220,
     "screenY": 1080,
@@ -1909,12 +1525,6 @@
     "id": "starqlteue",
     "manufacturer": "Samsung",
     "name": "Galaxy S9",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "26"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 2220,
     "screenY": 1080,
@@ -1936,16 +1546,6 @@
     "id": "tangorpro",
     "manufacturer": "Google",
     "name": "Pixel Tablet",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 1600,
     "screenY": 2560,
@@ -1965,12 +1565,6 @@
     "id": "vivo_1906",
     "manufacturer": "vivo",
     "name": "vivo 1906",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "28"
-      }
-    ],
     "screenDensity": 320,
     "screenX": 720,
     "screenY": 1544,
@@ -1991,16 +1585,6 @@
     "id": "x1q",
     "manufacturer": "Samsung",
     "name": "Galaxy S20",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "directAccessVersionInfo": {
-          "directAccessSupported": true
-        },
-        "interactiveDeviceAvailabilityEstimate": "30s",
-        "versionId": "29"
-      }
-    ],
     "screenDensity": 480,
     "screenX": 1440,
     "screenY": 3200,
@@ -2022,12 +1606,6 @@
     "id": "xcoverpro",
     "manufacturer": "Samsung",
     "name": "SM-G715FN",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "33"
-      }
-    ],
     "screenDensity": 420,
     "screenX": 1080,
     "screenY": 2340,

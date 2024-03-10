@@ -26,12 +26,6 @@
     "formFactor": "TABLET",
     "id": "ipad10",
     "name": "iPad (10th generation)",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "16.6"
-      }
-    ],
     "screenDensity": 264,
     "screenX": 1640,
     "screenY": 2360,
@@ -69,12 +63,6 @@
     "formFactor": "TABLET",
     "id": "ipad5",
     "name": "iPad (5th generation)",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "15.4"
-      }
-    ],
     "screenDensity": 264,
     "screenX": 1536,
     "screenY": 2048,
@@ -111,12 +99,6 @@
     "formFactor": "TABLET",
     "id": "ipadmini4",
     "name": "iPad mini 4",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "15.4"
-      }
-    ],
     "screenDensity": 326,
     "screenX": 1536,
     "screenY": 2048,
@@ -160,16 +142,6 @@
     "formFactor": "PHONE",
     "id": "iphone11pro",
     "name": "iPhone 11 Pro",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "14.7"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "16.6"
-      }
-    ],
     "screenDensity": 458,
     "screenX": 1125,
     "screenY": 2436,
@@ -211,12 +183,6 @@
     "formFactor": "PHONE",
     "id": "iphone12pro",
     "name": "iPhone 12 Pro",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "14.8"
-      }
-    ],
     "screenDensity": 460,
     "screenX": 1170,
     "screenY": 2532,
@@ -260,16 +226,6 @@
     "formFactor": "PHONE",
     "id": "iphone13pro",
     "name": "iPhone 13 Pro",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "15.2"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "15.7"
-      }
-    ],
     "screenDensity": 460,
     "screenX": 1170,
     "screenY": 2532,
@@ -315,12 +271,6 @@
     "formFactor": "PHONE",
     "id": "iphone14pro",
     "name": "iPhone 14 Pro",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "16.6"
-      }
-    ],
     "screenDensity": 460,
     "screenX": 1179,
     "screenY": 2556,
@@ -361,20 +311,6 @@
     "formFactor": "PHONE",
     "id": "iphone8",
     "name": "iPhone 8",
-    "perVersionInfo": [
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_LOW",
-        "versionId": "14.7"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_MEDIUM",
-        "versionId": "15.7"
-      },
-      {
-        "deviceCapacity": "DEVICE_CAPACITY_HIGH",
-        "versionId": "16.6"
-      }
-    ],
     "screenDensity": 326,
     "screenX": 750,
     "screenY": 1334,
