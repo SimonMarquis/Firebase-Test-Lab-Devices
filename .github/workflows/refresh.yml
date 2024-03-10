@@ -24,11 +24,11 @@ jobs:
       - name: List Android devices
         run: |
           gcloud firebase test android models list > android_devices.txt
-          gcloud firebase test android models list --format=json > android_devices.json
+          gcloud firebase test android models list --format=json | jq 'del(.[].perVersionInfo)' > android_devices.json
       - name: List iOS devices
         run: |
           gcloud firebase test ios models list > ios_devices.txt
-          gcloud firebase test ios models list --format=json > ios_devices.json
+          gcloud firebase test ios models list --format=json | jq 'del(.[].perVersionInfo)' > ios_devices.json
       - name: Update README.md
         run: |
           echo '# Firebase Test Lab Devices [![🔃 Refresh](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml/badge.svg)](https://github.com/SimonMarquis/Firebase-Test-Lab-Devices/actions/workflows/refresh.yml)' > README.md
