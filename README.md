@@ -48,17 +48,16 @@
 │ cactus              │ Xiaomi     │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                         │                                             │
 │ cheetah             │ Google     │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                         │                                             │
 │ crownqlteue         │ Samsung    │ Galaxy Note9                             │ PHYSICAL │ 1080 x 2220 │ 29                         │                                             │
-│ daisy_sprout        │ Xiaomi     │ Mi A2 Lite                               │ PHYSICAL │ 2280 x 1080 │ 29                         │                                             │
+│ daisy_sprout        │ Xiaomi     │ Mi A2 Lite                               │ PHYSICAL │ 2280 x 1080 │ 29                         │ deprecated=29                               │
 │ dm3q                │ Samsung    │ SM-S918U1                                │ PHYSICAL │ 3088 x 1440 │ 33,34                      │                                             │
-│ dreamlte            │ Samsung    │ Galaxy S8                                │ PHYSICAL │ 1080 x 2220 │ 28                         │                                             │
 │ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                                             │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                                             │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                                             │
-│ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │                                             │
-│ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │                                             │
+│ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │ deprecated=24                               │
+│ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │ deprecated=28                               │
 │ gts8uwifi           │ Samsung    │ Galaxy Tab S8 Ultra                      │ PHYSICAL │ 2960 x 1848 │ 33                         │                                             │
 │ hammerhead          │ LG         │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                         │ deprecated=23                               │
-│ harpia              │ Motorola   │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                         │                                             │
+│ harpia              │ Motorola   │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                         │ deprecated=23                               │
 │ husky               │ Google     │ Pixel 8 Pro                              │ PHYSICAL │ 2244 x 1008 │ 34                         │                                             │
 │ java                │ Motorola   │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                         │                                             │
 │ lv0                 │ LG         │ K3 2017                                  │ PHYSICAL │  854 x 480  │ 23                         │                                             │
@@ -66,11 +65,11 @@
 │ oriole              │ Google     │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 32,33,31                   │                                             │
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                         │                                             │
 │ pettyl              │ Motorola   │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                         │                                             │
-│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30,31                      │                                             │
+│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30,31                      │ deprecated=31                               │
 │ q4q                 │ Samsung    │ SM-F936U1                                │ PHYSICAL │ 2176 x 1812 │ 33                         │                                             │
 │ r11                 │ Google     │ Google Pixel Watch                       │ PHYSICAL │  384 x 384  │ 30                         │                                             │
 │ redfin              │ Google     │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                         │ default                                     │
-│ sailfish            │ Google     │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                         │                                             │
+│ sailfish            │ Google     │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                         │ deprecated=25                               │
 │ shiba               │ Google     │ Pixel 8                                  │ PHYSICAL │ 2400 x 1080 │ 34                         │                                             │
 │ starlte             │ Samsung    │ SM-G960F                                 │ PHYSICAL │ 1080 x 2220 │ 29                         │                                             │
 │ starqlteue          │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 26                         │                                             │
