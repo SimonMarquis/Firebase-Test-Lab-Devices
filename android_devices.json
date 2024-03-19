@@ -565,7 +565,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/cnuw3ssy4HeuXGit94oKXoZ3a-w1k1y6aPATG_mtn3rH0L_IYnmS4gI6GPTZ5RrhK4ph1DgXigth"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/KR76UKTC7_r-cR0nU82QQw6GLd37TiMWYpRqpsdLRTQIwOYLw_ahBd8UZLam3uLCpZSaE2y5w5QYjg"
   },
   {
     "brand": "vivo",
@@ -1045,6 +1045,30 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/iXtm0Mdnx3jjtxdetuuE1zjb30lMdKKuBYPlf_kv0lIIRjjG3tyn9YCmEOaJ-wXBiGKlnLB0rN8"
+  },
+  {
+    "brand": "samsung",
+    "codename": "dreamlte",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dreamlte",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S8",
+    "screenDensity": 480,
+    "screenX": 2220,
+    "screenY": 1080,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "28"
+    ],
+    "tags": [
+      "deprecated=28"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/05r0yPMGNnmgxgOop_j5jn85arZO-Xgr0a7OrKLzv5XD7jarBHDAHmq_nEubDs0PEJH6beX4bBbl"
   },
   {
     "brand": "samsung",

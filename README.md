@@ -50,6 +50,7 @@
 │ crownqlteue         │ Samsung    │ Galaxy Note9                             │ PHYSICAL │ 1080 x 2220 │ 29                         │                                             │
 │ daisy_sprout        │ Xiaomi     │ Mi A2 Lite                               │ PHYSICAL │ 2280 x 1080 │ 29                         │ deprecated=29                               │
 │ dm3q                │ Samsung    │ SM-S918U1                                │ PHYSICAL │ 3088 x 1440 │ 33,34                      │                                             │
+│ dreamlte            │ Samsung    │ Galaxy S8                                │ PHYSICAL │ 1080 x 2220 │ 28                         │ deprecated=28                               │
 │ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                                             │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                                             │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                                             │
