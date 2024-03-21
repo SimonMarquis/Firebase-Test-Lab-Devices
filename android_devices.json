@@ -1431,6 +1431,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/8BDneZ1dS-xCNoYu_atRyzdLxM3_17DGuoOnJZo6PywJCoIpxcyBUnLBC-q-m4BVjR8uzVHLYY_CAw"
   },
   {
+    "brand": "samsung",
+    "codename": "q5q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q5q",
+    "manufacturer": "Samsung",
+    "name": "SM-F946U1",
+    "screenDensity": 420,
+    "screenX": 1812,
+    "screenY": 2176,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gevX-T9Taxxe6cjWRxSjAsY7eoJxC9EjGuA6ircon-qaRaPrwfL6yeIubXO00dwlvi90AaTh39Xs"
+  },
+  {
     "brand": "google",
     "codename": "r11",
     "form": "PHYSICAL",
