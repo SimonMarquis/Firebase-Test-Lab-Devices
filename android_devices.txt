@@ -36,6 +36,7 @@
 │ a10                 │ Samsung    │ Galaxy A10                               │ PHYSICAL │  720 x 1520 │ 29                         │                                             │
 │ a12                 │ Samsung    │ SM-A125F                                 │ PHYSICAL │ 1600 x 720  │ 31                         │                                             │
 │ a51                 │ Samsung    │ Galaxy A51                               │ PHYSICAL │ 2400 x 1080 │ 31                         │                                             │
+│ a54x                │ Samsung    │ SM-A546U                                 │ PHYSICAL │ 2340 x 1080 │ 34                         │                                             │
 │ b0q                 │ Samsung    │ Galaxy S22 Ultra                         │ PHYSICAL │ 3088 x 1440 │ 33                         │                                             │
 │ b4q                 │ Samsung    │ Galaxy Z Flip4                           │ PHYSICAL │ 2640 x 1080 │ 33                         │                                             │
 │ bluejay             │ Google     │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                         │                                             │

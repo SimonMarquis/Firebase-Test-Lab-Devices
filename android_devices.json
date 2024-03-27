@@ -858,6 +858,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a54x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a54x",
+    "manufacturer": "Samsung",
+    "name": "SM-A546U",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/STmE1AMXv8VrcvfBKDD858FJC4Ju-uJ8hu4jXtVaawFmUPc_65Y8012tAfTz4Xnt85jIeAvqvYII"
+  },
+  {
+    "brand": "samsung",
     "codename": "b0q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
