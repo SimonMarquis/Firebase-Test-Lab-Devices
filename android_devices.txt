@@ -39,6 +39,7 @@
 │ a54x                │ Samsung    │ SM-A546U                                 │ PHYSICAL │ 2340 x 1080 │ 34                         │                                             │
 │ b0q                 │ Samsung    │ Galaxy S22 Ultra                         │ PHYSICAL │ 3088 x 1440 │ 33                         │                                             │
 │ b4q                 │ Samsung    │ Galaxy Z Flip4                           │ PHYSICAL │ 2640 x 1080 │ 33                         │                                             │
+│ b5q                 │ Samsung    │ SM-F731B                                 │ PHYSICAL │ 2640 x 1080 │ 34                         │                                             │
 │ bluejay             │ Google     │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                         │                                             │
 │ blueline            │ Google     │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                         │                                             │
 │ cactus              │ Xiaomi     │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                         │                                             │
@@ -51,6 +52,7 @@
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                                             │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                                             │
 │ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │ deprecated=24                               │
+│ gtaxlwifi           │ Samsung    │ SM-T580                                  │ PHYSICAL │ 1920 x 1200 │ 27                         │                                             │
 │ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │ deprecated=28                               │
 │ gts8uwifi           │ Samsung    │ Galaxy Tab S8 Ultra                      │ PHYSICAL │ 2960 x 1848 │ 33                         │                                             │
 │ hammerhead          │ LG         │ Nexus 5                                  │ PHYSICAL │ 1920 x 1080 │ 23                         │ deprecated=23                               │

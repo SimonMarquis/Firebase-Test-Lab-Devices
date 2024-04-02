@@ -920,6 +920,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/gxeUTRxnEYX8brkVq97y88S7LMOlX7yNTUFbSzCOgfZixJ2OYWDp93KdRhbIiosUMTGwonR4bmbUxA"
   },
   {
+    "brand": "samsung",
+    "codename": "b5q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b5q",
+    "manufacturer": "Samsung",
+    "name": "SM-F731B",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2640,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/eExbveNxYMReNrLV_2PWSkiwr0xyX1kj_mPncIHI7P6ijbBBIemnotvmDZmlNvZTtHGw9WYVpF0"
+  },
+  {
     "brand": "google",
     "codename": "bluejay",
     "form": "PHYSICAL",
@@ -1173,6 +1194,26 @@
       "deprecated=24"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/LiBYTSr3xQ7VHF62fDVPs3JgQ8d_F441YWuuWAbWYkiH7FRy_wyko-DyfsHV2kc8erE1uv4s9t9V"
+  },
+  {
+    "brand": "samsung",
+    "codename": "gtaxlwifi",
+    "form": "PHYSICAL",
+    "formFactor": "TABLET",
+    "id": "gtaxlwifi",
+    "manufacturer": "Samsung",
+    "name": "SM-T580",
+    "screenDensity": 240,
+    "screenX": 1200,
+    "screenY": 1920,
+    "supportedAbis": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "27"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/D2ko_JBjQEcmzX2vk1IgPMtx4PW_gckvPpjyPCfZRDoDxAzKIr1IuIsm5MPCSjR_Zjw9CE28mzWR"
   },
   {
     "brand": "Verizon",
