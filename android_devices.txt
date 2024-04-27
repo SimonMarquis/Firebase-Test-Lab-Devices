@@ -53,7 +53,6 @@
 │ harpia              │ Motorola   │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                         │ deprecated=23        │
 │ husky               │ Google     │ Pixel 8 Pro                              │ PHYSICAL │ 2244 x 1008 │ 34                         │                      │
 │ java                │ Motorola   │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                         │                      │
-│ lv0                 │ LG         │ K3 2017                                  │ PHYSICAL │  854 x 480  │ 23                         │                      │
 │ lynx                │ Google     │ Pixel 7a                                 │ PHYSICAL │ 2400 x 1080 │ 33                         │                      │
 │ oriole              │ Google     │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 32,33,31                   │                      │
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                         │                      │

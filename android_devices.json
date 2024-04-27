@@ -1173,26 +1173,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/flkXlWApp9btdx5Q6IaRiH7tdC0uXeJ3mrHjq6SRULPwg647evkNrlqqK849ciN3L2frFSuMAoM"
   },
   {
-    "brand": "lge",
-    "codename": "lv0",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "lv0",
-    "manufacturer": "LG",
-    "name": "K3 2017",
-    "screenDensity": 240,
-    "screenX": 480,
-    "screenY": 854,
-    "supportedAbis": [
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "23"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/7g_xh8i3kF7oHMjStyLLfI3cyXScJUO47YUUZHS9nw6EPYjebUKHUtPoynSqk8KE-H4SzxgqZpN9"
-  },
-  {
     "brand": "google",
     "codename": "lynx",
     "form": "PHYSICAL",
