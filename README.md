@@ -87,7 +87,7 @@
 │ ipad10      │ iPad (10th generation) │ 16.6           │         │
 │ iphone11pro │ iPhone 11 Pro          │ 14.7,16.6      │         │
 │ iphone12pro │ iPhone 12 Pro          │ 14.8           │         │
-│ iphone13pro │ iPhone 13 Pro          │ 15.7           │ default │
+│ iphone13pro │ iPhone 13 Pro          │ 15.7,16.6      │ default │
 │ iphone14pro │ iPhone 14 Pro          │ 16.6           │         │
 │ iphone8     │ iPhone 8               │ 14.7,15.7,16.6 │         │
 └─────────────┴────────────────────────┴────────────────┴─────────┘

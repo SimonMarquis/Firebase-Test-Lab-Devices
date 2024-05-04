@@ -151,7 +151,8 @@
     "screenX": 1170,
     "screenY": 2532,
     "supportedVersionIds": [
-      "15.7"
+      "15.7",
+      "16.6"
     ],
     "tags": [
       "default"
