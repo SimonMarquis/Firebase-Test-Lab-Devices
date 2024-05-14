@@ -877,6 +877,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/c07v2Tu4nxWOaaLJKr266xcvZ1Tc7Yacjhv5gcc9weh2lWekmmdm6lviTScreGiJEO1uGMiVais"
   },
   {
+    "brand": "lge",
+    "codename": "caymanlm",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "caymanlm",
+    "manufacturer": "LG",
+    "name": "VELVET",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2460,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/ALyDpddGfldLEyMuvhtuLKCk78jTceV2bt7iEbutA-SqOzNxxW6Op7bnzHDlliNA23aqxglfN-yrRg"
+  },
+  {
     "brand": "google",
     "codename": "cheetah",
     "form": "PHYSICAL",
