@@ -789,7 +789,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/XU4c-nwWEIpr2RWxUra393mIapNAes8quwo9hvI6-BhuUFNhXc_DE1X1f-vmZmzPnBI6cq4W8aSE"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/uUcnszVlCOjsBx5mSxp7QJNIzKhZXRC2gTFdk6N0TJnwKIyT3u-1PJBr4JAiJVlYo1HdiFhxHfw"
   },
   {
     "brand": "samsung",
@@ -1446,6 +1446,24 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y3CK3aSh9wV7Dmrti0ogN_C0r5j1M5-Vmdu_-trvcCF-BQDJsUxKQcRuxx05H1a0CvteCOL9umU"
+  },
+  {
+    "brand": "google",
+    "codename": "shiba_beta",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "shiba_beta",
+    "manufacturer": "Google",
+    "name": "Pixel 8",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ]
   },
   {
     "brand": "samsung",

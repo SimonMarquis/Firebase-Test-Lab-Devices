@@ -66,6 +66,7 @@
 │ redfin              │ Google     │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                         │ default              │
 │ sailfish            │ Google     │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                         │ deprecated=25        │
 │ shiba               │ Google     │ Pixel 8                                  │ PHYSICAL │ 2400 x 1080 │ 34                         │                      │
+│ shiba_beta          │ Google     │ Pixel 8                                  │ PHYSICAL │ 2400 x 1080 │ 35                         │                      │
 │ starlte             │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 29                         │                      │
 │ starqlteue          │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 26                         │                      │
 │ tangorpro           │ Google     │ Pixel Tablet                             │ PHYSICAL │ 2560 x 1600 │ 33                         │                      │
