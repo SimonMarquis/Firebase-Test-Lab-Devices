@@ -1087,6 +1087,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "gta8wifi",
+    "form": "PHYSICAL",
+    "formFactor": "TABLET",
+    "id": "gta8wifi",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Tab A8",
+    "screenDensity": 216,
+    "screenX": 1200,
+    "screenY": 1920,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/5Jz9RtrkK4vF1JtCZ4xpdCpkn9jvkK-Jk222exfbohCoX89B7v_ZlV6YzXdpD2eK7Q6MLinI2KBq"
+  },
+  {
+    "brand": "samsung",
     "codename": "gtaxlwifi",
     "form": "PHYSICAL",
     "formFactor": "TABLET",
