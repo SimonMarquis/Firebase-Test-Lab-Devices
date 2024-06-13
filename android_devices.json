@@ -422,6 +422,27 @@
   },
   {
     "brand": "OnePlus",
+    "codename": "OP5958L1",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "OP5958L1",
+    "manufacturer": "OnePlus",
+    "name": "OnePlus Nord CE3 Lite",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/_Qljgtm5ase9sA-Isw9K23yM-2l6lS5iRwi9H51Nu3IZsMs5K6uZnT5varo8ywKlJb13k0jIN3Yx"
+  },
+  {
+    "brand": "OnePlus",
     "codename": "OnePlus9Pro",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
