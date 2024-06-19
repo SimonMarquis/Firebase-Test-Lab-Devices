@@ -14,8 +14,8 @@
 │ GoogleTvEmulator    │ Google     │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                         │ beta=30              │
 │ HWMHA               │ Huawei     │ Mate 9                                   │ PHYSICAL │ 1920 x 1080 │ 24                         │                      │
 │ J606F               │ Lenovo     │ Lenovo Tab P11                           │ PHYSICAL │ 2000 x 1200 │ 30                         │                      │
-│ MediumPhone.arm     │ Generic    │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34 │ preview=34           │
-│ MediumTablet.arm    │ Generic    │ Medium Tablet, 10in/25cm (Arm)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34 │ preview=34           │
+│ MediumPhone.arm     │ Generic    │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34 │                      │
+│ MediumTablet.arm    │ Generic    │ Medium Tablet, 10in/25cm (Arm)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34 │                      │
 │ Nexus5X             │ LG         │ Nexus 5X                                 │ VIRTUAL  │ 1920 x 1080 │ 24,25,26                   │                      │
 │ Nexus6              │ Motorola   │ Nexus 6                                  │ VIRTUAL  │ 2560 x 1440 │ 24,25                      │                      │
 │ Nexus6P             │ Google     │ Nexus 6P                                 │ VIRTUAL  │ 2560 x 1440 │ 24,25,26,27                │                      │
@@ -32,7 +32,7 @@
 │ RED8BEL1            │ realme     │ realme GT NEO 3 150W                     │ PHYSICAL │ 2412 x 1080 │ 33                         │                      │
 │ SH-01L              │ SHARP      │ AQUOS sense2 SH-01L                      │ PHYSICAL │ 2160 x 1080 │ 28                         │                      │
 │ SO-41A              │ Sony       │ Xperia 10 II                             │ PHYSICAL │ 1080 x 2520 │ 31                         │                      │
-│ SmallPhone.arm      │ Generic    │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34 │ preview=34           │
+│ SmallPhone.arm      │ Generic    │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34 │                      │
 │ a02q                │ Samsung    │ Galaxy A02s                              │ PHYSICAL │ 1600 x 720  │ 31                         │                      │
 │ a03s                │ Samsung    │ Galaxy A03s                              │ PHYSICAL │ 1600 x 720  │ 33                         │                      │
 │ a10                 │ Samsung    │ Galaxy A10                               │ PHYSICAL │  720 x 1520 │ 29                         │                      │
