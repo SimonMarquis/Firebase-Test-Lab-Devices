@@ -723,6 +723,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a14xm",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a14xm",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A14",
+    "screenDensity": 400,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/-TNH8onoNz9Kf4Qm1ogefYT0fvZiOnKDb9lovT99OdyHCfM-1n5saFBaRBiDsK118JC9vnBBT7E2jg"
+  },
+  {
+    "brand": "samsung",
     "codename": "a51",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
