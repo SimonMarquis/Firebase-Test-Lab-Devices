@@ -9,6 +9,7 @@
 │ 1610                │ Vivo       │ vivo 1610                                │ PHYSICAL │ 1280 x 720  │ 23                         │ reduced_stability=23 │
 │ AmatiTvEmulator     │ Google     │ Google TV Amati                          │ VIRTUAL  │ 1080 x 1920 │ 29                         │ beta=29              │
 │ AndroidTablet270dpi │ Generic    │ Generic 720x1600 Android tablet @ 270dpi │ VIRTUAL  │ 1600 x 720  │ 30                         │                      │
+│ CPH2449             │ OnePlus    │ OnePlus 11 5G                            │ PHYSICAL │ 2412 x 1080 │ 34                         │                      │
 │ F01L                │ FUJITSU    │ F-01L                                    │ PHYSICAL │ 1280 x 720  │ 27                         │                      │
 │ FRT                 │ HMD Global │ Nokia 1                                  │ PHYSICAL │  854 x 480  │ 27                         │                      │
 │ GoogleTvEmulator    │ Google     │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                         │ beta=30              │
