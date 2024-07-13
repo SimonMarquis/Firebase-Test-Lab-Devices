@@ -785,6 +785,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a52sxq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a52sxq",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A52s",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/ETaqQksrO9CC-PjPrGSry4V_BqeWPdhsFUPeQZysll-unB78vUJGe1u1XMbecA1Stpjq_78Hs37q"
+  },
+  {
+    "brand": "samsung",
     "codename": "a54x",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
