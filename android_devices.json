@@ -970,6 +970,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/c07v2Tu4nxWOaaLJKr266xcvZ1Tc7Yacjhv5gcc9weh2lWekmmdm6lviTScreGiJEO1uGMiVais"
   },
   {
+    "brand": "motorola",
+    "codename": "caprip",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "caprip",
+    "manufacturer": "Motorola",
+    "name": "moto g(30)",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/hsOHVg5aR3fb5hb8h4Hdu48kH--MgCEQ7omv4w4PxOPWcvh95kn-X9SzUGrXopJVYtt4TtykdDHV"
+  },
+  {
     "brand": "lge",
     "codename": "caymanlm",
     "form": "PHYSICAL",

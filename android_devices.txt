@@ -44,6 +44,7 @@
 │ bluejay             │ Google     │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                         │                      │
 │ blueline            │ Google     │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                         │                      │
 │ cactus              │ Xiaomi     │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                         │                      │
+│ caprip              │ Motorola   │ moto g(30)                               │ PHYSICAL │ 1600 x 720  │ 31                         │                      │
 │ caymanlm            │ LG         │ VELVET                                   │ PHYSICAL │ 2460 x 1080 │ 31                         │                      │
 │ cheetah             │ Google     │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                         │                      │
 │ crownqlteue         │ Samsung    │ Galaxy Note9                             │ PHYSICAL │ 1080 x 2220 │ 29                         │                      │
