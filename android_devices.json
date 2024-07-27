@@ -261,6 +261,10 @@
       "24",
       "25",
       "26"
+    ],
+    "tags": [
+      "deprecated=24",
+      "deprecated=25"
     ]
   },
   {
@@ -286,6 +290,10 @@
     "supportedVersionIds": [
       "24",
       "25"
+    ],
+    "tags": [
+      "deprecated=24",
+      "deprecated=25"
     ]
   },
   {
@@ -317,6 +325,10 @@
       "25",
       "26",
       "27"
+    ],
+    "tags": [
+      "deprecated=24",
+      "deprecated=25"
     ]
   },
   {
@@ -347,6 +359,8 @@
       "26"
     ],
     "tags": [
+      "deprecated=24",
+      "deprecated=25",
       "beta"
     ]
   },
@@ -373,6 +387,10 @@
     "supportedVersionIds": [
       "24",
       "25"
+    ],
+    "tags": [
+      "deprecated=24",
+      "deprecated=25"
     ]
   },
   {
@@ -411,6 +429,10 @@
       "28",
       "29",
       "30"
+    ],
+    "tags": [
+      "deprecated=24",
+      "deprecated=25"
     ]
   },
   {
