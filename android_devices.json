@@ -1095,30 +1095,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/nsHOF3Gfm88-OLi6Q5qZWoE4sw_OVvhoAuE5Fo6aYfAYd031Y8bdsBhTQfdTkLfC5Ou_7l-77oA"
   },
   {
-    "brand": "xiaomi",
-    "codename": "daisy_sprout",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "daisy_sprout",
-    "manufacturer": "Xiaomi",
-    "name": "Mi A2 Lite",
-    "screenDensity": 480,
-    "screenX": 1080,
-    "screenY": 2280,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "29"
-    ],
-    "tags": [
-      "deprecated=29"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/dvZN6E34x58ZD8BuJb1PsGdvjnzdH8queyMTVr6mvhnPHRvSQmjfqhE46Grxf-Nn6C7fjoaT0XXDyA"
-  },
-  {
     "brand": "samsung",
     "codename": "dm3q",
     "form": "PHYSICAL",
@@ -1198,30 +1174,6 @@
     "supportedVersionIds": [
       "33"
     ]
-  },
-  {
-    "brand": "motorola",
-    "codename": "griffin",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "griffin",
-    "manufacturer": "Motorola",
-    "name": "Moto Z",
-    "screenDensity": 640,
-    "screenX": 2560,
-    "screenY": 1440,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "24"
-    ],
-    "tags": [
-      "deprecated=24"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/LiBYTSr3xQ7VHF62fDVPs3JgQ8d_F441YWuuWAbWYkiH7FRy_wyko-DyfsHV2kc8erE1uv4s9t9V"
   },
   {
     "brand": "samsung",
@@ -1307,29 +1259,6 @@
     "supportedVersionIds": [
       "33"
     ]
-  },
-  {
-    "brand": "motorola",
-    "codename": "harpia",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "harpia",
-    "manufacturer": "Motorola",
-    "name": "Moto G Play",
-    "screenDensity": 320,
-    "screenX": 720,
-    "screenY": 1280,
-    "supportedAbis": [
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "23"
-    ],
-    "tags": [
-      "deprecated=23"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/aKod2b8C3siC0gmFd476ckJ3akKySdQgpJgpUMfNcKJWHWhr9B_r8BuQezNk8cmIx_WGeGUC6xrHbg"
   },
   {
     "brand": "google",
@@ -1469,11 +1398,7 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "30",
-      "31"
-    ],
-    "tags": [
-      "deprecated=31"
+      "30"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/-0T0LkEXHA5PjXvo6N3qtYtMjTse08ljvS-eHLMRehgjaveNVtBwcVXvj4mYB4dUEkq7bTHgEL0d"
   },
@@ -1562,30 +1487,6 @@
       "default"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/yTrlQMFILGX8Y1yKlsZYMxsLeQjPzOiNMXH7b5do5k4L7gnYl0qYLEg_JxvG0TmRt9kzlJNu_-8"
-  },
-  {
-    "brand": "google",
-    "codename": "sailfish",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "sailfish",
-    "manufacturer": "Google",
-    "name": "Pixel",
-    "screenDensity": 420,
-    "screenX": 480,
-    "screenY": 640,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "25"
-    ],
-    "tags": [
-      "deprecated=25"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/Y695akw6GQifgofN_GNrZQMTgTZgxnsMg6ZoQNX84xor7Zxmk7IU0N0GnE-YYha40lqFLH6Fa7qW"
   },
   {
     "brand": "google",

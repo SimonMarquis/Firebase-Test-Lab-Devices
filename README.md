@@ -54,29 +54,25 @@
 │ caymanlm            │ LG         │ VELVET                                   │ PHYSICAL │ 2460 x 1080 │ 31                         │                                    │
 │ cheetah             │ Google     │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                         │                                    │
 │ crownqlteue         │ Samsung    │ Galaxy Note9                             │ PHYSICAL │ 1080 x 2220 │ 29                         │                                    │
-│ daisy_sprout        │ Xiaomi     │ Mi A2 Lite                               │ PHYSICAL │ 2280 x 1080 │ 29                         │ deprecated=29                      │
 │ dm3q                │ Samsung    │ Galaxy S23 Ultra                         │ PHYSICAL │ 3088 x 1440 │ 33,34                      │                                    │
 │ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                                    │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                                    │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                                    │
-│ griffin             │ Motorola   │ Moto Z                                   │ PHYSICAL │ 1440 x 2560 │ 24                         │ deprecated=24                      │
 │ gta8wifi            │ Samsung    │ Galaxy Tab A8                            │ PHYSICAL │ 1920 x 1200 │ 34                         │                                    │
 │ gtaxlwifi           │ Samsung    │ Galaxy Tab A (2016)                      │ PHYSICAL │ 1920 x 1200 │ 27                         │                                    │
 │ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                         │ deprecated=28                      │
 │ gts8uwifi           │ Samsung    │ Galaxy Tab S8 Ultra                      │ PHYSICAL │ 2960 x 1848 │ 33                         │                                    │
-│ harpia              │ Motorola   │ Moto G Play                              │ PHYSICAL │ 1280 x 720  │ 23                         │ deprecated=23                      │
 │ husky               │ Google     │ Pixel 8 Pro                              │ PHYSICAL │ 2244 x 1008 │ 34                         │                                    │
 │ java                │ Motorola   │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                         │                                    │
 │ lynx                │ Google     │ Pixel 7a                                 │ PHYSICAL │ 2400 x 1080 │ 33                         │                                    │
 │ oriole              │ Google     │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 32,33,31                   │                                    │
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                         │                                    │
 │ pettyl              │ Motorola   │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                         │                                    │
-│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30,31                      │ deprecated=31                      │
+│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                                    │
 │ q4q                 │ Samsung    │ Galaxy Z Fold4                           │ PHYSICAL │ 2176 x 1812 │ 33                         │                                    │
 │ q5q                 │ Samsung    │ Galaxy Z Fold5                           │ PHYSICAL │ 2176 x 1812 │ 34                         │                                    │
 │ r11                 │ Google     │ Google Pixel Watch                       │ PHYSICAL │  384 x 384  │ 30                         │                                    │
 │ redfin              │ Google     │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                         │ default                            │
-│ sailfish            │ Google     │ Pixel                                    │ PHYSICAL │  640 x 480  │ 25                         │ deprecated=25                      │
 │ shiba               │ Google     │ Pixel 8                                  │ PHYSICAL │ 2400 x 1080 │ 34                         │                                    │
 │ shiba_beta          │ Google     │ Pixel 8                                  │ PHYSICAL │ 2400 x 1080 │ 35                         │                                    │
 │ starlte             │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 29                         │                                    │
