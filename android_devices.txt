@@ -8,7 +8,7 @@
 │ F01L                │ FUJITSU    │ F-01L                                    │ PHYSICAL │ 1280 x 720  │ 27                         │                                    │
 │ FRT                 │ HMD Global │ Nokia 1                                  │ PHYSICAL │  854 x 480  │ 27                         │                                    │
 │ GoogleTvEmulator    │ Google     │ Google TV                                │ VIRTUAL  │  720 x 1280 │ 30                         │ beta=30                            │
-│ HWMHA               │ Huawei     │ Mate 9                                   │ PHYSICAL │ 1920 x 1080 │ 24                         │                                    │
+│ HWMHA               │ Huawei     │ Mate 9                                   │ PHYSICAL │ 1920 x 1080 │ 24                         │ deprecated=24                      │
 │ J606F               │ Lenovo     │ Lenovo Tab P11                           │ PHYSICAL │ 2000 x 1200 │ 30                         │                                    │
 │ MediumPhone.arm     │ Generic    │ Medium Phone, 6.4in/16cm (Arm)           │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34 │                                    │
 │ MediumTablet.arm    │ Generic    │ Medium Tablet, 10in/25cm (Arm)           │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34 │                                    │
@@ -50,7 +50,7 @@
 │ cheetah             │ Google     │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                         │                                    │
 │ crownqlteue         │ Samsung    │ Galaxy Note9                             │ PHYSICAL │ 1080 x 2220 │ 29                         │                                    │
 │ dm3q                │ Samsung    │ Galaxy S23 Ultra                         │ PHYSICAL │ 3088 x 1440 │ 33,34                      │                                    │
-│ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                                    │
+│ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │ deprecated=30                      │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                                    │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                                    │
 │ gta8wifi            │ Samsung    │ Galaxy Tab A8                            │ PHYSICAL │ 1920 x 1200 │ 34                         │                                    │
@@ -73,7 +73,7 @@
 │ starlte             │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 29                         │                                    │
 │ starqlteue          │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 26                         │                                    │
 │ tangorpro           │ Google     │ Pixel Tablet                             │ PHYSICAL │ 2560 x 1600 │ 33                         │                                    │
-│ vivo_1906           │ vivo       │ vivo 1906                                │ PHYSICAL │ 1544 x 720  │ 28                         │                                    │
+│ vivo_1906           │ vivo       │ vivo 1906                                │ PHYSICAL │ 1544 x 720  │ 28                         │ deprecated=28                      │
 │ x1q                 │ Samsung    │ Galaxy S20                               │ PHYSICAL │ 3200 x 1440 │ 29                         │                                    │
 │ xcoverpro           │ Samsung    │ Galaxy XCover Pro                        │ PHYSICAL │ 2340 x 1080 │ 33                         │                                    │
 └─────────────────────┴────────────┴──────────────────────────────────────────┴──────────┴─────────────┴────────────────────────────┴────────────────────────────────────┘
