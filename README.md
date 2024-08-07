@@ -34,6 +34,7 @@
 │ SH-01L              │ SHARP      │ AQUOS sense2 SH-01L                      │ PHYSICAL │ 2160 x 1080 │ 28                         │                                    │
 │ SO-41A              │ Sony       │ Xperia 10 II                             │ PHYSICAL │ 1080 x 2520 │ 31                         │                                    │
 │ SmallPhone.arm      │ Generic    │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34 │                                    │
+│ XQ-DC54             │ Sony       │ XQ-DC54                                  │ PHYSICAL │ 2520 x 1080 │ 34                         │                                    │
 │ a02q                │ Samsung    │ Galaxy A02s                              │ PHYSICAL │ 1600 x 720  │ 31                         │                                    │
 │ a03s                │ Samsung    │ Galaxy A03s                              │ PHYSICAL │ 1600 x 720  │ 33                         │                                    │
 │ a10                 │ Samsung    │ Galaxy A10                               │ PHYSICAL │  720 x 1520 │ 29                         │                                    │

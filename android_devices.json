@@ -685,6 +685,27 @@
     ]
   },
   {
+    "brand": "Sony",
+    "codename": "XQ-DC54",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "XQ-DC54",
+    "manufacturer": "Sony",
+    "name": "XQ-DC54",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2520,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gJM2En4cDw5DTah5N7lL8pYAwbjjerW_vZi2JKUzQTbKe4i8yUZU3xVKmofdZYLkyKTNSDCKSJf2Bg"
+  },
+  {
     "brand": "samsung",
     "codename": "a02q",
     "form": "PHYSICAL",
