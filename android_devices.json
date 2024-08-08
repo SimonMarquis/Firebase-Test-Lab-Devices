@@ -706,6 +706,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/gJM2En4cDw5DTah5N7lL8pYAwbjjerW_vZi2JKUzQTbKe4i8yUZU3xVKmofdZYLkyKTNSDCKSJf2Bg"
   },
   {
+    "brand": "Sony",
+    "codename": "XQ-DQ72",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "XQ-DQ72",
+    "manufacturer": "Sony",
+    "name": "XQ-DQ72",
+    "screenDensity": 420,
+    "screenX": 1096,
+    "screenY": 2560,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/sDRDJ_8gyvue803FshM2jRGRAYYm3BfS7I-99aKKeKaJoVNuxdRtoV313jJxonkiACmhzGdMRYlC"
+  },
+  {
     "brand": "samsung",
     "codename": "a02q",
     "form": "PHYSICAL",
