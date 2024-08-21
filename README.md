@@ -57,6 +57,7 @@
 │ cheetah             │ Google     │ Pixel 7 Pro                              │ PHYSICAL │ 3120 x 1440 │ 33                         │                                    │
 │ crownqlteue         │ Samsung    │ Galaxy Note9                             │ PHYSICAL │ 1080 x 2220 │ 29                         │                                    │
 │ dm3q                │ Samsung    │ Galaxy S23 Ultra                         │ PHYSICAL │ 3088 x 1440 │ 33,34                      │                                    │
+│ e1q                 │ Samsung    │ Galaxy S24                               │ PHYSICAL │ 2340 x 1080 │ 34                         │                                    │
 │ f2q                 │ Samsung    │ Galaxy Z Fold2                           │ PHYSICAL │ 2208 x 1768 │ 30                         │ deprecated=30                      │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 34,33                      │                                    │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                         │                                    │

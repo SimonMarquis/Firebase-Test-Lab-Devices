@@ -1163,6 +1163,25 @@
   },
   {
     "brand": "samsung",
+    "codename": "e1q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e1q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
+  },
+  {
+    "brand": "samsung",
     "codename": "f2q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
