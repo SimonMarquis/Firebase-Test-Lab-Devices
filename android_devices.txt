@@ -46,6 +46,7 @@
 │ bluejay             │ Google     │ Pixel 6a                                 │ PHYSICAL │ 2400 x 1080 │ 32                         │                                    │
 │ blueline            │ Google     │ Pixel 3                                  │ PHYSICAL │ 2160 x 1080 │ 28                         │                                    │
 │ cactus              │ Xiaomi     │ Redmi 6A                                 │ PHYSICAL │ 1440 x 720  │ 27                         │                                    │
+│ caiman              │ Google     │ Pixel 9 Pro                              │ PHYSICAL │ 2142 x 960  │ 34                         │                                    │
 │ cancunf             │ Motorola   │ moto g54 5G                              │ PHYSICAL │ 2400 x 1080 │ 34                         │                                    │
 │ caprip              │ Motorola   │ moto g(30)                               │ PHYSICAL │ 1600 x 720  │ 31                         │                                    │
 │ caymanlm            │ LG         │ VELVET                                   │ PHYSICAL │ 2460 x 1080 │ 31                         │                                    │
@@ -62,6 +63,7 @@
 │ gts8uwifi           │ Samsung    │ Galaxy Tab S8 Ultra                      │ PHYSICAL │ 2960 x 1848 │ 33                         │                                    │
 │ husky               │ Google     │ Pixel 8 Pro                              │ PHYSICAL │ 2244 x 1008 │ 34                         │                                    │
 │ java                │ Motorola   │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                         │                                    │
+│ komodo              │ Google     │ Pixel 9 Pro XL                           │ PHYSICAL │ 2244 x 1008 │ 34                         │                                    │
 │ lynx                │ Google     │ Pixel 7a                                 │ PHYSICAL │ 2400 x 1080 │ 33                         │                                    │
 │ oriole              │ Google     │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 32,33,31                   │                                    │
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                         │                                    │
@@ -76,6 +78,7 @@
 │ starlte             │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 29                         │                                    │
 │ starqlteue          │ Samsung    │ Galaxy S9                                │ PHYSICAL │ 1080 x 2220 │ 26                         │                                    │
 │ tangorpro           │ Google     │ Pixel Tablet                             │ PHYSICAL │ 2560 x 1600 │ 33                         │                                    │
+│ tokay               │ Google     │ Pixel 9                                  │ PHYSICAL │ 2424 x 1080 │ 34                         │                                    │
 │ vivo_1906           │ vivo       │ vivo 1906                                │ PHYSICAL │ 1544 x 720  │ 28                         │ deprecated=28                      │
 │ x1q                 │ Samsung    │ Galaxy S20                               │ PHYSICAL │ 3200 x 1440 │ 29                         │                                    │
 │ xcoverpro           │ Samsung    │ Galaxy XCover Pro                        │ PHYSICAL │ 2340 x 1080 │ 33                         │                                    │
