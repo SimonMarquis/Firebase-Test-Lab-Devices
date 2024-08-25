@@ -1137,6 +1137,24 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/zQJWOm5pHWiSw3EWI_Eh5SoadK5iNwT-C_LesEiafdWIticTBWgz1IwPcwtE2Dvkhc1dn2vLegRN"
   },
   {
+    "brand": "google",
+    "codename": "comet",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "comet",
+    "manufacturer": "Google",
+    "name": "Pixel 9 Pro Fold",
+    "screenDensity": 390,
+    "screenX": 2076,
+    "screenY": 2152,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ]
+  },
+  {
     "brand": "samsung",
     "codename": "crownqlteue",
     "form": "PHYSICAL",
