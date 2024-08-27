@@ -520,6 +520,9 @@
     "supportedVersionIds": [
       "28"
     ],
+    "tags": [
+      "deprecated=28"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/vIz6z6JSM6pKIwdOF0jMJQ9Ozche3w32eKnsppW3StF4m-lfQSmf_DYw4QepRjLxqANs7U82PnrvtQ"
   },
   {
