@@ -142,30 +142,6 @@
     ]
   },
   {
-    "brand": "HUAWEI",
-    "codename": "HWMHA",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "HWMHA",
-    "manufacturer": "Huawei",
-    "name": "Mate 9",
-    "screenDensity": 480,
-    "screenX": 1080,
-    "screenY": 1920,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "24"
-    ],
-    "tags": [
-      "deprecated=24"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/kWhwyvrchgAaa_hbhAH2uq1Wj_sPy6Jc98_Cs6Ju9K29NPH6tPnUk0SLfAbTmh1Zle-Vh4ibbUs"
-  },
-  {
     "brand": "Lenovo",
     "codename": "J606F",
     "form": "PHYSICAL",
@@ -1243,30 +1219,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
   },
   {
-    "brand": "samsung",
-    "codename": "f2q",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "f2q",
-    "manufacturer": "Samsung",
-    "name": "Galaxy Z Fold2",
-    "screenDensity": 480,
-    "screenX": 1768,
-    "screenY": 2208,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "30"
-    ],
-    "tags": [
-      "deprecated=30"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/T_MXb1ci-Q4Xl_g_XV19Yqa0LEbZQfEf8vZD4lKLPuFNe5t5gnCtsPbIB9Dvhz0D9xu8wEzOgNO6"
-  },
-  {
     "brand": "google",
     "codename": "felix",
     "form": "PHYSICAL",
@@ -1752,29 +1704,6 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/VFLWtB5AnehhKtT2ScpI12BnZ1WXSryh11NOBkYD2DAGTJt2mMC1ZenUVP5BsGoiYwbZ9FkBzdXS"
-  },
-  {
-    "brand": "vivo",
-    "codename": "vivo_1906",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "vivo_1906",
-    "manufacturer": "vivo",
-    "name": "vivo 1906",
-    "screenDensity": 320,
-    "screenX": 720,
-    "screenY": 1544,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "28"
-    ],
-    "tags": [
-      "deprecated=28"
-    ]
   },
   {
     "brand": "samsung",
