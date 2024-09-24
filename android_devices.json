@@ -1154,6 +1154,9 @@
     "supportedVersionIds": [
       "34"
     ],
+    "tags": [
+      "dda-default"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/dfhBj0T_wyl4qqYgqthNzV1oBiicXqbFLISFZXhRDMRews-YL_WtDiiGrgofdNA8_HZRuuNeJWv3CA"
   },
   {
@@ -1215,6 +1218,9 @@
     ],
     "supportedVersionIds": [
       "34"
+    ],
+    "tags": [
+      "dda-default"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
   },
@@ -1702,6 +1708,9 @@
     ],
     "supportedVersionIds": [
       "34"
+    ],
+    "tags": [
+      "dda-default"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/VFLWtB5AnehhKtT2ScpI12BnZ1WXSryh11NOBkYD2DAGTJt2mMC1ZenUVP5BsGoiYwbZ9FkBzdXS"
   },
