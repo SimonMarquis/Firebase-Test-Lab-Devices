@@ -664,6 +664,27 @@
     ]
   },
   {
+    "brand": "Lenovo",
+    "codename": "TB370FU",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "TB370FU",
+    "manufacturer": "Lenovo",
+    "name": "Lenovo Tab P12",
+    "screenDensity": 340,
+    "screenX": 1840,
+    "screenY": 2944,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/MKUfPPnYMtlCOfolCr25Nw0PrNt01OlhI3PTqq6pcCnsqQV6fCtW3K17M-TvhyvX_FwIvAcQPd3z"
+  },
+  {
     "brand": "Sony",
     "codename": "XQ-DC54",
     "form": "PHYSICAL",
