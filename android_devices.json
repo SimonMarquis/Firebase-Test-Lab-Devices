@@ -1572,6 +1572,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/gevX-T9Taxxe6cjWRxSjAsY7eoJxC9EjGuA6ircon-qaRaPrwfL6yeIubXO00dwlvi90AaTh39Xs"
   },
   {
+    "brand": "samsung",
+    "codename": "q6q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q6q",
+    "manufacturer": "Samsung",
+    "name": "SM-F956B",
+    "screenDensity": 420,
+    "screenX": 1856,
+    "screenY": 2160,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/S_VwRUp9aQszgfMb2tWiwNtxfM3s8wpyULyDOH2XgdiuIrwLLRfK8vMrs-bshSHO7Fhz1kzqgEMV"
+  },
+  {
     "brand": "google",
     "codename": "r11",
     "form": "PHYSICAL",

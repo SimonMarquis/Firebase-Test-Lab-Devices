@@ -72,6 +72,7 @@
 │ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30                         │                                    │
 │ q4q                 │ Samsung    │ Galaxy Z Fold4                           │ PHYSICAL │ 2176 x 1812 │ 33                         │                                    │
 │ q5q                 │ Samsung    │ Galaxy Z Fold5                           │ PHYSICAL │ 2176 x 1812 │ 34                         │                                    │
+│ q6q                 │ Samsung    │ SM-F956B                                 │ PHYSICAL │ 2160 x 1856 │ 34                         │                                    │
 │ r11                 │ Google     │ Google Pixel Watch                       │ PHYSICAL │  384 x 384  │ 30                         │                                    │
 │ redfin              │ Google     │ Pixel 5                                  │ PHYSICAL │ 2340 x 1080 │ 30                         │ default                            │
 │ shiba               │ Google     │ Pixel 8                                  │ PHYSICAL │ 2400 x 1080 │ 34                         │                                    │
