@@ -478,30 +478,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/KR76UKTC7_r-cR0nU82QQw6GLd37TiMWYpRqpsdLRTQIwOYLw_ahBd8UZLam3uLCpZSaE2y5w5QYjg"
   },
   {
-    "brand": "vivo",
-    "codename": "PD1901",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "PD1901",
-    "manufacturer": "vivo",
-    "name": "VIVO 1901",
-    "screenDensity": 320,
-    "screenX": 720,
-    "screenY": 1544,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "28"
-    ],
-    "tags": [
-      "deprecated=28"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/vIz6z6JSM6pKIwdOF0jMJQ9Ozche3w32eKnsppW3StF4m-lfQSmf_DYw4QepRjLxqANs7U82PnrvtQ"
-  },
-  {
     "brand": "Google",
     "codename": "Pixel2",
     "form": "VIRTUAL",
@@ -951,7 +927,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/-jYAkTPmoRKVJi5OXU41fNyhUmqQSFBmrrqAYcLkqmzR2B_99HbY0xWJtCaIm5KEtetS_H0qty0"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/uUcnszVlCOjsBx5mSxp7QJNIzKhZXRC2gTFdk6N0TJnwKIyT3u-1PJBr4JAiJVlYo1HdiFhxHfw"
   },
   {
     "brand": "samsung",
