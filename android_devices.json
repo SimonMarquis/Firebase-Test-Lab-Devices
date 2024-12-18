@@ -185,7 +185,8 @@
       "31",
       "32",
       "33",
-      "34"
+      "34",
+      "35"
     ]
   },
   {
@@ -211,7 +212,8 @@
       "31",
       "32",
       "33",
-      "34"
+      "34",
+      "35"
     ]
   },
   {
@@ -436,6 +438,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/z7DxYtXbyAi2a93dM3MI9oxTbdLfZZKMXqSBtcM0xUYKjCTnFAZJ3AlsDtYtw_jkT5pnQLnFaF-4"
   },
   {
+    "brand": "OPPO",
+    "codename": "OP573DL1",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "OP573DL1",
+    "manufacturer": "OPPO",
+    "name": "CPH2557",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/L91c6R5vWWOVfCZJmHFxTmRtUH4FNkBnKY4bXBtWYFrZr5sPX-zEefPQDtvmtl2MsIIRaeITmXYe"
+  },
+  {
     "brand": "OnePlus",
     "codename": "OP5958L1",
     "form": "PHYSICAL",
@@ -636,7 +659,8 @@
       "31",
       "32",
       "33",
-      "34"
+      "34",
+      "35"
     ]
   },
   {
