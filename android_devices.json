@@ -1266,6 +1266,24 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/PQzlGq9efYSc-AM6uGVUGsqw9J9SdZVxEVVaLjqLsQP0qqfA3zdoKCptbf-1YvShTlZ83AQpPMc9RQ"
   },
   {
+    "brand": "google",
+    "codename": "felix_camera",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "felix_camera",
+    "manufacturer": "Google",
+    "name": "Pixel Fold (Camera-enabled)",
+    "screenDensity": 420,
+    "screenX": 2208,
+    "screenY": 1840,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ]
+  },
+  {
     "brand": "samsung",
     "codename": "gta8wifi",
     "form": "PHYSICAL",
