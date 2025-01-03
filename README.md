@@ -29,7 +29,7 @@
 │ Pixel2              │ Google     │ Pixel 2                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30                │                                    │
 │ Pixel2.arm          │ Google     │ Pixel 2 (Arm)                            │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,31,32,33       │                                    │
 │ Pixel3              │ Google     │ Pixel 3                                  │ VIRTUAL  │ 2160 x 1080 │ 30                            │                                    │
-│ RED8BEL1            │ realme     │ realme GT NEO 3 150W                     │ PHYSICAL │ 2412 x 1080 │ 33                            │                                    │
+│ RED8BEL1            │ realme     │ realme GT NEO 3 150W                     │ PHYSICAL │ 2412 x 1080 │ 33                            │ deprecated=33                      │
 │ SH-01L              │ SHARP      │ AQUOS sense2 SH-01L                      │ PHYSICAL │ 2160 x 1080 │ 28                            │                                    │
 │ SO-41A              │ Sony       │ Xperia 10 II                             │ PHYSICAL │ 1080 x 2520 │ 31                            │                                    │
 │ SmallPhone.arm      │ Generic    │ Small Phone, 4.7in/12cm (Arm)            │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35 │                                    │
