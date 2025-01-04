@@ -25,7 +25,7 @@
 │ OP515BL1            │ OnePlus    │ OnePlus Nord2 5G                         │ PHYSICAL │ 2400 x 1080 │ 33                            │                                    │
 │ OP573DL1            │ OPPO       │ CPH2557                                  │ PHYSICAL │ 2400 x 1080 │ 34                            │                                    │
 │ OP5958L1            │ OnePlus    │ OnePlus Nord CE3 Lite                    │ PHYSICAL │ 2400 x 1080 │ 34                            │                                    │
-│ OnePlus9Pro         │ OnePlus    │ LE2121                                   │ PHYSICAL │ 2412 x 1080 │ 33                            │                                    │
+│ OnePlus9Pro         │ OnePlus    │ LE2121                                   │ PHYSICAL │ 2412 x 1080 │ 33                            │ deprecated=33                      │
 │ Pixel2              │ Google     │ Pixel 2                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30                │                                    │
 │ Pixel2.arm          │ Google     │ Pixel 2 (Arm)                            │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,31,32,33       │                                    │
 │ Pixel3              │ Google     │ Pixel 3                                  │ VIRTUAL  │ 2160 x 1080 │ 30                            │                                    │
