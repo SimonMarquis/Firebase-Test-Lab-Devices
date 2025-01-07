@@ -1533,6 +1533,9 @@
     "supportedVersionIds": [
       "30"
     ],
+    "tags": [
+      "deprecated=30"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/-0T0LkEXHA5PjXvo6N3qtYtMjTse08ljvS-eHLMRehgjaveNVtBwcVXvj4mYB4dUEkq7bTHgEL0d"
   },
   {

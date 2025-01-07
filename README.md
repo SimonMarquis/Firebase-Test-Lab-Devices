@@ -74,7 +74,7 @@
 │ oriole              │ Google     │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 32,33,31                      │                                    │
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                            │                                    │
 │ pettyl              │ Motorola   │ moto e5 play                             │ PHYSICAL │  960 x 480  │ 27                            │                                    │
-│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30                            │                                    │
+│ q2q                 │ Samsung    │ Galaxy Z Fold3                           │ PHYSICAL │ 2208 x 1768 │ 30                            │ deprecated=30                      │
 │ q4q                 │ Samsung    │ Galaxy Z Fold4                           │ PHYSICAL │ 2176 x 1812 │ 33                            │                                    │
 │ q5q                 │ Samsung    │ Galaxy Z Fold5                           │ PHYSICAL │ 2176 x 1812 │ 34                            │                                    │
 │ q6q                 │ Samsung    │ Galaxy Z Fold6                           │ PHYSICAL │ 2160 x 1856 │ 34                            │                                    │
