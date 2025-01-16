@@ -1252,6 +1252,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
   },
   {
+    "brand": "samsung",
+    "codename": "e3q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e3q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "screenDensity": 450,
+    "screenX": 1440,
+    "screenY": 3120,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/tBZGTf-WYLbxAr2ffC4PRPlRsvaDYhEQSXi2UmDpN5Hvx4Ofi0nUmsax-AaSvzSJMhxLSt9okQ8"
+  },
+  {
     "brand": "google",
     "codename": "felix",
     "form": "PHYSICAL",
@@ -1476,6 +1495,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/NHjiDpnVPpfRgpXRroEWwojXOXrnu_V04k5Hpw0_1QmDvcjk5jtdEvJDC8zoL20dz0839Vhy9ow"
   },
   {
+    "brand": "samsung",
+    "codename": "p3q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "p3q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S21 Ultra",
+    "screenDensity": 600,
+    "screenX": 1440,
+    "screenY": 3200,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/7WUVU79a6FKNQz5QUjdx3Rct_QbXGb_MxxTocNfTibHyhJ5p8dfWa0IP-5FuC4Jq5gPtevgkubjUVQ"
+  },
+  {
     "brand": "google",
     "codename": "panther",
     "form": "PHYSICAL",
@@ -1598,6 +1638,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/S_VwRUp9aQszgfMb2tWiwNtxfM3s8wpyULyDOH2XgdiuIrwLLRfK8vMrs-bshSHO7Fhz1kzqgEMV"
+  },
+  {
+    "brand": "samsung",
+    "codename": "r0q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r0q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S22",
+    "screenDensity": 425,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/Em0LK-cr2FRcROydSLZx3AxO64zRYCwq1wbIUoqVyb8q1CyoHApzR_uyF_qOxvcPUbAEHq20MMkK"
   },
   {
     "brand": "google",
