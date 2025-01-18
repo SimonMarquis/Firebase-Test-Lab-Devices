@@ -62,6 +62,7 @@
 │ dm3q                │ Samsung    │ Galaxy S23 Ultra                         │ PHYSICAL │ 3088 x 1440 │ 33,34                         │                                    │
 │ e1q                 │ Samsung    │ Galaxy S24                               │ PHYSICAL │ 2340 x 1080 │ 34                            │ dda-default                        │
 │ e3q                 │ Samsung    │ Galaxy S24 Ultra                         │ PHYSICAL │ 3120 x 1440 │ 34                            │                                    │
+│ eos                 │ Google     │ Eos                                      │ PHYSICAL │  384 x 384  │ 33                            │                                    │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 33,34                         │                                    │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                            │                                    │
 │ gta8wifi            │ Samsung    │ Galaxy Tab A8                            │ PHYSICAL │ 1920 x 1200 │ 34                            │                                    │

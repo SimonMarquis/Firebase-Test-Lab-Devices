@@ -1272,6 +1272,26 @@
   },
   {
     "brand": "google",
+    "codename": "eos",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "eos",
+    "manufacturer": "Google",
+    "name": "Eos",
+    "screenDensity": 320,
+    "screenX": 384,
+    "screenY": 384,
+    "supportedAbis": [
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/k6dk5Za7k-W6-F_R6b2Cm_MlePETPlVJOkmdHy_cMc50L_GQDivlbtXPdAZBcviqs4ZZkVwt-bY"
+  },
+  {
+    "brand": "google",
     "codename": "felix",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
