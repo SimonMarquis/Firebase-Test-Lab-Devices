@@ -65,6 +65,7 @@
 │ eos                 │ Google     │ Eos                                      │ PHYSICAL │  384 x 384  │ 33                            │                                    │
 │ felix               │ Google     │ Pixel Fold                               │ PHYSICAL │ 1840 x 2208 │ 33,34                         │                                    │
 │ felix_camera        │ Google     │ Pixel Fold (Camera-enabled)              │ PHYSICAL │ 1840 x 2208 │ 33                            │                                    │
+│ fogona              │ Motorola   │ moto g play - 2024                       │ PHYSICAL │ 1600 x 720  │ 34                            │                                    │
 │ gta8wifi            │ Samsung    │ Galaxy Tab A8                            │ PHYSICAL │ 1920 x 1200 │ 34                            │                                    │
 │ gtaxlwifi           │ Samsung    │ Galaxy Tab A (2016)                      │ PHYSICAL │ 1920 x 1200 │ 27                            │                                    │
 │ gts3lltevzw         │ Samsung    │ Galaxy Tab S3                            │ PHYSICAL │ 1536 x 2048 │ 28                            │ deprecated=28                      │

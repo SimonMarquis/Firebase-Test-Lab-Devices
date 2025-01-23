@@ -1329,6 +1329,27 @@
     ]
   },
   {
+    "brand": "motorola",
+    "codename": "fogona",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "fogona",
+    "manufacturer": "Motorola",
+    "name": "moto g play - 2024",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/v7mEgPMBuUHmf6L1CPeg1TTTUb2GVt5JMGxB2Mnk24rBWZkkigigZpBJdebfCWT7kcSAPMyQL6_D"
+  },
+  {
     "brand": "samsung",
     "codename": "gta8wifi",
     "form": "PHYSICAL",
