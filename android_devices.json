@@ -1513,6 +1513,26 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/U-GToW5yqIO-PwdGaJaRsyE9c-6F0HdbTN3lE1RPd1yQccxGJdtlGj1UVqTvubXNyi6IfFaJbj94"
   },
   {
+    "brand": "motorola",
+    "codename": "maui",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "maui",
+    "manufacturer": "Motorola",
+    "name": "moto g play - 2023",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/jIZUUPeJDytTNIciUB1CzCe1CUq3e4JcG18w2i-wsk38irTcYdkzBqrmzpWy7FLh4SZ-P8m40aPy"
+  },
+  {
     "brand": "google",
     "codename": "oriole",
     "form": "PHYSICAL",

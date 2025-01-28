@@ -74,6 +74,7 @@
 │ java                │ Motorola   │ Motorola G20                             │ PHYSICAL │ 1600 x 720  │ 30                            │                                    │
 │ komodo              │ Google     │ Pixel 9 Pro XL                           │ PHYSICAL │ 2244 x 1008 │ 34                            │                                    │
 │ lynx                │ Google     │ Pixel 7a                                 │ PHYSICAL │ 2400 x 1080 │ 33                            │                                    │
+│ maui                │ Motorola   │ moto g play - 2023                       │ PHYSICAL │ 1600 x 720  │ 33                            │                                    │
 │ oriole              │ Google     │ Pixel 6                                  │ PHYSICAL │ 2400 x 1080 │ 32,33,31                      │                                    │
 │ p3q                 │ Samsung    │ Galaxy S21 Ultra                         │ PHYSICAL │ 3200 x 1440 │ 34                            │                                    │
 │ panther             │ Google     │ Pixel 7                                  │ PHYSICAL │ 2400 x 1080 │ 33                            │                                    │
