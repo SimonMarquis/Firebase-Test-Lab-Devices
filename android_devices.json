@@ -1209,6 +1209,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "dm2q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dm2q",
+    "manufacturer": "Samsung",
+    "name": "S23 Plus",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/EJjgNr0yotC6t6QCwd4yYIZ_B5HOEMPuPI_tZsXJ6l7kSezRC2b_91TVqViKJbz0F-z5c9UJTUzJ"
+  },
+  {
+    "brand": "samsung",
     "codename": "dm3q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
