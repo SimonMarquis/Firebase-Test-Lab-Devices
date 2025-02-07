@@ -195,7 +195,6 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "25",
       "26",
       "27",
       "28",
@@ -206,9 +205,6 @@
       "33",
       "34",
       "35"
-    ],
-    "tags": [
-      "preview=25"
     ]
   },
   {
@@ -436,28 +432,6 @@
     "tags": [
       "deprecated=24",
       "deprecated=25"
-    ]
-  },
-  {
-    "brand": "Google",
-    "codename": "NexusLowRes.arm",
-    "form": "VIRTUAL",
-    "formFactor": "PHONE",
-    "id": "NexusLowRes.arm",
-    "manufacturer": "Generic",
-    "name": "Low-resolution MDPI phone, 4.6in/12cm (Arm)",
-    "screenDensity": 160,
-    "screenX": 360,
-    "screenY": 640,
-    "supportedAbis": [
-      "arm64-v8a"
-    ],
-    "supportedVersionIds": [
-      "26",
-      "27",
-      "28",
-      "29",
-      "30"
     ]
   },
   {
@@ -986,6 +960,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/ob_Uiw0VN1PkSOlaJW0OaGijG0RdJV8FIuHG1-boPsEcnee6DAAuGHHWZVA3BeASw2ZPiJwmdcM"
   },
   {
+    "brand": "motorola",
+    "codename": "arcfox",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "arcfox",
+    "manufacturer": "Motorola",
+    "name": "motorola razr plus 2024",
+    "screenDensity": 360,
+    "screenX": 1080,
+    "screenY": 1272,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/hPIRUYIi4dYCpDFl1A7Asq2e-E4BNfIkl1WxTRJX1qhtS6cGKeJNLhRTcFVs6h0lomabZUzTWTIx"
+  },
+  {
     "brand": "samsung",
     "codename": "b0q",
     "form": "PHYSICAL",
@@ -1416,6 +1409,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/v7mEgPMBuUHmf6L1CPeg1TTTUb2GVt5JMGxB2Mnk24rBWZkkigigZpBJdebfCWT7kcSAPMyQL6_D"
+  },
+  {
+    "brand": "samsung",
+    "codename": "g0q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "g0q",
+    "manufacturer": "Samsung",
+    "name": "SM-S906U1",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/oaKy1va_Ew4p7B5U0pnkp0VUnM9NlDs1kER1M6pZ8uM_ADVTQhHbQwUPBhMzumk5MgLrSaKjXi25"
   },
   {
     "brand": "samsung",
