@@ -42,6 +42,7 @@
 │ a10                     │ Samsung    │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                            │                                    │
 │ a12                     │ Samsung    │ Galaxy A12                                     │ PHYSICAL │ 1600 x 720  │ 31                            │                                    │
 │ a14xm                   │ Samsung    │ Galaxy A14                                     │ PHYSICAL │ 2400 x 1080 │ 34                            │                                    │
+│ a15                     │ Samsung    │ Samsung A15                                    │ PHYSICAL │ 2340 x 1080 │ 34                            │                                    │
 │ a25x                    │ Samsung    │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                            │                                    │
 │ a51                     │ Samsung    │ Galaxy A51                                     │ PHYSICAL │ 2400 x 1080 │ 31                            │ deprecated=31                      │
 │ a52sxq                  │ Samsung    │ Galaxy A52s                                    │ PHYSICAL │ 2400 x 1080 │ 34                            │                                    │

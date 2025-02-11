@@ -855,6 +855,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a15",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a15",
+    "manufacturer": "Samsung",
+    "name": "Samsung A15",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/tqb82jHIfETNtoiT5ZQAmC6XGZMQhq2HoOKUTEdkBTTCfQ5GE3iGEE6S32BX1SqkrhA-OpoXscQ"
+  },
+  {
+    "brand": "samsung",
     "codename": "a25x",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
