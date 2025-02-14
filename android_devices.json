@@ -181,7 +181,7 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/3_CuQyIpFznYSZmuuzfG8EF_qT-6DDLN2VXZE5FTg4BZcES3v0poFWPYhbSZGlkxzUIwfC8mqc9B"
   },
   {
-    "brand": "Google",
+    "brand": "Generic",
     "codename": "MediumPhone.arm",
     "form": "VIRTUAL",
     "formFactor": "PHONE",
@@ -208,13 +208,13 @@
     ]
   },
   {
-    "brand": "Google",
+    "brand": "Generic",
     "codename": "MediumTablet.arm",
     "form": "VIRTUAL",
     "formFactor": "TABLET",
     "id": "MediumTablet.arm",
     "manufacturer": "Generic",
-    "name": "Medium Tablet, 10in/25cm (Arm)",
+    "name": "Medium Tablet, 10.05in/25cm (Arm)",
     "screenDensity": 320,
     "screenX": 1600,
     "screenY": 2560,
@@ -453,6 +453,9 @@
     "supportedVersionIds": [
       "33"
     ],
+    "tags": [
+      "deprecated=33"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/z7DxYtXbyAi2a93dM3MI9oxTbdLfZZKMXqSBtcM0xUYKjCTnFAZJ3AlsDtYtw_jkT5pnQLnFaF-4"
   },
   {
@@ -661,13 +664,13 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/ky2ZeZwXHjZ-gBXSZA4N5k2hrP1HlmjId6eEGoouUAty4cyAPzHWdfDKfN1yZvxHldDpehYX5dWd"
   },
   {
-    "brand": "Android",
+    "brand": "Generic",
     "codename": "SmallPhone.arm",
     "form": "VIRTUAL",
     "formFactor": "PHONE",
     "id": "SmallPhone.arm",
     "manufacturer": "Generic",
-    "name": "Small Phone, 4.7in/12cm (Arm)",
+    "name": "Small Phone, 4.65in/12cm (Arm)",
     "screenDensity": 320,
     "screenX": 720,
     "screenY": 1280,
@@ -1843,6 +1846,27 @@
       "30"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/k6dk5Za7k-W6-F_R6b2Cm_MlePETPlVJOkmdHy_cMc50L_GQDivlbtXPdAZBcviqs4ZZkVwt-bY"
+  },
+  {
+    "brand": "samsung",
+    "codename": "r11q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r11q",
+    "manufacturer": "Samsung",
+    "name": "SM-S711U",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/opAt-FW0N3ksz9O2rSzuw2DM6Ou25obTXFH00FGHSl6_WG7uM_sHCnr3tviDJ5byXnR6k05gpy9Z"
   },
   {
     "brand": "google",

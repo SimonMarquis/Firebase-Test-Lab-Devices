@@ -16,14 +16,14 @@
 │ GoogleTvEmulator        │ Google     │ Google TV                                      │ VIRTUAL  │  720 x 1280 │ 30                            │ beta=30                            │
 │ J606F                   │ Lenovo     │ Lenovo Tab P11                                 │ PHYSICAL │ 2000 x 1200 │ 30                            │                                    │
 │ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34,35 │                                    │
-│ MediumTablet.arm        │ Generic    │ Medium Tablet, 10in/25cm (Arm)                 │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35 │                                    │
+│ MediumTablet.arm        │ Generic    │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35 │                                    │
 │ Nexus5X                 │ LG         │ Nexus 5X                                       │ VIRTUAL  │ 1920 x 1080 │ 24,25,26                      │ deprecated=24, deprecated=25       │
 │ Nexus6                  │ Motorola   │ Nexus 6                                        │ VIRTUAL  │ 2560 x 1440 │ 24,25                         │ deprecated=24, deprecated=25       │
 │ Nexus6P                 │ Google     │ Nexus 6P                                       │ VIRTUAL  │ 2560 x 1440 │ 24,25,26,27                   │ deprecated=24, deprecated=25       │
 │ Nexus7_clone_16_9       │ Generic    │ Nexus7 clone, DVD 16:9 aspect ratio            │ VIRTUAL  │ 1280 x 720  │ 24,25,26                      │ deprecated=24, deprecated=25, beta │
 │ Nexus9                  │ HTC        │ Nexus 9                                        │ VIRTUAL  │ 2048 x 1536 │ 24,25                         │ deprecated=24, deprecated=25       │
 │ NexusLowRes             │ Generic    │ Low-resolution MDPI phone                      │ VIRTUAL  │  640 x 360  │ 24,25,26,27,28,29,30          │ deprecated=24, deprecated=25       │
-│ OP515BL1                │ OnePlus    │ OnePlus Nord2 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                            │                                    │
+│ OP515BL1                │ OnePlus    │ OnePlus Nord2 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                            │ deprecated=33                      │
 │ OP573DL1                │ OPPO       │ CPH2557                                        │ PHYSICAL │ 2400 x 1080 │ 34                            │                                    │
 │ OP5958L1                │ OnePlus    │ OnePlus Nord CE3 Lite                          │ PHYSICAL │ 2400 x 1080 │ 34                            │                                    │
 │ OnePlus9Pro             │ OnePlus    │ LE2121                                         │ PHYSICAL │ 2412 x 1080 │ 33                            │ deprecated=33                      │
@@ -33,7 +33,7 @@
 │ RED8BEL1                │ realme     │ realme GT NEO 3 150W                           │ PHYSICAL │ 2412 x 1080 │ 33                            │ deprecated=33                      │
 │ SH-01L                  │ SHARP      │ AQUOS sense2 SH-01L                            │ PHYSICAL │ 2160 x 1080 │ 28                            │                                    │
 │ SO-41A                  │ Sony       │ Xperia 10 II                                   │ PHYSICAL │ 1080 x 2520 │ 31                            │                                    │
-│ SmallPhone.arm          │ Generic    │ Small Phone, 4.7in/12cm (Arm)                  │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35 │                                    │
+│ SmallPhone.arm          │ Generic    │ Small Phone, 4.65in/12cm (Arm)                 │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35 │                                    │
 │ TB370FU                 │ Lenovo     │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 34                            │                                    │
 │ XQ-DC54                 │ Sony       │ XQ-DC54                                        │ PHYSICAL │ 2520 x 1080 │ 34                            │                                    │
 │ XQ-DQ72                 │ Sony       │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                            │                                    │
@@ -90,6 +90,7 @@
 │ q6q                     │ Samsung    │ Galaxy Z Fold6                                 │ PHYSICAL │ 2160 x 1856 │ 34                            │                                    │
 │ r0q                     │ Samsung    │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 34                            │                                    │
 │ r11                     │ Google     │ Google Pixel Watch                             │ PHYSICAL │  384 x 384  │ 30                            │                                    │
+│ r11q                    │ Samsung    │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                            │                                    │
 │ redfin                  │ Google     │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                            │ default                            │
 │ shiba                   │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 34                            │                                    │
 │ shiba_beta              │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35                            │                                    │
