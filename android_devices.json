@@ -1457,6 +1457,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "gta7lite",
+    "form": "PHYSICAL",
+    "formFactor": "TABLET",
+    "id": "gta7lite",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Tab A7 Lite",
+    "screenDensity": 179,
+    "screenX": 800,
+    "screenY": 1340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/2Op6yDUibyINnbGtbmo5s8mnl4GgnEeub7-IL6hxEBKCTNCf2YxhFcTPW6MnhOT_1KJxlMY2HBxrTw"
+  },
+  {
+    "brand": "samsung",
     "codename": "gta8wifi",
     "form": "PHYSICAL",
     "formFactor": "TABLET",
