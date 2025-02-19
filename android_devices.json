@@ -39,7 +39,8 @@
       "29"
     ],
     "tags": [
-      "beta=29"
+      "beta=29",
+      "deprecated=29"
     ]
   },
   {
@@ -58,6 +59,9 @@
     ],
     "supportedVersionIds": [
       "30"
+    ],
+    "tags": [
+      "deprecated=30"
     ]
   },
   {
@@ -156,7 +160,8 @@
       "30"
     ],
     "tags": [
-      "beta=30"
+      "beta=30",
+      "deprecated=30"
     ]
   },
   {
@@ -263,7 +268,8 @@
     ],
     "tags": [
       "deprecated=24",
-      "deprecated=25"
+      "deprecated=25",
+      "deprecated=26"
     ]
   },
   {
@@ -327,7 +333,9 @@
     ],
     "tags": [
       "deprecated=24",
-      "deprecated=25"
+      "deprecated=25",
+      "deprecated=26",
+      "deprecated=27"
     ]
   },
   {
@@ -360,6 +368,7 @@
     "tags": [
       "deprecated=24",
       "deprecated=25",
+      "deprecated=26",
       "beta"
     ]
   },
@@ -431,7 +440,12 @@
     ],
     "tags": [
       "deprecated=24",
-      "deprecated=25"
+      "deprecated=25",
+      "deprecated=26",
+      "deprecated=27",
+      "deprecated=28",
+      "deprecated=29",
+      "deprecated=30"
     ]
   },
   {
@@ -552,6 +566,13 @@
       "28",
       "29",
       "30"
+    ],
+    "tags": [
+      "deprecated=26",
+      "deprecated=27",
+      "deprecated=28",
+      "deprecated=29",
+      "deprecated=30"
     ]
   },
   {
@@ -595,6 +616,9 @@
     ],
     "supportedVersionIds": [
       "30"
+    ],
+    "tags": [
+      "deprecated=30"
     ]
   },
   {
