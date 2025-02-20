@@ -229,6 +229,49 @@
       "telephony"
     ],
     "formFactor": "PHONE",
+    "id": "iphone15pro",
+    "name": "iPhone 15 Pro",
+    "screenDensity": 460,
+    "screenX": 1179,
+    "screenY": 2556,
+    "supportedVersionIds": [
+      "18.0"
+    ],
+    "tags": [
+      "preview=18.0"
+    ]
+  },
+  {
+    "deviceCapabilities": [
+      "accelerometer",
+      "arm64",
+      "armv6",
+      "armv7",
+      "auto-focus-camera",
+      "bluetooth-le",
+      "front-facing-camera",
+      "gamekit",
+      "gyroscope",
+      "location-services",
+      "magnetometer",
+      "metal",
+      "microphone",
+      "opengles-1",
+      "opengles-2",
+      "opengles-3",
+      "peer-peer",
+      "still-camera",
+      "video-camera",
+      "wifi",
+      "arkit",
+      "camera-flash",
+      "gps",
+      "healthkit",
+      "nfc",
+      "sms",
+      "telephony"
+    ],
+    "formFactor": "PHONE",
     "id": "iphone8",
     "name": "iPhone 8",
     "screenDensity": 326,
