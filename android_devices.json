@@ -924,6 +924,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a35x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a35x",
+    "manufacturer": "Samsung",
+    "name": "Samsung A35",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/y6fHqkDKKr8IqxaeR8bIqcRJOgtpZRQOv_qYWYAkLN9alaaqh85hSiGYHRznuD_xH3F6uKyRFITt"
+  },
+  {
+    "brand": "samsung",
     "codename": "a51",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -2018,6 +2039,27 @@
       "deprecated=26"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/xD06N1P46ZHuvYUnWkZBd5Alqr5pkkbreynLQ29yRO4-YFE3yDqix9MFUy-9rC0aLmSOb9UJOeI7"
+  },
+  {
+    "brand": "samsung",
+    "codename": "t2q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "t2q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S21 Plus",
+    "screenDensity": 394,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/B-HROKSpb1HJM8qbK9HhPrhJsei8BHXTYPgeYWwJbf5XKgtjBN-r73XDfxxKaZFUn_VcK8wz8N8"
   },
   {
     "brand": "google",
