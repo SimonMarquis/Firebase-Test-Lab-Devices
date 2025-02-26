@@ -515,30 +515,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/_Qljgtm5ase9sA-Isw9K23yM-2l6lS5iRwi9H51Nu3IZsMs5K6uZnT5varo8ywKlJb13k0jIN3Yx"
   },
   {
-    "brand": "OnePlus",
-    "codename": "OnePlus9Pro",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "OnePlus9Pro",
-    "manufacturer": "OnePlus",
-    "name": "LE2121",
-    "screenDensity": 480,
-    "screenX": 1080,
-    "screenY": 2412,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "33"
-    ],
-    "tags": [
-      "deprecated=33"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/KR76UKTC7_r-cR0nU82QQw6GLd37TiMWYpRqpsdLRTQIwOYLw_ahBd8UZLam3uLCpZSaE2y5w5QYjg"
-  },
-  {
     "brand": "Google",
     "codename": "Pixel2",
     "form": "VIRTUAL",
@@ -1588,6 +1564,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "gts7xllite",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gts7xllite",
+    "manufacturer": "Samsung",
+    "name": "SM-T738U",
+    "screenDensity": 340,
+    "screenX": 1600,
+    "screenY": 2560,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/hheN13ltUM9hMuLl4y9aP352pjHu-hRLr98Ai72-b7UiAcntpyv_0yFJywdImIG1dwYgEuhSBNWXjg"
+  },
+  {
+    "brand": "samsung",
     "codename": "gts8uwifi",
     "form": "PHYSICAL",
     "formFactor": "TABLET",
@@ -1605,6 +1602,27 @@
     "supportedVersionIds": [
       "33"
     ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "gts8wifi",
+    "form": "PHYSICAL",
+    "formFactor": "TABLET",
+    "id": "gts8wifi",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Tab S8",
+    "screenDensity": 274,
+    "screenX": 1600,
+    "screenY": 2560,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/NtcLquoQ4L6pE4v01Do23roPWOnUGTjTRWxuVlDq39vfF7MKU-yIOq4dhSCNgG-ev2riZEMmHsY"
   },
   {
     "brand": "google",
@@ -1705,6 +1723,26 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/jIZUUPeJDytTNIciUB1CzCe1CUq3e4JcG18w2i-wsk38irTcYdkzBqrmzpWy7FLh4SZ-P8m40aPy"
   },
   {
+    "brand": "samsung",
+    "codename": "o1q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "o1q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S21",
+    "screenDensity": 421,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ]
+  },
+  {
     "brand": "google",
     "codename": "oriole",
     "form": "PHYSICAL",
@@ -1786,30 +1824,6 @@
       "27"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/TuUs3GBwEfKr1u6JNSyQ9yTXeLbJMOz249N7ASi-od_wBoXUmxQ93lHBZV6TsahQU0B8ai5ZPCHG0g"
-  },
-  {
-    "brand": "samsung",
-    "codename": "q2q",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "q2q",
-    "manufacturer": "Samsung",
-    "name": "Galaxy Z Fold3",
-    "screenDensity": 420,
-    "screenX": 1768,
-    "screenY": 2208,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "30"
-    ],
-    "tags": [
-      "deprecated=30"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/-0T0LkEXHA5PjXvo6N3qtYtMjTse08ljvS-eHLMRehgjaveNVtBwcVXvj4mYB4dUEkq7bTHgEL0d"
   },
   {
     "brand": "samsung",
