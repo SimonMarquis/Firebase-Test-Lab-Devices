@@ -1024,6 +1024,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/hPIRUYIi4dYCpDFl1A7Asq2e-E4BNfIkl1WxTRJX1qhtS6cGKeJNLhRTcFVs6h0lomabZUzTWTIx"
   },
   {
+    "brand": "motorola",
+    "codename": "austin",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "austin",
+    "manufacturer": "Motorola",
+    "name": "moto g 5G (2022)",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/5E4pAVuAg3WyEbYISi6hL-Fq2BfFHyw9wmnMI8XZuccB_3mHCkmn_vpZd6JPDbDtNeogEuHIHZtF6A"
+  },
+  {
     "brand": "samsung",
     "codename": "b0q",
     "form": "PHYSICAL",
