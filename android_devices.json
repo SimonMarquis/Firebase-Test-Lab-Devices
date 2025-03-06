@@ -473,6 +473,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/z7DxYtXbyAi2a93dM3MI9oxTbdLfZZKMXqSBtcM0xUYKjCTnFAZJ3AlsDtYtw_jkT5pnQLnFaF-4"
   },
   {
+    "brand": "OnePlus",
+    "codename": "OP5552L1",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "OP5552L1",
+    "manufacturer": "OnePlus",
+    "name": "CPH2415",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2412,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/EbE3WvSHa1Afo2hNGTdBSb_Eedy77Z-A_1OAv8VfTJNBEgGogSdP-cw8hzH7h5iqXWN3lPbcu19uOw"
+  },
+  {
     "brand": "OPPO",
     "codename": "OP573DL1",
     "form": "PHYSICAL",
@@ -1516,7 +1537,7 @@
     "supportedVersionIds": [
       "34"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/2Op6yDUibyINnbGtbmo5s8mnl4GgnEeub7-IL6hxEBKCTNCf2YxhFcTPW6MnhOT_1KJxlMY2HBxrTw"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/7RkTFLt81xtHx1nxM0lFixM4JmIxj3SwlsbOXIGuBgRRD3286zzjuJIkyepyZy3pd0Mjk-CyfvQKmw"
   },
   {
     "brand": "samsung",
@@ -1644,6 +1665,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/NtcLquoQ4L6pE4v01Do23roPWOnUGTjTRWxuVlDq39vfF7MKU-yIOq4dhSCNgG-ev2riZEMmHsY"
+  },
+  {
+    "brand": "samsung",
+    "codename": "gts9fe",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gts9fe",
+    "manufacturer": "Samsung",
+    "name": "Samsung Galaxy Tab S9 FE 5G",
+    "screenDensity": 280,
+    "screenX": 1440,
+    "screenY": 2304,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/V6CMufkZEPnI1y2OUXNe-RlEgOQOjGWcB-4a1B4xBntpynYuKcxYOxL2d9iRl8iLxFTseVUnHXkh"
   },
   {
     "brand": "google",
