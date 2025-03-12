@@ -2172,7 +2172,8 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "34"
+      "34",
+      "35"
     ],
     "tags": [
       "dda-default"
