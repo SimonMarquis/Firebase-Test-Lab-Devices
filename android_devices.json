@@ -1562,6 +1562,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "gta9pwifi",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gta9pwifi",
+    "manufacturer": "Samsung",
+    "name": "SM-X210",
+    "screenDensity": 240,
+    "screenX": 1200,
+    "screenY": 1920,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/4Oea5lXX59kuvn0CM7NE82PkSEVDyUYoecLtYgVPFEHbgnZkLzJ1FWfXXKu93xRn71yF3TeFbY0"
+  },
+  {
+    "brand": "samsung",
     "codename": "gtaxlwifi",
     "form": "PHYSICAL",
     "formFactor": "TABLET",
