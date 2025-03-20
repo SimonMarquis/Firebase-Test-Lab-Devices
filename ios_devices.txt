@@ -6,6 +6,7 @@
 │ iphone12pro │ iPhone 12 Pro          │ 14.8           │ deprecated=14.8 │
 │ iphone13pro │ iPhone 13 Pro          │ 15.7,16.6      │ default         │
 │ iphone14pro │ iPhone 14 Pro          │ 16.6           │                 │
+│ iphone15    │ iPhone 15              │ 18.0           │ preview=18.0    │
 │ iphone15pro │ iPhone 15 Pro          │ 18.0           │ preview=18.0    │
 │ iphone8     │ iPhone 8               │ 14.7,15.7,16.6 │ deprecated=14.7 │
 └─────────────┴────────────────────────┴────────────────┴─────────────────┘
