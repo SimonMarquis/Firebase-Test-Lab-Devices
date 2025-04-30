@@ -784,6 +784,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a16x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a16x",
+    "manufacturer": "Samsung",
+    "name": "Samsung A16 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/o043c8_tvK5huXwojBX528a_n_QxCBKPhMB3vGMi4o8jqB9JB6VEnjgo1vTchwe3aMst0lnjSe5Zqw"
+  },
+  {
+    "brand": "samsung",
     "codename": "a25x",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
