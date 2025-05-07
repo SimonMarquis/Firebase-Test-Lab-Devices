@@ -120,6 +120,9 @@
     "supportedVersionIds": [
       "27"
     ],
+    "tags": [
+      "deprecated=27"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/S1o2WB_jvLqf6frd_CSBPe1-aCOrykz3cbjCbfJGViwc9m_-Nxf0aYII63qnb7OpEZ19dMoAEUqw"
   },
   {
@@ -1005,6 +1008,9 @@
     ],
     "supportedVersionIds": [
       "31"
+    ],
+    "tags": [
+      "deprecated=31"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/ALyDpddGfldLEyMuvhtuLKCk78jTceV2bt7iEbutA-SqOzNxxW6Op7bnzHDlliNA23aqxglfN-yrRg"
   },
@@ -1958,6 +1964,9 @@
     ],
     "supportedVersionIds": [
       "29"
+    ],
+    "tags": [
+      "deprecated=29"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/FLdP9p2yRcQ1aeg9fa1BWN4Q5EGDh6rT7XX2Qk_p4m3jjPwRwT5IoybWEq1j2yDKpXVKKw6SndY"
   },
