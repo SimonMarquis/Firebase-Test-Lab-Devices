@@ -71,7 +71,7 @@
 │ gts9fe                  │ Samsung    │ Samsung Galaxy Tab S9 FE 5G                    │ PHYSICAL │ 2304 x 1440 │ 34                            │                        │
 │ husky                   │ Google     │ Pixel 8 Pro                                    │ PHYSICAL │ 2244 x 1008 │ 34                            │                        │
 │ java                    │ Motorola   │ Motorola G20                                   │ PHYSICAL │ 1600 x 720  │ 30                            │                        │
-│ komodo                  │ Google     │ Pixel 9 Pro XL                                 │ PHYSICAL │ 2244 x 1008 │ 34                            │                        │
+│ komodo                  │ Google     │ Pixel 9 Pro XL                                 │ PHYSICAL │ 2244 x 1008 │ 34,35                         │                        │
 │ lynx                    │ Google     │ Pixel 7a                                       │ PHYSICAL │ 2400 x 1080 │ 33                            │                        │
 │ maui                    │ Motorola   │ moto g play - 2023                             │ PHYSICAL │ 1600 x 720  │ 33                            │                        │
 │ o1q                     │ Samsung    │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
