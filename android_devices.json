@@ -193,8 +193,8 @@
       "31",
       "32",
       "33",
-      "34",
-      "35"
+      "35",
+      "34"
     ]
   },
   {
@@ -446,6 +446,7 @@
       "armeabi"
     ],
     "supportedVersionIds": [
+      "35",
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/MKUfPPnYMtlCOfolCr25Nw0PrNt01OlhI3PTqq6pcCnsqQV6fCtW3K17M-TvhyvX_FwIvAcQPd3z"

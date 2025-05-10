@@ -14,7 +14,7 @@
 │ FRT                     │ HMD Global │ Nokia 1                                        │ PHYSICAL │  854 x 480  │ 27                            │ deprecated=27          │
 │ GoogleTvEmulator        │ Google     │ Google TV                                      │ VIRTUAL  │  720 x 1280 │ 30                            │ beta=30, deprecated=30 │
 │ J606F                   │ Lenovo     │ Lenovo Tab P11                                 │ PHYSICAL │ 2000 x 1200 │ 30                            │ deprecated=30          │
-│ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34,35 │                        │
+│ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,35,34 │                        │
 │ MediumTablet.arm        │ Generic    │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35 │                        │
 │ OP515BL1                │ OnePlus    │ OnePlus Nord2 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                            │ deprecated=33          │
 │ OP5552L1                │ OnePlus    │ CPH2415                                        │ PHYSICAL │ 2412 x 1080 │ 34                            │                        │
@@ -25,7 +25,7 @@
 │ SH-01L                  │ SHARP      │ AQUOS sense2 SH-01L                            │ PHYSICAL │ 2160 x 1080 │ 28                            │                        │
 │ SO-41A                  │ Sony       │ Xperia 10 II                                   │ PHYSICAL │ 1080 x 2520 │ 31                            │                        │
 │ SmallPhone.arm          │ Generic    │ Small Phone, 4.65in/12cm (Arm)                 │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35 │                        │
-│ TB370FU                 │ Lenovo     │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 34                            │                        │
+│ TB370FU                 │ Lenovo     │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35,34                         │                        │
 │ XQ-DC54                 │ Sony       │ XQ-DC54                                        │ PHYSICAL │ 2520 x 1080 │ 34                            │                        │
 │ XQ-DQ72                 │ Sony       │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                            │                        │
 │ a02q                    │ Samsung    │ Galaxy A02s                                    │ PHYSICAL │ 1600 x 720  │ 31                            │                        │
