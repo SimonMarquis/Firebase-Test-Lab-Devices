@@ -25,7 +25,7 @@
 │ SH-01L                  │ SHARP      │ AQUOS sense2 SH-01L                            │ PHYSICAL │ 2160 x 1080 │ 28                            │                        │
 │ SO-41A                  │ Sony       │ Xperia 10 II                                   │ PHYSICAL │ 1080 x 2520 │ 31                            │                        │
 │ SmallPhone.arm          │ Generic    │ Small Phone, 4.65in/12cm (Arm)                 │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35 │                        │
-│ TB370FU                 │ Lenovo     │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35,34                         │                        │
+│ TB370FU                 │ Lenovo     │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35                            │                        │
 │ XQ-DC54                 │ Sony       │ XQ-DC54                                        │ PHYSICAL │ 2520 x 1080 │ 34                            │                        │
 │ XQ-DQ72                 │ Sony       │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                            │                        │
 │ a02q                    │ Samsung    │ Galaxy A02s                                    │ PHYSICAL │ 1600 x 720  │ 31                            │                        │
@@ -34,6 +34,7 @@
 │ a12                     │ Samsung    │ Galaxy A12                                     │ PHYSICAL │ 1600 x 720  │ 31                            │                        │
 │ a14xm                   │ Samsung    │ Galaxy A14                                     │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ a15                     │ Samsung    │ Samsung A15                                    │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
+│ a15x                    │ Samsung    │ Samsung A15 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ a16x                    │ Samsung    │ Samsung A16 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ a25x                    │ Samsung    │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ a35x                    │ Samsung    │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │

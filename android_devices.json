@@ -446,8 +446,7 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "35",
-      "34"
+      "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/MKUfPPnYMtlCOfolCr25Nw0PrNt01OlhI3PTqq6pcCnsqQV6fCtW3K17M-TvhyvX_FwIvAcQPd3z"
   },
@@ -616,6 +615,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/tqb82jHIfETNtoiT5ZQAmC6XGZMQhq2HoOKUTEdkBTTCfQ5GE3iGEE6S32BX1SqkrhA-OpoXscQ"
+  },
+  {
+    "brand": "samsung",
+    "codename": "a15x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a15x",
+    "manufacturer": "Samsung",
+    "name": "Samsung A15 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/9LIUbZneB5fBZWJjKWDfkaWpOLOuuNQFLw6TX8i4ueJgSozroYo4BYOL2vUBuppg8toEJf37XtM"
   },
   {
     "brand": "samsung",
