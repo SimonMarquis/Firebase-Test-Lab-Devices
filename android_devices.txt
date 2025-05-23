@@ -12,6 +12,7 @@
 │ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34,35 │                        │
 │ MediumTablet.arm        │ Generic    │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35 │                        │
 │ OP515BL1                │ OnePlus    │ OnePlus Nord2 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                            │ deprecated=33          │
+│ OP535DL1                │ OnePlus    │ CPH2409                                        │ PHYSICAL │ 2412 x 1080 │ 34                            │                        │
 │ OP5552L1                │ OnePlus    │ CPH2415                                        │ PHYSICAL │ 2412 x 1080 │ 34                            │                        │
 │ OP573DL1                │ OPPO       │ CPH2557                                        │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ OP5958L1                │ OnePlus    │ OnePlus Nord CE3 Lite                          │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
@@ -94,5 +95,6 @@
 │ tangorpro               │ Google     │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                            │                        │
 │ tokay                   │ Google     │ Pixel 9                                        │ PHYSICAL │ 2424 x 1080 │ 34,35                         │ dda-default            │
 │ x1q                     │ Samsung    │ Galaxy S20                                     │ PHYSICAL │ 3200 x 1440 │ 29                            │ deprecated=29          │
+│ xcover7                 │ Samsung    │ SM-G556B                                       │ PHYSICAL │ 2408 x 1080 │ 34                            │                        │
 │ xcoverpro               │ Samsung    │ Galaxy XCover Pro                              │ PHYSICAL │ 2340 x 1080 │ 33                            │                        │
 └─────────────────────────┴────────────┴────────────────────────────────────────────────┴──────────┴─────────────┴───────────────────────────────┴────────────────────────┘

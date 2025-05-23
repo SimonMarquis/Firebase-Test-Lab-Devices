@@ -250,6 +250,27 @@
   },
   {
     "brand": "OnePlus",
+    "codename": "OP535DL1",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "OP535DL1",
+    "manufacturer": "OnePlus",
+    "name": "CPH2409",
+    "screenDensity": 401,
+    "screenX": 1080,
+    "screenY": 2412,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://image01-eu.oneplus.net/ebp/202205/05/1-M00-53-12-rBpB6mJzmL-AfvGiAAI0n-wOwDY364.png"
+  },
+  {
+    "brand": "OnePlus",
     "codename": "OP5552L1",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1967,6 +1988,27 @@
       "deprecated=29"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/FLdP9p2yRcQ1aeg9fa1BWN4Q5EGDh6rT7XX2Qk_p4m3jjPwRwT5IoybWEq1j2yDKpXVKKw6SndY"
+  },
+  {
+    "brand": "samsung",
+    "codename": "xcover7",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "xcover7",
+    "manufacturer": "Samsung",
+    "name": "SM-G556B",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2408,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/4lkzvBhWmKBT4zKGu730xDyluZ485y0Z5BPWtXdnaQMmQ3bt3WBl7fxAwnVxoMrp98djKw9YoTam"
   },
   {
     "brand": "samsung",
