@@ -56,7 +56,7 @@
 │ caprip                  │ Motorola   │ moto g(30)                                     │ PHYSICAL │ 1600 x 720  │ 31                            │                        │
 │ caymanlm                │ LG         │ VELVET                                         │ PHYSICAL │ 2460 x 1080 │ 31                            │ deprecated=31          │
 │ cheetah                 │ Google     │ Pixel 7 Pro                                    │ PHYSICAL │ 3120 x 1440 │ 33                            │                        │
-│ comet                   │ Google     │ Pixel 9 Pro Fold                               │ PHYSICAL │ 2152 x 2076 │ 34                            │ dda-default            │
+│ comet                   │ Google     │ Pixel 9 Pro Fold                               │ PHYSICAL │ 2152 x 2076 │ 34,35                         │ dda-default            │
 │ crownqlteue             │ Samsung    │ Galaxy Note9                                   │ PHYSICAL │ 1080 x 2220 │ 29                            │                        │
 │ dm2q                    │ Samsung    │ S23 Plus                                       │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ dm3q                    │ Samsung    │ Galaxy S23 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,34                         │                        │
@@ -98,6 +98,7 @@
 │ starlte                 │ Samsung    │ Galaxy S9                                      │ PHYSICAL │ 1080 x 2220 │ 29                            │                        │
 │ t2q                     │ Samsung    │ Galaxy S21 Plus                                │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ tangorpro               │ Google     │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                            │                        │
+│ tegu                    │ Google     │ Pixel 9a                                       │ PHYSICAL │ 2424 x 1080 │ 35                            │                        │
 │ tokay                   │ Google     │ Pixel 9                                        │ PHYSICAL │ 2424 x 1080 │ 34,35                         │ dda-default            │
 │ x1q                     │ Samsung    │ Galaxy S20                                     │ PHYSICAL │ 3200 x 1440 │ 29                            │ deprecated=29          │
 │ xcover7                 │ Samsung    │ SM-G556B                                       │ PHYSICAL │ 2408 x 1080 │ 34                            │                        │
