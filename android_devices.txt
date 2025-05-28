@@ -43,6 +43,7 @@
 │ b0q                     │ Samsung    │ Galaxy S22 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33                            │                        │
 │ b4q                     │ Samsung    │ Galaxy Z Flip4                                 │ PHYSICAL │ 2640 x 1080 │ 33                            │                        │
 │ b5q                     │ Samsung    │ Galaxy Z Flip5                                 │ PHYSICAL │ 2640 x 1080 │ 34                            │                        │
+│ b6q                     │ Samsung    │ Flip 6                                         │ PHYSICAL │ 2640 x 1080 │ 34                            │                        │
 │ bluejay                 │ Google     │ Pixel 6a                                       │ PHYSICAL │ 2400 x 1080 │ 32                            │                        │
 │ blueline                │ Google     │ Pixel 3                                        │ PHYSICAL │ 2160 x 1080 │ 28                            │                        │
 │ cactus                  │ Xiaomi     │ Redmi 6A                                       │ PHYSICAL │ 1440 x 720  │ 27                            │                        │
@@ -71,6 +72,7 @@
 │ gts8uwifi               │ Samsung    │ Galaxy Tab S8 Ultra                            │ PHYSICAL │ 2960 x 1848 │ 33                            │                        │
 │ gts8wifi                │ Samsung    │ Galaxy Tab S8                                  │ PHYSICAL │ 2560 x 1600 │ 34                            │                        │
 │ gts9fe                  │ Samsung    │ Samsung Galaxy Tab S9 FE 5G                    │ PHYSICAL │ 2304 x 1440 │ 34                            │                        │
+│ gts9wifi                │ Samsung    │ SM-X710                                        │ PHYSICAL │ 2560 x 1600 │ 34                            │                        │
 │ husky                   │ Google     │ Pixel 8 Pro                                    │ PHYSICAL │ 2244 x 1008 │ 34                            │                        │
 │ java                    │ Motorola   │ Motorola G20                                   │ PHYSICAL │ 1600 x 720  │ 30                            │                        │
 │ komodo                  │ Google     │ Pixel 9 Pro XL                                 │ PHYSICAL │ 2244 x 1008 │ 34,35                         │                        │

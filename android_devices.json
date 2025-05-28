@@ -910,6 +910,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/eExbveNxYMReNrLV_2PWSkiwr0xyX1kj_mPncIHI7P6ijbBBIemnotvmDZmlNvZTtHGw9WYVpF0"
   },
   {
+    "brand": "samsung",
+    "codename": "b6q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b6q",
+    "manufacturer": "Samsung",
+    "name": "Flip 6",
+    "screenDensity": 340,
+    "screenX": 1080,
+    "screenY": 2640,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/kjcnCNS1lvUSALhFKalozZh12yo6SPvltQqD48LD7fTR7enFqkwuhCXGMmFXHzWuOKU9esSf1ael"
+  },
+  {
     "brand": "google",
     "codename": "bluejay",
     "form": "PHYSICAL",
@@ -1495,6 +1514,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/V6CMufkZEPnI1y2OUXNe-RlEgOQOjGWcB-4a1B4xBntpynYuKcxYOxL2d9iRl8iLxFTseVUnHXkh"
+  },
+  {
+    "brand": "samsung",
+    "codename": "gts9wifi",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gts9wifi",
+    "manufacturer": "Samsung",
+    "name": "SM-X710",
+    "screenDensity": 340,
+    "screenX": 1600,
+    "screenY": 2560,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/WZlS6prnvaUCoOAyRVPmOeaLrA41vMvyAmL2PLCjD-BedQ-qrH0_AAzFd5IrlNsah9nPdy5Ctj-D"
   },
   {
     "brand": "google",
