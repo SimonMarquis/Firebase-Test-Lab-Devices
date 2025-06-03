@@ -7,6 +7,7 @@
 │         MODEL_ID        │    MAKE    │                   MODEL_NAME                   │   FORM   │  RESOLUTION │         OS_VERSION_IDS        │          TAGS          │
 ├─────────────────────────┼────────────┼────────────────────────────────────────────────┼──────────┼─────────────┼───────────────────────────────┼────────────────────────┤
 │ 1610                    │ Vivo       │ vivo 1610                                      │ PHYSICAL │ 1280 x 720  │ 23                            │ reduced_stability=23   │
+│ A402SO                  │ Sony       │ Xperia 10                                      │ PHYSICAL │ 2520 x 1080 │ 34                            │                        │
 │ AmatiTvEmulator         │ Google     │ Google TV Amati                                │ VIRTUAL  │ 1080 x 1920 │ 29                            │ beta=29, deprecated=29 │
 │ AndroidTablet270dpi.arm │ Generic    │ Generic 720x1600 Android tablet @ 270dpi (Arm) │ VIRTUAL  │ 1600 x 720  │ 30                            │                        │
 │ CPH2449                 │ OnePlus    │ OnePlus 11 5G                                  │ PHYSICAL │ 2412 x 1080 │ 34                            │                        │
@@ -52,7 +53,7 @@
 │ bluejay                 │ Google     │ Pixel 6a                                       │ PHYSICAL │ 2400 x 1080 │ 32                            │                        │
 │ blueline                │ Google     │ Pixel 3                                        │ PHYSICAL │ 2160 x 1080 │ 28                            │                        │
 │ cactus                  │ Xiaomi     │ Redmi 6A                                       │ PHYSICAL │ 1440 x 720  │ 27                            │                        │
-│ caiman                  │ Google     │ Pixel 9 Pro                                    │ PHYSICAL │ 2142 x 960  │ 34                            │                        │
+│ caiman                  │ Google     │ Pixel 9 Pro                                    │ PHYSICAL │ 2142 x 960  │ 34,35                         │                        │
 │ cancunf                 │ Motorola   │ moto g54 5G                                    │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ caprip                  │ Motorola   │ moto g(30)                                     │ PHYSICAL │ 1600 x 720  │ 31                            │                        │
 │ caymanlm                │ LG         │ VELVET                                         │ PHYSICAL │ 2460 x 1080 │ 31                            │ deprecated=31          │
