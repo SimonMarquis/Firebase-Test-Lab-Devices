@@ -1204,6 +1204,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/iXtm0Mdnx3jjtxdetuuE1zjb30lMdKKuBYPlf_kv0lIIRjjG3tyn9YCmEOaJ-wXBiGKlnLB0rN8"
   },
   {
+    "brand": "motorola",
+    "codename": "dubai",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dubai",
+    "manufacturer": "Motorola",
+    "name": "motorola edge 30",
+    "screenDensity": 405,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/ELHz1Xk81t82_bPj2OhEMyaxKop5vuJP0EUTR4NPjkW_BQ2kw4XpmmI_CPtnmvmcyD6I_MLGDuJ1"
+  },
+  {
     "brand": "samsung",
     "codename": "e1q",
     "form": "PHYSICAL",
@@ -1722,6 +1743,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/7WUVU79a6FKNQz5QUjdx3Rct_QbXGb_MxxTocNfTibHyhJ5p8dfWa0IP-5FuC4Jq5gPtevgkubjUVQ"
   },
   {
+    "brand": "samsung",
+    "codename": "pa3q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "pa3q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S25 Ultra",
+    "screenDensity": 600,
+    "screenX": 1440,
+    "screenY": 3120,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/52o0ZMdywHtR0rMafloVywcMLMlRTwRgqUug7QQz_6gKz6yqxHoo23NaIOjGyH4mFuYCiL7HNxpM"
+  },
+  {
     "brand": "google",
     "codename": "panther",
     "form": "PHYSICAL",
@@ -1840,7 +1882,7 @@
     "supportedVersionIds": [
       "34"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/Kn2Ne7PfYMhfohhOI6oZctHC5kKBI6NYIueO4U7dMtFuM84Mi25kVlKJ7mdgUVLN1AEHyIpfBjo"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/Em0LK-cr2FRcROydSLZx3AxO64zRYCwq1wbIUoqVyb8q1CyoHApzR_uyF_qOxvcPUbAEHq20MMkK"
   },
   {
     "brand": "google",

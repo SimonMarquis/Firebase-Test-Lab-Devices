@@ -57,6 +57,7 @@
 │ crownqlteue             │ Samsung    │ Galaxy Note9                                   │ PHYSICAL │ 1080 x 2220 │ 29                            │                        │
 │ dm2q                    │ Samsung    │ S23 Plus                                       │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ dm3q                    │ Samsung    │ Galaxy S23 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,34                         │                        │
+│ dubai                   │ Motorola   │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ e1q                     │ Samsung    │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 34                            │ dda-default            │
 │ e3q                     │ Samsung    │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34                            │                        │
 │ eos                     │ Google     │ Eos                                            │ PHYSICAL │  384 x 384  │ 33                            │                        │
@@ -82,6 +83,7 @@
 │ o1q                     │ Samsung    │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ oriole                  │ Google     │ Pixel 6                                        │ PHYSICAL │ 2400 x 1080 │ 32,33,31                      │                        │
 │ p3q                     │ Samsung    │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34                            │                        │
+│ pa3q                    │ Samsung    │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35                            │                        │
 │ panther                 │ Google     │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                            │                        │
 │ pettyl                  │ Motorola   │ moto e5 play                                   │ PHYSICAL │  960 x 480  │ 27                            │                        │
 │ q4q                     │ Samsung    │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                            │                        │
