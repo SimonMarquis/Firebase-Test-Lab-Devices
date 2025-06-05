@@ -1345,6 +1345,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/v7mEgPMBuUHmf6L1CPeg1TTTUb2GVt5JMGxB2Mnk24rBWZkkigigZpBJdebfCWT7kcSAPMyQL6_D"
   },
   {
+    "brand": "motorola",
+    "codename": "fogos",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "fogos",
+    "manufacturer": "Motorola",
+    "name": "moto g34 5G",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/jLQifjBURXfAOgsWE2aLDXOJyfHlVSK0soOLFQL8Xx7soEwo6WDUeF2ixZOcoHa88JRDbj41Ky2r"
+  },
+  {
     "brand": "samsung",
     "codename": "g0q",
     "form": "PHYSICAL",
@@ -1474,6 +1495,27 @@
       "deprecated=28"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/Ei1LFgQvf4Yj3wDCKdnge1mlusicePcwVnsSFqFcTtbJUecMZAEy_cjfLTKNwXDxs1lZJtgto-HVaw"
+  },
+  {
+    "brand": "samsung",
+    "codename": "gts7lwifi",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gts7lwifi",
+    "manufacturer": "Samsung",
+    "name": "SM-T870",
+    "screenDensity": 340,
+    "screenX": 1600,
+    "screenY": 2560,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/JiTm9g141R3gTyI2v7uz1G62bWwHP3DvEhNJNElpfKolGPr6posXWXhxrcM0bgiPoHwFbXf6e_5IAQ"
   },
   {
     "brand": "samsung",
@@ -1657,6 +1699,27 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/U-GToW5yqIO-PwdGaJaRsyE9c-6F0HdbTN3lE1RPd1yQccxGJdtlGj1UVqTvubXNyi6IfFaJbj94"
+  },
+  {
+    "brand": "motorola",
+    "codename": "manaus",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "manaus",
+    "manufacturer": "Motorola",
+    "name": "motorola edge 40 neo",
+    "screenDensity": 400,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/7TfaGRZ_m0MB8hINTBNr3KGsuDkCjoHEFVfPzlXM9wCWdrosztVYWwZzVZXu9iC-YaeoMCP2YdD2"
   },
   {
     "brand": "motorola",
