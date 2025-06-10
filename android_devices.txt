@@ -10,7 +10,7 @@
 │ FRT                     │ HMD Global │ Nokia 1                                        │ PHYSICAL │  854 x 480  │ 27                            │ deprecated=27          │
 │ GoogleTvEmulator        │ Google     │ Google TV                                      │ VIRTUAL  │  720 x 1280 │ 30                            │ beta=30, deprecated=30 │
 │ J606F                   │ Lenovo     │ Lenovo Tab P11                                 │ PHYSICAL │ 2000 x 1200 │ 30                            │ deprecated=30          │
-│ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34,35 │                        │
+│ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,35,34 │                        │
 │ MediumTablet.arm        │ Generic    │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35 │                        │
 │ OP515BL1                │ OnePlus    │ OnePlus Nord2 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                            │ deprecated=33          │
 │ OP535DL1                │ OnePlus    │ CPH2409                                        │ PHYSICAL │ 2412 x 1080 │ 34                            │                        │
