@@ -2047,6 +2047,9 @@
     ],
     "supportedVersionIds": [
       "35"
+    ],
+    "tags": [
+      "reduced_stability=35"
     ]
   },
   {

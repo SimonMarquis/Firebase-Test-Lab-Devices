@@ -102,7 +102,7 @@
 │ r11q                    │ Samsung    │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ redfin                  │ Google     │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                            │ default                │
 │ shiba                   │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
-│ shiba_beta              │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35                            │                        │
+│ shiba_beta              │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35                            │ reduced_stability=35   │
 │ starlte                 │ Samsung    │ Galaxy S9                                      │ PHYSICAL │ 1080 x 2220 │ 29                            │                        │
 │ t2q                     │ Samsung    │ Galaxy S21 Plus                                │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ tangorpro               │ Google     │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                            │                        │
