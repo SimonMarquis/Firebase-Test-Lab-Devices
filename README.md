@@ -40,7 +40,6 @@
 │ a16x                    │ Samsung    │ Samsung A16 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ a25x                    │ Samsung    │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ a35x                    │ Samsung    │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
-│ a51                     │ Samsung    │ Galaxy A51                                     │ PHYSICAL │ 2400 x 1080 │ 31                            │ deprecated=31          │
 │ a52sxq                  │ Samsung    │ Galaxy A52s                                    │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ a54x                    │ Samsung    │ Galaxy A54 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ akita                   │ Google     │ Pixel 8a                                       │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │

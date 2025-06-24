@@ -744,30 +744,6 @@
   },
   {
     "brand": "samsung",
-    "codename": "a51",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "a51",
-    "manufacturer": "Samsung",
-    "name": "Galaxy A51",
-    "screenDensity": 420,
-    "screenX": 1080,
-    "screenY": 2400,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "31"
-    ],
-    "tags": [
-      "deprecated=31"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/YVsOkZwxfWVM9oYjSAPi_oIohbnLPaPlRWesd2UQ5LNF6mGf__eLCy3uXPKeI2HxcX7Oe-7gYDTC"
-  },
-  {
-    "brand": "samsung",
     "codename": "a52sxq",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
