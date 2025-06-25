@@ -1262,6 +1262,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/k6dk5Za7k-W6-F_R6b2Cm_MlePETPlVJOkmdHy_cMc50L_GQDivlbtXPdAZBcviqs4ZZkVwt-bY"
   },
   {
+    "brand": "motorola",
+    "codename": "eqe",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "eqe",
+    "manufacturer": "Motorola",
+    "name": "motorola edge 50 pro",
+    "screenDensity": 450,
+    "screenX": 1220,
+    "screenY": 2712,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/1sIYdqcCig_LCMTYvcvzRu034Id5IanctVbP8hyFNuNduCyb8GaFQrSR84kA-fKGrwKQWg_Zry4"
+  },
+  {
     "brand": "google",
     "codename": "felix",
     "form": "PHYSICAL",
