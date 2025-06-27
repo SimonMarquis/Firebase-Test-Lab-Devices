@@ -618,6 +618,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a14m",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a14m",
+    "manufacturer": "Samsung",
+    "name": "SM-A145R",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2408,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/xCh_GVi71KtNNFa0RzzEooIciwiHj9sWvU3hEUspBc27fPexYHKTDRo12Xz_jrpY_25YC7kkqlA8"
+  },
+  {
+    "brand": "samsung",
     "codename": "a14xm",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1699,6 +1720,27 @@
   },
   {
     "brand": "motorola",
+    "codename": "lyriq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "lyriq",
+    "manufacturer": "Motorola",
+    "name": "motorola edge 40",
+    "screenDensity": 400,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/e6AGIuQbKJDJhfcB6lnagffSW7rgk0I_VqIHJFlqQ_bFwPmxmUEPCnGMGAOu3X2d5gQhyeKPAfiw"
+  },
+  {
+    "brand": "motorola",
     "codename": "manaus",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -2024,30 +2066,10 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
+      "35",
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y3CK3aSh9wV7Dmrti0ogN_C0r5j1M5-Vmdu_-trvcCF-BQDJsUxKQcRuxx05H1a0CvteCOL9umU"
-  },
-  {
-    "brand": "google",
-    "codename": "shiba_beta",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "shiba_beta",
-    "manufacturer": "Google",
-    "name": "Pixel 8",
-    "screenDensity": 420,
-    "screenX": 1080,
-    "screenY": 2400,
-    "supportedAbis": [
-      "arm64-v8a"
-    ],
-    "supportedVersionIds": [
-      "35"
-    ],
-    "tags": [
-      "reduced_stability=35"
-    ]
   },
   {
     "brand": "samsung",

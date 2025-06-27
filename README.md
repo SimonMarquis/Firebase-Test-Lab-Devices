@@ -34,6 +34,7 @@
 │ a03s                    │ Samsung    │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                            │                        │
 │ a10                     │ Samsung    │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                            │                        │
 │ a12                     │ Samsung    │ Galaxy A12                                     │ PHYSICAL │ 1600 x 720  │ 31                            │                        │
+│ a14m                    │ Samsung    │ SM-A145R                                       │ PHYSICAL │ 2408 x 1080 │ 34                            │                        │
 │ a14xm                   │ Samsung    │ Galaxy A14                                     │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ a15                     │ Samsung    │ Samsung A15                                    │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ a15x                    │ Samsung    │ Samsung A15 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
@@ -86,6 +87,7 @@
 │ java                    │ Motorola   │ Motorola G20                                   │ PHYSICAL │ 1600 x 720  │ 30                            │                        │
 │ komodo                  │ Google     │ Pixel 9 Pro XL                                 │ PHYSICAL │ 2244 x 1008 │ 34,35                         │                        │
 │ lynx                    │ Google     │ Pixel 7a                                       │ PHYSICAL │ 2400 x 1080 │ 33                            │                        │
+│ lyriq                   │ Motorola   │ motorola edge 40                               │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ manaus                  │ Motorola   │ motorola edge 40 neo                           │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ maui                    │ Motorola   │ moto g play - 2023                             │ PHYSICAL │ 1600 x 720  │ 33                            │                        │
 │ o1q                     │ Samsung    │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
@@ -101,8 +103,7 @@
 │ r11                     │ Google     │ Google Pixel Watch                             │ PHYSICAL │  384 x 384  │ 30                            │                        │
 │ r11q                    │ Samsung    │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ redfin                  │ Google     │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                            │ default                │
-│ shiba                   │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
-│ shiba_beta              │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35                            │ reduced_stability=35   │
+│ shiba                   │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35,34                         │                        │
 │ starlte                 │ Samsung    │ Galaxy S9                                      │ PHYSICAL │ 1080 x 2220 │ 29                            │                        │
 │ t2q                     │ Samsung    │ Galaxy S21 Plus                                │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ tangorpro               │ Google     │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                            │                        │
