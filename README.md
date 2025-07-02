@@ -42,7 +42,7 @@
 │ a35x                    │ Samsung    │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
 │ a52sxq                  │ Samsung    │ Galaxy A52s                                    │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ a54x                    │ Samsung    │ Galaxy A54 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                            │                        │
-│ akita                   │ Google     │ Pixel 8a                                       │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
+│ akita                   │ Google     │ Pixel 8a                                       │ PHYSICAL │ 2400 x 1080 │ 34,35                         │                        │
 │ arcfox                  │ Motorola   │ motorola razr plus 2024                        │ PHYSICAL │ 1272 x 1080 │ 34                            │                        │
 │ austin                  │ Motorola   │ moto g 5G (2022)                               │ PHYSICAL │ 1600 x 720  │ 33                            │                        │
 │ b0q                     │ Samsung    │ Galaxy S22 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33                            │                        │
@@ -85,6 +85,7 @@
 │ husky                   │ Google     │ Pixel 8 Pro                                    │ PHYSICAL │ 2244 x 1008 │ 34                            │                        │
 │ java                    │ Motorola   │ Motorola G20                                   │ PHYSICAL │ 1600 x 720  │ 30                            │                        │
 │ komodo                  │ Google     │ Pixel 9 Pro XL                                 │ PHYSICAL │ 2244 x 1008 │ 34,35                         │                        │
+│ lion                    │ Motorola   │ moto g04                                       │ PHYSICAL │ 1612 x 720  │ 34                            │                        │
 │ lynx                    │ Google     │ Pixel 7a                                       │ PHYSICAL │ 2400 x 1080 │ 33                            │                        │
 │ lyriq                   │ Motorola   │ motorola edge 40                               │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
 │ manaus                  │ Motorola   │ motorola edge 40 neo                           │ PHYSICAL │ 2400 x 1080 │ 34                            │                        │
