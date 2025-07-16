@@ -109,7 +109,6 @@
 │ tangorpro               │ Google     │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                            │                        │
 │ tegu                    │ Google     │ Pixel 9a                                       │ PHYSICAL │ 2424 x 1080 │ 35                            │                        │
 │ tokay                   │ Google     │ Pixel 9                                        │ PHYSICAL │ 2424 x 1080 │ 34,35                         │ dda-default            │
-│ x1q                     │ Samsung    │ Galaxy S20                                     │ PHYSICAL │ 3200 x 1440 │ 29                            │ deprecated=29          │
 │ xcover7                 │ Samsung    │ SM-G556B                                       │ PHYSICAL │ 2408 x 1080 │ 34                            │                        │
 │ xcoverpro               │ Samsung    │ Galaxy XCover Pro                              │ PHYSICAL │ 2340 x 1080 │ 33                            │                        │
 └─────────────────────────┴────────────┴────────────────────────────────────────────────┴──────────┴─────────────┴───────────────────────────────┴────────────────────────┘

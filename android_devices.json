@@ -2174,30 +2174,6 @@
   },
   {
     "brand": "samsung",
-    "codename": "x1q",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "x1q",
-    "manufacturer": "Samsung",
-    "name": "Galaxy S20",
-    "screenDensity": 480,
-    "screenX": 1440,
-    "screenY": 3200,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "29"
-    ],
-    "tags": [
-      "deprecated=29"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/FLdP9p2yRcQ1aeg9fa1BWN4Q5EGDh6rT7XX2Qk_p4m3jjPwRwT5IoybWEq1j2yDKpXVKKw6SndY"
-  },
-  {
-    "brand": "samsung",
     "codename": "xcover7",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
