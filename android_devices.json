@@ -357,30 +357,6 @@
     ]
   },
   {
-    "brand": "realme",
-    "codename": "RED8BEL1",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "RED8BEL1",
-    "manufacturer": "realme",
-    "name": "realme GT NEO 3 150W",
-    "screenDensity": 480,
-    "screenX": 1080,
-    "screenY": 2412,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "33"
-    ],
-    "tags": [
-      "deprecated=33"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/r3b7DEUpBvZq8ThkQ9zs-foFQcAujih2Z9lxmqDyxfQo44VssHQh-j3EJylT79xHm9TsJ3EjaZ4ixw"
-  },
-  {
     "brand": "DOCOMO",
     "codename": "SH-01L",
     "form": "PHYSICAL",
