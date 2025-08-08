@@ -95,7 +95,7 @@
 │ p3q                     │ Samsung    │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34                               │                        │
 │ pa3q                    │ Samsung    │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ panther                 │ Google     │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
-│ pettyl                  │ Motorola   │ moto e5 play                                   │ PHYSICAL │  960 x 480  │ 27                               │                        │
+│ pettyl                  │ Motorola   │ moto e5 play                                   │ PHYSICAL │  960 x 480  │ 27                               │ deprecated=27          │
 │ q4q                     │ Samsung    │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │
 │ q5q                     │ Samsung    │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 34                               │                        │
 │ q6q                     │ Samsung    │ Galaxy Z Fold6                                 │ PHYSICAL │ 2160 x 1856 │ 34                               │                        │

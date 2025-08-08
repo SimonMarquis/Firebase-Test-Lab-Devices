@@ -1900,6 +1900,9 @@
     "supportedVersionIds": [
       "27"
     ],
+    "tags": [
+      "deprecated=27"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/TuUs3GBwEfKr1u6JNSyQ9yTXeLbJMOz249N7ASi-od_wBoXUmxQ93lHBZV6TsahQU0B8ai5ZPCHG0g"
   },
   {
