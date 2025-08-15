@@ -13,7 +13,6 @@
 │ CPH2449                 │ OnePlus    │ OnePlus 11 5G                                  │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ F01L                    │ FUJITSU    │ F-01L                                          │ PHYSICAL │ 1280 x 720  │ 27                               │                        │
 │ FRT                     │ HMD Global │ Nokia 1                                        │ PHYSICAL │  854 x 480  │ 27                               │ deprecated=27          │
-│ GoogleTv.arm            │ Google     │ Google TV, 1280x720 @ 213dpi (Arm)             │ VIRTUAL  │  720 x 1280 │ 31                               │ preview=31             │
 │ GoogleTvEmulator        │ Google     │ Google TV                                      │ VIRTUAL  │  720 x 1280 │ 30                               │ beta=30, deprecated=30 │
 │ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,35,36,34 │                        │
 │ MediumTablet.arm        │ Generic    │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35    │                        │
