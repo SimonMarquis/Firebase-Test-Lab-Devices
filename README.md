@@ -107,7 +107,7 @@
 │ t2q                     │ Samsung    │ Galaxy S21 Plus                                │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ tangorpro               │ Google     │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                               │                        │
 │ tegu                    │ Google     │ Pixel 9a                                       │ PHYSICAL │ 2424 x 1080 │ 35                               │                        │
-│ tokay                   │ Google     │ Pixel 9                                        │ PHYSICAL │ 2424 x 1080 │ 34,35                            │ dda-default            │
+│ tokay                   │ Google     │ Pixel 9                                        │ PHYSICAL │ 2424 x 1080 │ 34,35,36                         │ dda-default            │
 │ xcover7                 │ Samsung    │ SM-G556B                                       │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ xcoverpro               │ Samsung    │ Galaxy XCover Pro                              │ PHYSICAL │ 2340 x 1080 │ 33                               │                        │
 └─────────────────────────┴────────────┴────────────────────────────────────────────────┴──────────┴─────────────┴──────────────────────────────────┴────────────────────────┘

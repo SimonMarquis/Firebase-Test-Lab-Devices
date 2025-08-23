@@ -2150,7 +2150,8 @@
     ],
     "supportedVersionIds": [
       "34",
-      "35"
+      "35",
+      "36"
     ],
     "tags": [
       "dda-default"
