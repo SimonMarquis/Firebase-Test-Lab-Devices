@@ -23,7 +23,7 @@ jobs:
         with:
           credentials_json: '${{ secrets.SERVICE_ACCOUNT_CREDENTIALS }}'
       - name: Set up Cloud SDK
-        uses: google-github-actions/setup-gcloud@v2
+        uses: google-github-actions/setup-gcloud@v3
       - name: List Android devices
         run: |
           gcloud firebase test android models list > android_devices.txt
