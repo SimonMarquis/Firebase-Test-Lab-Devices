@@ -19,7 +19,7 @@ jobs:
           node-version: lts/iron
       - run: npm install --global json-diff
       - id: auth
-        uses: google-github-actions/auth@v2
+        uses: google-github-actions/auth@v3
         with:
           credentials_json: '${{ secrets.SERVICE_ACCOUNT_CREDENTIALS }}'
       - name: Set up Cloud SDK
