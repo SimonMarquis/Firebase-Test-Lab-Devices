@@ -1240,30 +1240,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/k6dk5Za7k-W6-F_R6b2Cm_MlePETPlVJOkmdHy_cMc50L_GQDivlbtXPdAZBcviqs4ZZkVwt-bY"
   },
   {
-    "brand": "motorola",
-    "codename": "eqe",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "eqe",
-    "manufacturer": "Motorola",
-    "name": "motorola edge 50 pro",
-    "screenDensity": 450,
-    "screenX": 1220,
-    "screenY": 2712,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "35"
-    ],
-    "tags": [
-      "deprecated=35"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/1sIYdqcCig_LCMTYvcvzRu034Id5IanctVbP8hyFNuNduCyb8GaFQrSR84kA-fKGrwKQWg_Zry4"
-  },
-  {
     "brand": "google",
     "codename": "felix",
     "form": "PHYSICAL",
@@ -1864,29 +1840,6 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/0m1WCY9GpKqdyC_gg2pOOB-9YRLRWmxV97QHYsSxenEvJRzSUpBRPhxXyoGSHIboCItCgT5VOFK1"
-  },
-  {
-    "brand": "motorola",
-    "codename": "pettyl",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "pettyl",
-    "manufacturer": "Motorola",
-    "name": "moto e5 play",
-    "screenDensity": 240,
-    "screenX": 480,
-    "screenY": 960,
-    "supportedAbis": [
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "27"
-    ],
-    "tags": [
-      "deprecated=27"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/TuUs3GBwEfKr1u6JNSyQ9yTXeLbJMOz249N7ASi-od_wBoXUmxQ93lHBZV6TsahQU0B8ai5ZPCHG0g"
   },
   {
     "brand": "samsung",
