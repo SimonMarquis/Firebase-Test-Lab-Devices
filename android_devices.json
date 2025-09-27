@@ -429,6 +429,27 @@
   },
   {
     "brand": "Lenovo",
+    "codename": "TB330FU",
+    "form": "PHYSICAL",
+    "formFactor": "TABLET",
+    "id": "TB330FU",
+    "manufacturer": "Lenovo",
+    "name": "Lenovo Tab M11",
+    "screenDensity": 240,
+    "screenX": 1200,
+    "screenY": 1920,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/s-EOPelCc5QEZBR8VdMG1mrGBAPeDqrcDqmhQ1Gia2rRi-yUQOlNBdzUbXLKreuuFS59nJjRSbFK"
+  },
+  {
+    "brand": "Lenovo",
     "codename": "TB370FU",
     "form": "PHYSICAL",
     "formFactor": "TABLET",

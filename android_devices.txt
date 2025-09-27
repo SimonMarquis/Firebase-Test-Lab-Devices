@@ -20,6 +20,7 @@
 │ SH-01L                  │ SHARP      │ AQUOS sense2 SH-01L                            │ PHYSICAL │ 2160 x 1080 │ 28                               │                        │
 │ SO-41A                  │ Sony       │ Xperia 10 II                                   │ PHYSICAL │ 1080 x 2520 │ 31                               │                        │
 │ SmallPhone.arm          │ Generic    │ Small Phone, 4.65in/12cm (Arm)                 │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35    │                        │
+│ TB330FU                 │ Lenovo     │ Lenovo Tab M11                                 │ PHYSICAL │ 1920 x 1200 │ 35                               │                        │
 │ TB370FU                 │ Lenovo     │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35                               │                        │
 │ XQ-DC54                 │ Sony       │ XQ-DC54                                        │ PHYSICAL │ 2520 x 1080 │ 34                               │                        │
 │ XQ-DQ72                 │ Sony       │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                               │                        │
