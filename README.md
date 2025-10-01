@@ -83,6 +83,7 @@
 │ gts9wifi                │ Samsung    │ SM-X710                                        │ PHYSICAL │ 2560 x 1600 │ 34                               │                        │
 │ husky                   │ Google     │ Pixel 8 Pro                                    │ PHYSICAL │ 2244 x 1008 │ 34                               │                        │
 │ java                    │ Motorola   │ Motorola G20                                   │ PHYSICAL │ 1600 x 720  │ 30                               │                        │
+│ kansas                  │ Motorola   │ moto g - 2025                                  │ PHYSICAL │ 1604 x 720  │ 35                               │                        │
 │ komodo                  │ Google     │ Pixel 9 Pro XL                                 │ PHYSICAL │ 2244 x 1008 │ 34,35                            │                        │
 │ lion                    │ Motorola   │ moto g04                                       │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
 │ lynx                    │ Google     │ Pixel 7a                                       │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │

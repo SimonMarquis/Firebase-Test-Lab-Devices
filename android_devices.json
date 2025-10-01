@@ -1637,6 +1637,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/flkXlWApp9btdx5Q6IaRiH7tdC0uXeJ3mrHjq6SRULPwg647evkNrlqqK849ciN3L2frFSuMAoM"
   },
   {
+    "brand": "motorola",
+    "codename": "kansas",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "kansas",
+    "manufacturer": "Motorola",
+    "name": "moto g - 2025",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1604,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/88Q-aSnqbwkOFng4VPIWea4tce67mWbxtZrkF7PfsewrQPpnD7ixZrmathGghaDcMShQq4UKMW8"
+  },
+  {
     "brand": "google",
     "codename": "komodo",
     "form": "PHYSICAL",
