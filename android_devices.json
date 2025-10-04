@@ -2005,6 +2005,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/opAt-FW0N3ksz9O2rSzuw2DM6Ou25obTXFH00FGHSl6_WG7uM_sHCnr3tviDJ5byXnR6k05gpy9Z"
   },
   {
+    "brand": "samsung",
+    "codename": "r12s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r12s",
+    "manufacturer": "Samsung",
+    "name": "SM-S721U1",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/vMGqeGKkML4w32Ts0fQtG8MhH6oDZZ4ehvbzwk06s8eXj35zSCeyW-dYisd01wuA6K2CEyCtfOA"
+  },
+  {
     "brand": "google",
     "codename": "redfin",
     "form": "PHYSICAL",
