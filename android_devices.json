@@ -694,6 +694,7 @@
       "armeabi"
     ],
     "supportedVersionIds": [
+      "35",
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/o043c8_tvK5huXwojBX528a_n_QxCBKPhMB3vGMi4o8jqB9JB6VEnjgo1vTchwe3aMst0lnjSe5Zqw"
@@ -926,6 +927,25 @@
   },
   {
     "brand": "google",
+    "codename": "blazer",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "blazer",
+    "manufacturer": "Google",
+    "name": "Pixel 10 Pro",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2410,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/Rccw7un1fdaLYBaUXkUio7JErdHWETMcFPECkOHQYI2yLN-yiC6vOG7qdu9OLECZ7LAwDiqHwiLQ"
+  },
+  {
+    "brand": "google",
     "codename": "bluejay",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1133,6 +1153,9 @@
     "supportedVersionIds": [
       "29"
     ],
+    "tags": [
+      "deprecated=29"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/nsHOF3Gfm88-OLi6Q5qZWoE4sw_OVvhoAuE5Fo6aYfAYd031Y8bdsBhTQfdTkLfC5Ou_7l-77oA"
   },
   {
@@ -1300,6 +1323,27 @@
   },
   {
     "brand": "motorola",
+    "codename": "fogo",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "fogo",
+    "manufacturer": "Motorola",
+    "name": "Moto G 5G",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/FBZDlvpDs-MHWiX_r4tq8f3U5Pza7Owyq-l6PiHhUwgJOcUrRx899cNWDVneOtNqzGG6ciilTm6mYQ"
+  },
+  {
+    "brand": "motorola",
     "codename": "fogona",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1339,6 +1383,25 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/AGri29pIx8kN16VaRQeQHtpBh9dbKONYPZfvmYEGt86e-Jsn3W8uqBqBYr50nVMZtc23-Xbiyk7p6Q"
+  },
+  {
+    "brand": "google",
+    "codename": "frankel",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "frankel",
+    "manufacturer": "Google",
+    "name": "Pixel 10",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2424,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/r_p9r4HmwjqmntvC07NYzFIRf_JA36pArp1k7PPgPLf6mrxK7BGr0SauwSNaIIU9fvX7g9LTEnDB"
   },
   {
     "brand": "samsung",
@@ -1776,6 +1839,25 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/jIZUUPeJDytTNIciUB1CzCe1CUq3e4JcG18w2i-wsk38irTcYdkzBqrmzpWy7FLh4SZ-P8m40aPy"
+  },
+  {
+    "brand": "google",
+    "codename": "mustang",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "mustang",
+    "manufacturer": "Google",
+    "name": "Pixel 10 Pro XL",
+    "screenDensity": 390,
+    "screenX": 1080,
+    "screenY": 2404,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/PrFe249huQ2zjdBC4LYopisJw7Z_a48WLFbin7Ubh8P7IQJO3Y9cMm8QZ6eQTBtXyBCOcNkz5R71"
   },
   {
     "brand": "samsung",
