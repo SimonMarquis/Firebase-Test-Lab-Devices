@@ -106,6 +106,7 @@
 │ r11                     │ Google     │ Google Pixel Watch                             │ PHYSICAL │  384 x 384  │ 30                               │                        │
 │ r11q                    │ Samsung    │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ r12s                    │ Samsung    │ SM-S721U1                                      │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
+│ rango                   │ Google     │ Pixel 10 Pro Fold                              │ PHYSICAL │ 2152 x 2076 │ 36                               │                        │
 │ redfin                  │ Google     │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                               │ default                │
 │ shiba                   │ Google     │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35,34                            │                        │
 │ starlte                 │ Samsung    │ Galaxy S9                                      │ PHYSICAL │ 1080 x 2220 │ 29                               │                        │

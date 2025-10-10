@@ -2107,6 +2107,24 @@
   },
   {
     "brand": "google",
+    "codename": "rango",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "rango",
+    "manufacturer": "Google",
+    "name": "Pixel 10 Pro Fold",
+    "screenDensity": 390,
+    "screenX": 2076,
+    "screenY": 2152,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "google",
     "codename": "redfin",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
