@@ -18,7 +18,7 @@
 │ MediumTablet.arm        │ Generic    │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35    │                        │
 │ OP515BL1                │ OnePlus    │ OnePlus Nord2 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │ deprecated=33          │
 │ OP535DL1                │ OnePlus    │ CPH2409                                        │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
-│ OP5552L1                │ OnePlus    │ CPH2415                                        │ PHYSICAL │ 2412 x 1080 │ 34,35                            │                        │
+│ OP5552L1                │ OnePlus    │ CPH2415                                        │ PHYSICAL │ 2412 x 1080 │ 34,35                            │ deprecated=35          │
 │ OP573DL1                │ OPPO       │ CPH2557                                        │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ OP5958L1                │ OnePlus    │ OnePlus Nord CE3 Lite                          │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ Pixel2.arm              │ Google     │ Pixel 2 (Arm)                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,31,32,33          │                        │
