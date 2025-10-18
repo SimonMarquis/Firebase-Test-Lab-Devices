@@ -532,6 +532,9 @@
     "supportedVersionIds": [
       "31"
     ],
+    "tags": [
+      "deprecated=31"
+    ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/p5dY_EZCELlhF7645nUWRMzdrxlOlkpBBzt80p75NZrhq1CXMAnWpcmZUNw0PTZn1A7n8-EyWTMe"
   },
   {
@@ -552,6 +555,9 @@
     ],
     "supportedVersionIds": [
       "33"
+    ],
+    "tags": [
+      "deprecated=33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/ePMevY-LazGFEOm4X5dx1ZWJtJoaQbtiIKafE8l9N8mMrmLw_utoIZ8DKPLW-09X9VC0oP3uXYc0-g"
   },
