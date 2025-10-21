@@ -752,6 +752,25 @@
   },
   {
     "brand": "samsung",
+    "codename": "a36xq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a36xq",
+    "manufacturer": "Samsung",
+    "name": "Samsung SM-A366E",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/irjf_ffCDMTHSWr2sYn1ydiEdtMg6H6Npdo5ADjT-BL4d8PIeokoNXvW687mDl1cPonoFpXlnZk"
+  },
+  {
+    "brand": "samsung",
     "codename": "a52sxq",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
