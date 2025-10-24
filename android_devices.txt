@@ -32,6 +32,7 @@
 │ a14xm                   │ Samsung    │ Galaxy A14                                     │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ a15                     │ Samsung    │ Samsung A15                                    │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a15x                    │ Samsung    │ Samsung A15 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
+│ a16                     │ Samsung    │ Samsung SM-A165M                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ a16x                    │ Samsung    │ Samsung A16 5G                                 │ PHYSICAL │ 2340 x 1080 │ 35,34                            │                        │
 │ a25x                    │ Samsung    │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a35x                    │ Samsung    │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │

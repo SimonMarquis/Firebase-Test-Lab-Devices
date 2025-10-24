@@ -292,7 +292,7 @@
     "tags": [
       "deprecated=35"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/gvpjqLoslhob3WhvLffZomjQB-D9AWPseVorx8HlmNBYmt6rmQA8QWkD2CH6gMHx6yWz1SmX84A"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/EbE3WvSHa1Afo2hNGTdBSb_Eedy77Z-A_1OAv8VfTJNBEgGogSdP-cw8hzH7h5iqXWN3lPbcu19uOw"
   },
   {
     "brand": "OPPO",
@@ -685,6 +685,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/9LIUbZneB5fBZWJjKWDfkaWpOLOuuNQFLw6TX8i4ueJgSozroYo4BYOL2vUBuppg8toEJf37XtM"
+  },
+  {
+    "brand": "samsung",
+    "codename": "a16",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a16",
+    "manufacturer": "Samsung",
+    "name": "Samsung SM-A165M",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/SMK-YoLfUb8F6Liu73BJ765VaVKai-TS6XXRP6KPiMfvpTwMIE_Pa4yxhcSd3EAzrGLw8SPlltQexQ"
   },
   {
     "brand": "samsung",
