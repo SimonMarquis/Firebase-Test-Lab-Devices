@@ -16,7 +16,6 @@
 │ GoogleTvEmulator        │ Google     │ Google TV                                      │ VIRTUAL  │  720 x 1280 │ 30                               │ beta=30, deprecated=30 │
 │ MediumPhone.arm         │ Generic    │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,35,36,34 │                        │
 │ MediumTablet.arm        │ Generic    │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35    │                        │
-│ OP515BL1                │ OnePlus    │ OnePlus Nord2 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │ deprecated=33          │
 │ OP535DL1                │ OnePlus    │ CPH2409                                        │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ OP5552L1                │ OnePlus    │ CPH2415                                        │ PHYSICAL │ 2412 x 1080 │ 34,35                            │ deprecated=35          │
 │ OP573DL1                │ OPPO       │ CPH2557                                        │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
@@ -58,7 +57,6 @@
 │ caiman                  │ Google     │ Pixel 9 Pro                                    │ PHYSICAL │ 2142 x 960  │ 34,35                            │                        │
 │ cancunf                 │ Motorola   │ moto g54 5G                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ caprip                  │ Motorola   │ moto g(30)                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
-│ caymanlm                │ LG         │ VELVET                                         │ PHYSICAL │ 2460 x 1080 │ 31                               │ deprecated=31          │
 │ cheetah                 │ Google     │ Pixel 7 Pro                                    │ PHYSICAL │ 3120 x 1440 │ 33                               │                        │
 │ comet                   │ Google     │ Pixel 9 Pro Fold                               │ PHYSICAL │ 2152 x 2076 │ 34,35                            │ dda-default            │
 │ crownqlteue             │ Samsung    │ Galaxy Note9                                   │ PHYSICAL │ 1080 x 2220 │ 29                               │ deprecated=29          │
@@ -78,7 +76,6 @@
 │ gta7lite                │ Samsung    │ Galaxy Tab A7 Lite                             │ PHYSICAL │ 1340 x 800  │ 34                               │                        │
 │ gta8wifi                │ Samsung    │ Galaxy Tab A8                                  │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
 │ gta9pwifi               │ Samsung    │ SM-X210                                        │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
-│ gtaxlwifi               │ Samsung    │ Galaxy Tab A (2016)                            │ PHYSICAL │ 1920 x 1200 │ 27                               │ deprecated=27          │
 │ gts3lltevzw             │ Samsung    │ Galaxy Tab S3                                  │ PHYSICAL │ 1536 x 2048 │ 28                               │ deprecated=28          │
 │ gts7lwifi               │ Samsung    │ SM-T870                                        │ PHYSICAL │ 2560 x 1600 │ 33                               │                        │
 │ gts7xllite              │ Samsung    │ SM-T738U                                       │ PHYSICAL │ 2560 x 1600 │ 34                               │                        │

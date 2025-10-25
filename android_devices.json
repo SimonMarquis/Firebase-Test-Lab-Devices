@@ -226,30 +226,6 @@
   },
   {
     "brand": "OnePlus",
-    "codename": "OP515BL1",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "OP515BL1",
-    "manufacturer": "OnePlus",
-    "name": "OnePlus Nord2 5G",
-    "screenDensity": 480,
-    "screenX": 1080,
-    "screenY": 2400,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "33"
-    ],
-    "tags": [
-      "deprecated=33"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/z7DxYtXbyAi2a93dM3MI9oxTbdLfZZKMXqSBtcM0xUYKjCTnFAZJ3AlsDtYtw_jkT5pnQLnFaF-4"
-  },
-  {
-    "brand": "OnePlus",
     "codename": "OP535DL1",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1118,30 +1094,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/hsOHVg5aR3fb5hb8h4Hdu48kH--MgCEQ7omv4w4PxOPWcvh95kn-X9SzUGrXopJVYtt4TtykdDHV"
   },
   {
-    "brand": "lge",
-    "codename": "caymanlm",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "caymanlm",
-    "manufacturer": "LG",
-    "name": "VELVET",
-    "screenDensity": 420,
-    "screenX": 1080,
-    "screenY": 2460,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "31"
-    ],
-    "tags": [
-      "deprecated=31"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/ALyDpddGfldLEyMuvhtuLKCk78jTceV2bt7iEbutA-SqOzNxxW6Op7bnzHDlliNA23aqxglfN-yrRg"
-  },
-  {
     "brand": "google",
     "codename": "cheetah",
     "form": "PHYSICAL",
@@ -1535,29 +1487,6 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/4Oea5lXX59kuvn0CM7NE82PkSEVDyUYoecLtYgVPFEHbgnZkLzJ1FWfXXKu93xRn71yF3TeFbY0"
-  },
-  {
-    "brand": "samsung",
-    "codename": "gtaxlwifi",
-    "form": "PHYSICAL",
-    "formFactor": "TABLET",
-    "id": "gtaxlwifi",
-    "manufacturer": "Samsung",
-    "name": "Galaxy Tab A (2016)",
-    "screenDensity": 240,
-    "screenX": 1200,
-    "screenY": 1920,
-    "supportedAbis": [
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "27"
-    ],
-    "tags": [
-      "deprecated=27"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/D2ko_JBjQEcmzX2vk1IgPMtx4PW_gckvPpjyPCfZRDoDxAzKIr1IuIsm5MPCSjR_Zjw9CE28mzWR"
   },
   {
     "brand": "Verizon",
