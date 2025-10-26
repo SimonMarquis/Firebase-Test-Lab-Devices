@@ -125,29 +125,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/42SDlSVVJ2jXKlHp4P4iHDP4Alsrc4FIF5gW2N5t8RkEFcUVNgd_47K1qUilHdvPd86R9XCxXq1n"
   },
   {
-    "brand": "Nokia",
-    "codename": "FRT",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "FRT",
-    "manufacturer": "HMD Global",
-    "name": "Nokia 1",
-    "screenDensity": 240,
-    "screenX": 480,
-    "screenY": 854,
-    "supportedAbis": [
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "27"
-    ],
-    "tags": [
-      "deprecated=27"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/S1o2WB_jvLqf6frd_CSBPe1-aCOrykz3cbjCbfJGViwc9m_-Nxf0aYII63qnb7OpEZ19dMoAEUqw"
-  },
-  {
     "brand": "Google",
     "codename": "GoogleTvEmulator",
     "form": "VIRTUAL",
