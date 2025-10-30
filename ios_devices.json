@@ -114,7 +114,8 @@
       "16.6"
     ],
     "tags": [
-      "default"
+      "deprecated=15.7",
+      "deprecated=16.6"
     ]
   },
   {
@@ -197,7 +198,7 @@
       "18.0"
     ],
     "tags": [
-      "preview=18.0"
+      "deprecated=18.0"
     ]
   },
   {
@@ -240,7 +241,50 @@
       "18.0"
     ],
     "tags": [
-      "preview=18.0"
+      "deprecated=18.0"
+    ]
+  },
+  {
+    "deviceCapabilities": [
+      "accelerometer",
+      "arm64",
+      "armv6",
+      "armv7",
+      "auto-focus-camera",
+      "bluetooth-le",
+      "front-facing-camera",
+      "gamekit",
+      "gyroscope",
+      "location-services",
+      "magnetometer",
+      "metal",
+      "microphone",
+      "opengles-1",
+      "opengles-2",
+      "opengles-3",
+      "peer-peer",
+      "still-camera",
+      "video-camera",
+      "wifi",
+      "arkit",
+      "camera-flash",
+      "gps",
+      "healthkit",
+      "nfc",
+      "sms",
+      "telephony"
+    ],
+    "formFactor": "PHONE",
+    "id": "iphone16pro",
+    "name": "iPhone 16 Pro",
+    "screenDensity": 460,
+    "screenX": 1206,
+    "screenY": 2622,
+    "supportedVersionIds": [
+      "18.3"
+    ],
+    "tags": [
+      "default"
     ]
   },
   {
@@ -282,6 +326,48 @@
     "supportedVersionIds": [
       "15.7",
       "16.6"
+    ],
+    "tags": [
+      "deprecated=15.7"
+    ]
+  },
+  {
+    "deviceCapabilities": [
+      "accelerometer",
+      "arm64",
+      "armv6",
+      "armv7",
+      "auto-focus-camera",
+      "bluetooth-le",
+      "front-facing-camera",
+      "gamekit",
+      "gyroscope",
+      "location-services",
+      "magnetometer",
+      "metal",
+      "microphone",
+      "opengles-1",
+      "opengles-2",
+      "opengles-3",
+      "peer-peer",
+      "still-camera",
+      "video-camera",
+      "wifi",
+      "arkit",
+      "camera-flash",
+      "gps",
+      "healthkit",
+      "sms",
+      "telephony"
+    ],
+    "formFactor": "PHONE",
+    "id": "iphonese3",
+    "name": "iPhone SE 3",
+    "screenDensity": 326,
+    "screenX": 640,
+    "screenY": 1136,
+    "supportedVersionIds": [
+      "18.4"
     ]
   }
 ]

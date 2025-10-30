@@ -120,15 +120,17 @@
 ## iOS
 
 ```
-┌─────────────┬────────────────────────┬────────────────┬──────────────┐
-│   MODEL_ID  │          NAME          │ OS_VERSION_IDS │     TAGS     │
-├─────────────┼────────────────────────┼────────────────┼──────────────┤
-│ ipad10      │ iPad (10th generation) │ 16.6           │              │
-│ iphone11pro │ iPhone 11 Pro          │ 16.6           │              │
-│ iphone13pro │ iPhone 13 Pro          │ 15.7,16.6      │ default      │
-│ iphone14pro │ iPhone 14 Pro          │ 16.6           │              │
-│ iphone15    │ iPhone 15              │ 18.0           │ preview=18.0 │
-│ iphone15pro │ iPhone 15 Pro          │ 18.0           │ preview=18.0 │
-│ iphone8     │ iPhone 8               │ 15.7,16.6      │              │
-└─────────────┴────────────────────────┴────────────────┴──────────────┘
+┌─────────────┬────────────────────────┬────────────────┬──────────────────────────────────┐
+│   MODEL_ID  │          NAME          │ OS_VERSION_IDS │               TAGS               │
+├─────────────┼────────────────────────┼────────────────┼──────────────────────────────────┤
+│ ipad10      │ iPad (10th generation) │ 16.6           │                                  │
+│ iphone11pro │ iPhone 11 Pro          │ 16.6           │                                  │
+│ iphone13pro │ iPhone 13 Pro          │ 15.7,16.6      │ deprecated=15.7, deprecated=16.6 │
+│ iphone14pro │ iPhone 14 Pro          │ 16.6           │                                  │
+│ iphone15    │ iPhone 15              │ 18.0           │ deprecated=18.0                  │
+│ iphone15pro │ iPhone 15 Pro          │ 18.0           │ deprecated=18.0                  │
+│ iphone16pro │ iPhone 16 Pro          │ 18.3           │ default                          │
+│ iphone8     │ iPhone 8               │ 15.7,16.6      │ deprecated=15.7                  │
+│ iphonese3   │ iPhone SE 3            │ 18.4           │                                  │
+└─────────────┴────────────────────────┴────────────────┴──────────────────────────────────┘
 ```
