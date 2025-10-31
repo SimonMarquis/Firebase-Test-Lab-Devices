@@ -1138,6 +1138,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "dm1q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dm1q",
+    "manufacturer": "Samsung",
+    "name": "Samsung S23",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/cheWa2kFdf7ZeDXcVADaiu5Nyjur6ypE8OQrUsMvdc9RvuXTiSNwMTQYLMVPkNWsJ4X9ZTQSU7_c"
+  },
+  {
+    "brand": "samsung",
     "codename": "dm2q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1917,6 +1938,25 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/0m1WCY9GpKqdyC_gg2pOOB-9YRLRWmxV97QHYsSxenEvJRzSUpBRPhxXyoGSHIboCItCgT5VOFK1"
+  },
+  {
+    "brand": "samsung",
+    "codename": "psq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "psq",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S25 Edge",
+    "screenDensity": 450,
+    "screenX": 1440,
+    "screenY": 3120,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/TVGaOMMXEoBC_bYhXYgmWYIMO6gZjIhCehfwTQ-8xYpeHsTtqR6uy80y93_xlFOyXFw4cdnsYFPDQQ"
   },
   {
     "brand": "samsung",
