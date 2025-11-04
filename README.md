@@ -29,6 +29,7 @@
 │ XQ-DQ72                 │ Sony     │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                               │                        │
 │ a02q                    │ Samsung  │ Galaxy A02s                                    │ PHYSICAL │ 1600 x 720  │ 31                               │ deprecated=31          │
 │ a03s                    │ Samsung  │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │ deprecated=33          │
+│ a06                     │ Samsung  │ Galaxy A06                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
 │ a10                     │ Samsung  │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                               │                        │
 │ a12                     │ Samsung  │ Galaxy A12                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
 │ a14m                    │ Samsung  │ SM-A145R                                       │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
