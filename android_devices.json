@@ -807,6 +807,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/STmE1AMXv8VrcvfBKDD858FJC4Ju-uJ8hu4jXtVaawFmUPc_65Y8012tAfTz4Xnt85jIeAvqvYII"
   },
   {
+    "brand": "samsung",
+    "codename": "a56x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a56x",
+    "manufacturer": "Samsung",
+    "name": "SM-A566E",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/uNvHV7mMgfp8f_HBJwPCWCrjmOJlRWdi56_Ibr3ccq8oJ388UD_IA6t1gX1iiZm573jP8wn0mV1eWw"
+  },
+  {
     "brand": "google",
     "codename": "akita",
     "form": "PHYSICAL",

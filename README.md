@@ -43,6 +43,7 @@
 │ a36xq                   │ Samsung  │ Samsung SM-A366E                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ a52sxq                  │ Samsung  │ Galaxy A52s                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ a54x                    │ Samsung  │ Galaxy A54 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
+│ a56x                    │ Samsung  │ SM-A566E                                       │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ akita                   │ Google   │ Pixel 8a                                       │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
 │ arcfox                  │ Motorola │ motorola razr plus 2024                        │ PHYSICAL │ 1272 x 1080 │ 34                               │                        │
 │ austin                  │ Motorola │ moto g 5G (2022)                               │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
