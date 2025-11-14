@@ -726,6 +726,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a26x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a26x",
+    "manufacturer": "Samsung",
+    "name": "Samsung SM-A266B",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/hubnZqz8_oNFVL3PwOZfcmnGmOt7yZiIEFNPFpDdW-6NNXsRKWk1_rgUPrF_QXzy5nfMj0clk9wltA"
+  },
+  {
+    "brand": "samsung",
     "codename": "a35x",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
