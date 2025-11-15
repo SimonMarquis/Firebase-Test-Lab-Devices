@@ -99,6 +99,7 @@
 │ o1q                     │ Samsung  │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ oriole                  │ Google   │ Pixel 6                                        │ PHYSICAL │ 2400 x 1080 │ 32,33,31                         │                        │
 │ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34                               │                        │
+│ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ psq                     │ Samsung  │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
