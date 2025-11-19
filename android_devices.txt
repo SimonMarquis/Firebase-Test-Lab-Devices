@@ -85,6 +85,7 @@
 │ java                    │ Motorola │ Motorola G20                                   │ PHYSICAL │ 1600 x 720  │ 30                               │                        │
 │ kansas                  │ Motorola │ moto g - 2025                                  │ PHYSICAL │ 1604 x 720  │ 35                               │                        │
 │ komodo                  │ Google   │ Pixel 9 Pro XL                                 │ PHYSICAL │ 2244 x 1008 │ 34,35                            │                        │
+│ lamul                   │ Motorola │ moto g05                                       │ PHYSICAL │ 1604 x 720  │ 35                               │                        │
 │ lion                    │ Motorola │ moto g04                                       │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
 │ lynx                    │ Google   │ Pixel 7a                                       │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ lyriq                   │ Motorola │ motorola edge 40                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │

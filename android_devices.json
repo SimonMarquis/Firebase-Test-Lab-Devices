@@ -883,7 +883,7 @@
     "supportedVersionIds": [
       "34"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/NSLx63ucY8QuOwrZ7IEGLu3e4T20jREXtZoVxKAwkpRCP88AJ3bVyth35x8PQD_a8jNkyduc2NGl"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/hPIRUYIi4dYCpDFl1A7Asq2e-E4BNfIkl1WxTRJX1qhtS6cGKeJNLhRTcFVs6h0lomabZUzTWTIx"
   },
   {
     "brand": "motorola",
@@ -925,7 +925,7 @@
     "supportedVersionIds": [
       "33"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/-jYAkTPmoRKVJi5OXU41fNyhUmqQSFBmrrqAYcLkqmzR2B_99HbY0xWJtCaIm5KEtetS_H0qty0"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/uUcnszVlCOjsBx5mSxp7QJNIzKhZXRC2gTFdk6N0TJnwKIyT3u-1PJBr4JAiJVlYo1HdiFhxHfw"
   },
   {
     "brand": "samsung",
@@ -1774,6 +1774,27 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/JblegZmgsCWrWt4KVoPz7X-9eNZ11WoK113QdlA3U6NzPBiR42Ukdt5aMJidFtb0j9kTglltJfR0"
+  },
+  {
+    "brand": "motorola",
+    "codename": "lamul",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "lamul",
+    "manufacturer": "Motorola",
+    "name": "moto g05",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1604,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/kbq6_GTeR72JnF1AKyFadnR8HxphqSDDo8wpQJRzO2bMkjbpQhkYcKPr9iv3nP6zThz5wE1bnz0"
   },
   {
     "brand": "motorola",
