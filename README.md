@@ -40,7 +40,7 @@
 │ a16x                    │ Samsung  │ Samsung A16 5G                                 │ PHYSICAL │ 2340 x 1080 │ 35,34                            │                        │
 │ a25x                    │ Samsung  │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a26x                    │ Samsung  │ Samsung SM-A266B                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
-│ a35x                    │ Samsung  │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
+│ a35x                    │ Samsung  │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34,35                            │                        │
 │ a36xq                   │ Samsung  │ Samsung SM-A366E                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ a52sxq                  │ Samsung  │ Galaxy A52s                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ a54x                    │ Samsung  │ Galaxy A54 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
