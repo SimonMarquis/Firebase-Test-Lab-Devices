@@ -516,6 +516,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a05s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a05s",
+    "manufacturer": "Samsung",
+    "name": "Samsung A05s",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/UYFV3xuJafIrf3mJk1sQKtFK0EYNj4bBFO2jYcOz0CUfNzUif8UMLrSEMk_T9FzYHaUM5Ds_HLQOrw"
+  },
+  {
+    "brand": "samsung",
     "codename": "a06",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1320,7 +1341,8 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "34"
+      "34",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/tBZGTf-WYLbxAr2ffC4PRPlRsvaDYhEQSXi2UmDpN5Hvx4Ofi0nUmsax-AaSvzSJMhxLSt9okQ8"
   },
@@ -2018,7 +2040,8 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "35"
+      "35",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/52o0ZMdywHtR0rMafloVywcMLMlRTwRgqUug7QQz_6gKz6yqxHoo23NaIOjGyH4mFuYCiL7HNxpM"
   },

@@ -24,6 +24,7 @@
 │ XQ-DQ72                 │ Sony     │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                               │                        │
 │ a02q                    │ Samsung  │ Galaxy A02s                                    │ PHYSICAL │ 1600 x 720  │ 31                               │ deprecated=31          │
 │ a03s                    │ Samsung  │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │ deprecated=33          │
+│ a05s                    │ Samsung  │ Samsung A05s                                   │ PHYSICAL │ 2400 x 1080 │ 35                               │                        │
 │ a06                     │ Samsung  │ Galaxy A06                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
 │ a10                     │ Samsung  │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                               │                        │
 │ a12                     │ Samsung  │ Galaxy A12                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
@@ -62,7 +63,7 @@
 │ dm3q                    │ Samsung  │ Galaxy S23 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,34                            │                        │
 │ dubai                   │ Motorola │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ e1q                     │ Samsung  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 34                               │ dda-default            │
-│ e3q                     │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34                               │                        │
+│ e3q                     │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34,36                            │                        │
 │ eos                     │ Google   │ Eos                                            │ PHYSICAL │  384 x 384  │ 33                               │                        │
 │ felix                   │ Google   │ Pixel Fold                                     │ PHYSICAL │ 1840 x 2208 │ 33,34                            │                        │
 │ felix_camera            │ Google   │ Pixel Fold (Camera-enabled)                    │ PHYSICAL │ 1840 x 2208 │ 33                               │                        │
@@ -96,7 +97,7 @@
 │ oriole                  │ Google   │ Pixel 6                                        │ PHYSICAL │ 2400 x 1080 │ 32,33,31                         │                        │
 │ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34                               │                        │
 │ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
-│ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
+│ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35,36                            │                        │
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ psq                     │ Samsung  │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ q4q                     │ Samsung  │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │
