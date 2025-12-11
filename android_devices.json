@@ -768,6 +768,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a34x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a34x",
+    "manufacturer": "Samsung",
+    "name": "Samsung SM-A346N",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/qr12phpUxBPo2ycq7j63euNOcOHtb_IeYFfVowj5ScuZshvi8voEawYS8D2qNxl0DqQ9muDIiaT3lQ"
+  },
+  {
+    "brand": "samsung",
     "codename": "a35x",
     "form": "PHYSICAL",
     "formFactor": "PHONE",

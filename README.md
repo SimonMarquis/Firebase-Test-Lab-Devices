@@ -41,6 +41,7 @@
 │ a16x                    │ Samsung  │ Samsung A16 5G                                 │ PHYSICAL │ 2340 x 1080 │ 35,34                            │                        │
 │ a25x                    │ Samsung  │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a26x                    │ Samsung  │ Samsung SM-A266B                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ a34x                    │ Samsung  │ Samsung SM-A346N                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ a35x                    │ Samsung  │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34,35                            │                        │
 │ a36xq                   │ Samsung  │ Samsung SM-A366E                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ a52sxq                  │ Samsung  │ Galaxy A52s                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
@@ -133,8 +134,8 @@
 ├─────────────┼────────────────────────┼────────────────┼─────────┤
 │ ipad10      │ iPad (10th generation) │ 16.6           │         │
 │ iphone11pro │ iPhone 11 Pro          │ 16.6           │         │
-│ iphone14pro │ iPhone 14 Pro          │ 16.6           │         │
-│ iphone16pro │ iPhone 16 Pro          │ 18.3           │ default │
+│ iphone14pro │ iPhone 14 Pro          │ 16.6           │ default │
+│ iphone16pro │ iPhone 16 Pro          │ 18.3           │         │
 │ iphone8     │ iPhone 8               │ 16.6           │         │
 │ iphonese3   │ iPhone SE 3            │ 18.4           │         │
 └─────────────┴────────────────────────┴────────────────┴─────────┘

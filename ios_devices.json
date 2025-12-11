@@ -111,6 +111,9 @@
     "screenY": 2556,
     "supportedVersionIds": [
       "16.6"
+    ],
+    "tags": [
+      "default"
     ]
   },
   {
@@ -151,9 +154,6 @@
     "screenY": 2622,
     "supportedVersionIds": [
       "18.3"
-    ],
-    "tags": [
-      "default"
     ]
   },
   {
