@@ -824,7 +824,8 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "35"
+      "35",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/irjf_ffCDMTHSWr2sYn1ydiEdtMg6H6Npdo5ADjT-BL4d8PIeokoNXvW687mDl1cPonoFpXlnZk"
   },
@@ -1340,7 +1341,8 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "34"
+      "34",
+      "36"
     ],
     "tags": [
       "dda-default"
@@ -2247,6 +2249,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/vMGqeGKkML4w32Ts0fQtG8MhH6oDZZ4ehvbzwk06s8eXj35zSCeyW-dYisd01wuA6K2CEyCtfOA"
   },
   {
+    "brand": "samsung",
+    "codename": "r9q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r9q",
+    "manufacturer": "Samsung",
+    "name": "Samsung Galaxy S21 FE 5G",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/vYYasbU9WmAPPtDKssTzEblS11tzG9ZOccNuzXTdlqLfL3Uncam2f0a8kyF2dEA0mHhSdxDl7jo"
+  },
+  {
     "brand": "google",
     "codename": "rango",
     "form": "PHYSICAL",
@@ -2453,5 +2476,26 @@
     "supportedVersionIds": [
       "33"
     ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "y2q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "y2q",
+    "manufacturer": "Samsung",
+    "name": "S20 Plus 5G",
+    "screenDensity": 600,
+    "screenX": 1440,
+    "screenY": 3200,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/IobHdSLAtgAC2OnL3R5a9wRlV271XvkQ0cmEbDamXrtx7IoKbjiEzVg9YNwQD3pShhoEa_9rAUmd"
   }
 ]
