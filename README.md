@@ -29,6 +29,7 @@
 │ XQ-DQ72                 │ Sony     │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                               │                        │
 │ a02q                    │ Samsung  │ Galaxy A02s                                    │ PHYSICAL │ 1600 x 720  │ 31                               │ deprecated=31          │
 │ a03s                    │ Samsung  │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │ deprecated=33          │
+│ a03su                   │ Samsung  │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ a05s                    │ Samsung  │ Samsung A05s                                   │ PHYSICAL │ 2400 x 1080 │ 35                               │                        │
 │ a06                     │ Samsung  │ Galaxy A06                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
 │ a10                     │ Samsung  │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                               │                        │
@@ -77,7 +78,7 @@
 │ fogona                  │ Motorola │ moto g play - 2024                             │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ fogos                   │ Motorola │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ frankel                 │ Google   │ Pixel 10                                       │ PHYSICAL │ 2424 x 1080 │ 36                               │                        │
-│ g0q                     │ Samsung  │ SM-S906U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
+│ g0q                     │ Samsung  │ SM-S906U1                                      │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ gta7lite                │ Samsung  │ Galaxy Tab A7 Lite                             │ PHYSICAL │ 1340 x 800  │ 34                               │                        │
 │ gta8wifi                │ Samsung  │ Galaxy Tab A8                                  │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
 │ gta9pwifi               │ Samsung  │ SM-X210                                        │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
@@ -99,9 +100,9 @@
 │ manaus                  │ Motorola │ motorola edge 40 neo                           │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ maui                    │ Motorola │ moto g play - 2023                             │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ mustang                 │ Google   │ Pixel 10 Pro XL                                │ PHYSICAL │ 2404 x 1080 │ 36                               │                        │
-│ o1q                     │ Samsung  │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
+│ o1q                     │ Samsung  │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
 │ oriole                  │ Google   │ Pixel 6                                        │ PHYSICAL │ 2400 x 1080 │ 32,33,31                         │                        │
-│ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34                               │                        │
+│ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34,35                            │                        │
 │ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35,36                            │                        │
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
