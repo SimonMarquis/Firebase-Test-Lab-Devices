@@ -912,6 +912,24 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/uNvHV7mMgfp8f_HBJwPCWCrjmOJlRWdi56_Ibr3ccq8oJ388UD_IA6t1gX1iiZm573jP8wn0mV1eWw"
   },
   {
+    "brand": "samsung",
+    "codename": "a56xnaeea",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a56xnaeea",
+    "manufacturer": "Samsung",
+    "name": "SM-A566b",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
     "brand": "google",
     "codename": "akita",
     "form": "PHYSICAL",
@@ -1041,7 +1059,7 @@
     "formFactor": "PHONE",
     "id": "b6q",
     "manufacturer": "Samsung",
-    "name": "Flip 6",
+    "name": "Galaxy Z Flip 6",
     "screenDensity": 340,
     "screenX": 1080,
     "screenY": 2640,
