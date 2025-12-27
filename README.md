@@ -72,6 +72,7 @@
 │ dubai                   │ Motorola │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ e1q                     │ Samsung  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │ dda-default            │
 │ e3q                     │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34,36                            │                        │
+│ e3qzhx                  │ Samsung  │ S24 Ultra                                      │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ eos                     │ Google   │ Eos                                            │ PHYSICAL │  384 x 384  │ 33                               │                        │
 │ felix                   │ Google   │ Pixel Fold                                     │ PHYSICAL │ 1840 x 2208 │ 33,34                            │                        │
 │ felix_camera            │ Google   │ Pixel Fold (Camera-enabled)                    │ PHYSICAL │ 1840 x 2208 │ 33                               │                        │
@@ -104,6 +105,7 @@
 │ o1q                     │ Samsung  │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
 │ oriole                  │ Google   │ Pixel 6                                        │ PHYSICAL │ 2400 x 1080 │ 32,33,31                         │                        │
 │ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34,35                            │                        │
+│ pa1q                    │ Samsung  │ Samsung S25                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35,36                            │                        │
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │

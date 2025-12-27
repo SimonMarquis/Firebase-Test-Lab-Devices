@@ -1409,6 +1409,24 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/tBZGTf-WYLbxAr2ffC4PRPlRsvaDYhEQSXi2UmDpN5Hvx4Ofi0nUmsax-AaSvzSJMhxLSt9okQ8"
   },
   {
+    "brand": "samsung",
+    "codename": "e3qzhx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e3qzhx",
+    "manufacturer": "Samsung",
+    "name": "S24 Ultra",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
     "brand": "google",
     "codename": "eos",
     "form": "PHYSICAL",
@@ -2068,6 +2086,25 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/7WUVU79a6FKNQz5QUjdx3Rct_QbXGb_MxxTocNfTibHyhJ5p8dfWa0IP-5FuC4Jq5gPtevgkubjUVQ"
+  },
+  {
+    "brand": "samsung",
+    "codename": "pa1q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "pa1q",
+    "manufacturer": "Samsung",
+    "name": "Samsung S25",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/pZMVD8nW1952vctYtJIi1iOEaoDgpNHP0t-nHeybYLgt7kkLOhIJYl6BIeDKfCG8MGOml0_BEwX8"
   },
   {
     "brand": "samsung",
