@@ -826,7 +826,8 @@
     ],
     "supportedVersionIds": [
       "34",
-      "35"
+      "35",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y6fHqkDKKr8IqxaeR8bIqcRJOgtpZRQOv_qYWYAkLN9alaaqh85hSiGYHRznuD_xH3F6uKyRFITt"
   },
@@ -2133,9 +2134,9 @@
     "id": "pa3q",
     "manufacturer": "Samsung",
     "name": "Galaxy S25 Ultra",
-    "screenDensity": 600,
-    "screenX": 1440,
-    "screenY": 3120,
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
     "supportedAbis": [
       "arm64-v8a",
       "armeabi-v7a",
@@ -2347,6 +2348,26 @@
       "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/vYYasbU9WmAPPtDKssTzEblS11tzG9ZOccNuzXTdlqLfL3Uncam2f0a8kyF2dEA0mHhSdxDl7jo"
+  },
+  {
+    "brand": "samsung",
+    "codename": "r9q-SM-G990U",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r9q-SM-G990U",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S21 FE 5G",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "google",

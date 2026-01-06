@@ -43,7 +43,7 @@
 │ a25x                    │ Samsung  │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a26x                    │ Samsung  │ Samsung SM-A266B                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ a34x                    │ Samsung  │ Samsung SM-A346N                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
-│ a35x                    │ Samsung  │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34,35                            │                        │
+│ a35x                    │ Samsung  │ Samsung A35                                    │ PHYSICAL │ 2340 x 1080 │ 34,35,36                         │                        │
 │ a36xq                   │ Samsung  │ Samsung SM-A366E                               │ PHYSICAL │ 2340 x 1080 │ 35,36                            │                        │
 │ a52sxq                  │ Samsung  │ Galaxy A52s                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ a54x                    │ Samsung  │ Galaxy A54 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
@@ -107,7 +107,7 @@
 │ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34,35                            │                        │
 │ pa1q                    │ Samsung  │ Samsung S25                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
-│ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 35,36                            │                        │
+│ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 35,36                            │                        │
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ psq                     │ Samsung  │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ q4q                     │ Samsung  │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │
@@ -118,6 +118,7 @@
 │ r11q                    │ Samsung  │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ r12s                    │ Samsung  │ SM-S721U1                                      │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ r9q                     │ Samsung  │ Samsung Galaxy S21 FE 5G                       │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ r9q-SM-G990U            │ Samsung  │ Galaxy S21 FE 5G                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ rango                   │ Google   │ Pixel 10 Pro Fold                              │ PHYSICAL │ 2152 x 2076 │ 36                               │                        │
 │ redfin                  │ Google   │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                               │ default                │
 │ shiba                   │ Google   │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35,34                            │                        │
