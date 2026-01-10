@@ -1411,6 +1411,24 @@
   },
   {
     "brand": "samsung",
+    "codename": "e3qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e3qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "screenDensity": 450,
+    "screenX": 1440,
+    "screenY": 3120,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "e3qzhx",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1816,7 +1834,8 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "34"
+      "34",
+      "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/rXfdS2_Z9BVlz3qa3DhcFzCjGKfHf9btz396bK3qYZD2MZgxZcmgO8sBUep1vPg_jDst0vLPEoGt"
   },
@@ -2311,6 +2330,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "r11s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r11s",
+    "manufacturer": "Samsung",
+    "name": "SM-S711N",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/opAt-FW0N3ksz9O2rSzuw2DM6Ou25obTXFH00FGHSl6_WG7uM_sHCnr3tviDJ5byXnR6k05gpy9Z"
+  },
+  {
+    "brand": "samsung",
     "codename": "r12s",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -2470,7 +2510,8 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "34"
+      "34",
+      "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/B-HROKSpb1HJM8qbK9HhPrhJsei8BHXTYPgeYWwJbf5XKgtjBN-r73XDfxxKaZFUn_VcK8wz8N8"
   },
