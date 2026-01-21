@@ -104,6 +104,7 @@
 │ pa1q                    │ Samsung  │ Samsung S25                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 35,36                            │                        │
+│ pa3qxxx                 │ Samsung  │ Samsung S25 Ultra                              │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ psq                     │ Samsung  │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ q4q                     │ Samsung  │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │

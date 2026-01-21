@@ -2168,6 +2168,26 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/52o0ZMdywHtR0rMafloVywcMLMlRTwRgqUug7QQz_6gKz6yqxHoo23NaIOjGyH4mFuYCiL7HNxpM"
   },
   {
+    "brand": "samsung",
+    "codename": "pa3qxxx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "pa3qxxx",
+    "manufacturer": "Samsung",
+    "name": "Samsung S25 Ultra",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
     "brand": "google",
     "codename": "panther",
     "form": "PHYSICAL",
