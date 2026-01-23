@@ -16,7 +16,7 @@
 │ MediumPhone.arm         │ Generic  │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,35,36,34 │                        │
 │ MediumTablet.arm        │ Generic  │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35    │                        │
 │ OP535DL1                │ OnePlus  │ CPH2409                                        │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
-│ OP5552L1                │ OnePlus  │ CPH2415                                        │ PHYSICAL │ 2412 x 1080 │ 34,35                            │ deprecated=35          │
+│ OP5552L1                │ OnePlus  │ CPH2415                                        │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ OP573DL1                │ OPPO     │ CPH2557                                        │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ OP5958L1                │ OnePlus  │ OnePlus Nord CE3 Lite                          │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ Pixel2.arm              │ Google   │ Pixel 2 (Arm)                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,31,32,33          │                        │
@@ -27,8 +27,6 @@
 │ TB370FU                 │ Lenovo   │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35                               │                        │
 │ XQ-DC54                 │ Sony     │ XQ-DC54                                        │ PHYSICAL │ 2520 x 1080 │ 34                               │                        │
 │ XQ-DQ72                 │ Sony     │ XQ-DQ72                                        │ PHYSICAL │ 2560 x 1096 │ 34                               │                        │
-│ a02q                    │ Samsung  │ Galaxy A02s                                    │ PHYSICAL │ 1600 x 720  │ 31                               │ deprecated=31          │
-│ a03s                    │ Samsung  │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │ deprecated=33          │
 │ a03su                   │ Samsung  │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ a05s                    │ Samsung  │ Samsung A05s                                   │ PHYSICAL │ 2400 x 1080 │ 35                               │                        │
 │ a06                     │ Samsung  │ Galaxy A06                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
@@ -65,12 +63,13 @@
 │ caprip                  │ Motorola │ moto g(30)                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
 │ cheetah                 │ Google   │ Pixel 7 Pro                                    │ PHYSICAL │ 3120 x 1440 │ 33                               │                        │
 │ comet                   │ Google   │ Pixel 9 Pro Fold                               │ PHYSICAL │ 2152 x 2076 │ 34,35                            │ dda-default            │
-│ crownqlteue             │ Samsung  │ Galaxy Note9                                   │ PHYSICAL │ 1080 x 2220 │ 29                               │ deprecated=29          │
 │ dm1q                    │ Samsung  │ Samsung S23                                    │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
+│ dm1q-SM-S911U           │ Samsung  │ Samsung S23                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ dm2q                    │ Samsung  │ S23 Plus                                       │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ dm3q                    │ Samsung  │ Galaxy S23 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,34                            │                        │
 │ dubai                   │ Motorola │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ e1q                     │ Samsung  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │ dda-default            │
+│ e2q                     │ Samsung  │ Galaxy S24 +                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ e3q                     │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34,36                            │                        │
 │ e3qksx                  │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 36                               │                        │
 │ e3qzhx                  │ Samsung  │ S24 Ultra                                      │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │

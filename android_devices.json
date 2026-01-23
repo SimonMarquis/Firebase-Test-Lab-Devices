@@ -239,11 +239,7 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "34",
-      "35"
-    ],
-    "tags": [
-      "deprecated=35"
+      "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/EbE3WvSHa1Afo2hNGTdBSb_Eedy77Z-A_1OAv8VfTJNBEgGogSdP-cw8hzH7h5iqXWN3lPbcu19uOw"
   },
@@ -466,53 +462,6 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/sDRDJ_8gyvue803FshM2jRGRAYYm3BfS7I-99aKKeKaJoVNuxdRtoV313jJxonkiACmhzGdMRYlC"
-  },
-  {
-    "brand": "samsung",
-    "codename": "a02q",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "a02q",
-    "manufacturer": "Samsung",
-    "name": "Galaxy A02s",
-    "screenDensity": 280,
-    "screenX": 720,
-    "screenY": 1600,
-    "supportedAbis": [
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "31"
-    ],
-    "tags": [
-      "deprecated=31"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/p5dY_EZCELlhF7645nUWRMzdrxlOlkpBBzt80p75NZrhq1CXMAnWpcmZUNw0PTZn1A7n8-EyWTMe"
-  },
-  {
-    "brand": "samsung",
-    "codename": "a03s",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "a03s",
-    "manufacturer": "Samsung",
-    "name": "Galaxy A03s",
-    "screenDensity": 300,
-    "screenX": 720,
-    "screenY": 1600,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "33"
-    ],
-    "tags": [
-      "deprecated=33"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/ePMevY-LazGFEOm4X5dx1ZWJtJoaQbtiIKafE8l9N8mMrmLw_utoIZ8DKPLW-09X9VC0oP3uXYc0-g"
   },
   {
     "brand": "samsung",
@@ -1259,30 +1208,6 @@
   },
   {
     "brand": "samsung",
-    "codename": "crownqlteue",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "crownqlteue",
-    "manufacturer": "Samsung",
-    "name": "Galaxy Note9",
-    "screenDensity": 420,
-    "screenX": 2220,
-    "screenY": 1080,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "29"
-    ],
-    "tags": [
-      "deprecated=29"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/nsHOF3Gfm88-OLi6Q5qZWoE4sw_OVvhoAuE5Fo6aYfAYd031Y8bdsBhTQfdTkLfC5Ou_7l-77oA"
-  },
-  {
-    "brand": "samsung",
     "codename": "dm1q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1301,6 +1226,26 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/cheWa2kFdf7ZeDXcVADaiu5Nyjur6ypE8OQrUsMvdc9RvuXTiSNwMTQYLMVPkNWsJ4X9ZTQSU7_c"
+  },
+  {
+    "brand": "samsung",
+    "codename": "dm1q-SM-S911U",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dm1q-SM-S911U",
+    "manufacturer": "Samsung",
+    "name": "Samsung S23",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
@@ -1388,6 +1333,25 @@
       "dda-default"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
+  },
+  {
+    "brand": "samsung",
+    "codename": "e2q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e2q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24 +",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/7J94qy5xQ3eceAz5oZIaGMcqiIGYytvdLeTkYsv1YPIC6xjvOdVz9mz_azB66Fao9Qm-R8NTRSviCA"
   },
   {
     "brand": "samsung",
