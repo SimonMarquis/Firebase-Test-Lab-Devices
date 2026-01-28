@@ -647,7 +647,8 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "34"
+      "34",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/9LIUbZneB5fBZWJjKWDfkaWpOLOuuNQFLw6TX8i4ueJgSozroYo4BYOL2vUBuppg8toEJf37XtM"
   },
@@ -956,9 +957,10 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "33"
+      "33",
+      "36"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/uUcnszVlCOjsBx5mSxp7QJNIzKhZXRC2gTFdk6N0TJnwKIyT3u-1PJBr4JAiJVlYo1HdiFhxHfw"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/-jYAkTPmoRKVJi5OXU41fNyhUmqQSFBmrrqAYcLkqmzR2B_99HbY0xWJtCaIm5KEtetS_H0qty0"
   },
   {
     "brand": "samsung",
@@ -1081,6 +1083,27 @@
       "28"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/A-RPvqzMpVIUpyVmgwDawhYjSsYIGRquDl1cCKqvO-QAx9UnMR4IFfaY0ge5IQZxwzSguthlzkmgFw"
+  },
+  {
+    "brand": "samsung",
+    "codename": "c1q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "c1q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Note 20 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/l2rR_zUzW6bQXUa4EiDGp1fyYCVeV7p9MfxN7j-oGso1-8uSn-mkjmPScoLft-eh7uCigOwaNLjFuQ"
   },
   {
     "brand": "xiaomi",
@@ -2351,6 +2374,27 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/vMGqeGKkML4w32Ts0fQtG8MhH6oDZZ4ehvbzwk06s8eXj35zSCeyW-dYisd01wuA6K2CEyCtfOA"
+  },
+  {
+    "brand": "samsung",
+    "codename": "r8q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r8q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S20 FE 5G",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/IbH9GjUDGV9MyhdoxIBxmBTcT7tuvKJJ19dnELIKVSCdjnX_1O66w9uxgrNGbn5EuS1Z1RpGbXB4"
   },
   {
     "brand": "samsung",

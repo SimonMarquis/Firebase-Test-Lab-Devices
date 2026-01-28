@@ -30,7 +30,7 @@
 │ a14m                    │ Samsung  │ SM-A145R                                       │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ a14xm                   │ Samsung  │ Galaxy A14                                     │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ a15                     │ Samsung  │ Samsung A15                                    │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
-│ a15x                    │ Samsung  │ Samsung A15 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
+│ a15x                    │ Samsung  │ Samsung A15 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ a16                     │ Samsung  │ Samsung SM-A165M                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ a16x                    │ Samsung  │ Samsung A16 5G                                 │ PHYSICAL │ 2340 x 1080 │ 35,34                            │                        │
 │ a25x                    │ Samsung  │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
@@ -45,13 +45,14 @@
 │ akita                   │ Google   │ Pixel 8a                                       │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
 │ arcfox                  │ Motorola │ motorola razr plus 2024                        │ PHYSICAL │ 1272 x 1080 │ 34                               │                        │
 │ austin                  │ Motorola │ moto g 5G (2022)                               │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
-│ b0q                     │ Samsung  │ Galaxy S22 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33                               │                        │
+│ b0q                     │ Samsung  │ Galaxy S22 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,36                            │                        │
 │ b4q                     │ Samsung  │ Galaxy Z Flip4                                 │ PHYSICAL │ 2640 x 1080 │ 33                               │                        │
 │ b5q                     │ Samsung  │ Galaxy Z Flip5                                 │ PHYSICAL │ 2640 x 1080 │ 34                               │                        │
 │ b6q                     │ Samsung  │ Galaxy Z Flip 6                                │ PHYSICAL │ 2640 x 1080 │ 34                               │                        │
 │ blazer                  │ Google   │ Pixel 10 Pro                                   │ PHYSICAL │ 2410 x 1080 │ 36                               │                        │
 │ bluejay                 │ Google   │ Pixel 6a                                       │ PHYSICAL │ 2400 x 1080 │ 32                               │                        │
 │ blueline                │ Google   │ Pixel 3                                        │ PHYSICAL │ 2160 x 1080 │ 28                               │                        │
+│ c1q                     │ Samsung  │ Galaxy Note 20 5G                              │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ cactus                  │ Xiaomi   │ Redmi 6A                                       │ PHYSICAL │ 1440 x 720  │ 27                               │                        │
 │ caiman                  │ Google   │ Pixel 9 Pro                                    │ PHYSICAL │ 2142 x 960  │ 34,35                            │                        │
 │ cancunf                 │ Motorola │ moto g54 5G                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
@@ -114,6 +115,7 @@
 │ r11q                    │ Samsung  │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ r11s                    │ Samsung  │ SM-S711N                                       │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r12s                    │ Samsung  │ SM-S721U1                                      │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
+│ r8q                     │ Samsung  │ Galaxy S20 FE 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ r9q                     │ Samsung  │ Samsung Galaxy S21 FE 5G                       │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r9q-SM-G990U            │ Samsung  │ Galaxy S21 FE 5G                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ rango                   │ Google   │ Pixel 10 Pro Fold                              │ PHYSICAL │ 2152 x 2076 │ 36                               │                        │
