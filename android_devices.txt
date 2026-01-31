@@ -66,6 +66,7 @@
 │ dubai                   │ Motorola │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ e1q                     │ Samsung  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │ dda-default            │
 │ e2q                     │ Samsung  │ Galaxy S24 +                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ e2s                     │ Samsung  │ Galaxy S24+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ e3q                     │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34,36                            │                        │
 │ e3qksx                  │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 36                               │                        │
 │ e3qzhx                  │ Samsung  │ S24 Ultra                                      │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
