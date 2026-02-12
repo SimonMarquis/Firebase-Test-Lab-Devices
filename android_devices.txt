@@ -27,12 +27,15 @@
 │ a06                     │ Samsung  │ Galaxy A06                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
 │ a10                     │ Samsung  │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                               │                        │
 │ a12                     │ Samsung  │ Galaxy A12                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
+│ a13                     │ Samsung  │ Galaxy A13                                     │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ a14m                    │ Samsung  │ SM-A145R                                       │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ a14xm                   │ Samsung  │ Galaxy A14                                     │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
+│ a14xmtfn                │ Samsung  │ Galaxy A14 5G                                  │ PHYSICAL │ 2408 x 1080 │ 35                               │                        │
 │ a15                     │ Samsung  │ Samsung A15                                    │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a15x                    │ Samsung  │ Samsung A15 5G                                 │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ a16                     │ Samsung  │ Samsung SM-A165M                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ a16x                    │ Samsung  │ Samsung A16 5G                                 │ PHYSICAL │ 2340 x 1080 │ 35,34                            │                        │
+│ a21                     │ Samsung  │ Galaxy A21                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
 │ a25x                    │ Samsung  │ SM-A256U1                                      │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a26x                    │ Samsung  │ Samsung SM-A266B                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ a34x                    │ Samsung  │ Samsung SM-A346N                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
@@ -61,6 +64,7 @@
 │ comet                   │ Google   │ Pixel 9 Pro Fold                               │ PHYSICAL │ 2152 x 2076 │ 34,35                            │ dda-default            │
 │ dm1q                    │ Samsung  │ Samsung S23                                    │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ dm1q-SM-S911U           │ Samsung  │ Samsung S23                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ dm1qcsx                 │ Samsung  │ Galaxy S23                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ dm2q                    │ Samsung  │ S23 Plus                                       │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ dm3q                    │ Samsung  │ Galaxy S23 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,34                            │                        │
 │ dubai                   │ Motorola │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
@@ -68,6 +72,7 @@
 │ e2q                     │ Samsung  │ Galaxy S24 +                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ e2s                     │ Samsung  │ Galaxy S24+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ e3q                     │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34,36                            │                        │
+│ e3qcsx                  │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 36                               │                        │
 │ e3qksx                  │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 36                               │                        │
 │ e3qzhx                  │ Samsung  │ S24 Ultra                                      │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ eos                     │ Google   │ Eos                                            │ PHYSICAL │  384 x 384  │ 33                               │                        │
@@ -104,6 +109,7 @@
 │ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34,35                            │                        │
 │ pa1q                    │ Samsung  │ Samsung S25                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ pa2qxxx                 │ Samsung  │ Galaxy S25+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa3q                    │ Samsung  │ Galaxy S25 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 35,36                            │                        │
 │ pa3qxxx                 │ Samsung  │ Samsung S25 Ultra                              │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │

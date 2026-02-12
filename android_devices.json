@@ -569,6 +569,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "a13",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a13",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A13",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2408,
+    "supportedAbis": [
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/U7goHl4HTrkhzHu5VKGmm7X7OSO7n8QjgDjkuJ0DeavL3TEu3h-zBRKmzQZWmKhcQHPGfKrLfis"
+  },
+  {
+    "brand": "samsung",
     "codename": "a14m",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -608,6 +628,26 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/-TNH8onoNz9Kf4Qm1ogefYT0fvZiOnKDb9lovT99OdyHCfM-1n5saFBaRBiDsK118JC9vnBBT7E2jg"
+  },
+  {
+    "brand": "samsung",
+    "codename": "a14xmtfn",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a14xmtfn",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A14 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2408,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ]
   },
   {
     "brand": "samsung",
@@ -694,6 +734,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/o043c8_tvK5huXwojBX528a_n_QxCBKPhMB3vGMi4o8jqB9JB6VEnjgo1vTchwe3aMst0lnjSe5Zqw"
+  },
+  {
+    "brand": "samsung",
+    "codename": "a21",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a21",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A21",
+    "screenDensity": 300,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/FizCfW3CKCir9cYQVSAOd3TmXtkfQc-mFo1S5OnRyvXJUKY4kplxNx0qFG506UNjoJBy57145_Dz"
   },
   {
     "brand": "samsung",
@@ -1272,6 +1333,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "dm1qcsx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dm1qcsx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S23",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "dm2q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1414,6 +1495,24 @@
       "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/tBZGTf-WYLbxAr2ffC4PRPlRsvaDYhEQSXi2UmDpN5Hvx4Ofi0nUmsax-AaSvzSJMhxLSt9okQ8"
+  },
+  {
+    "brand": "samsung",
+    "codename": "e3qcsx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e3qcsx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "screenDensity": 450,
+    "screenX": 1440,
+    "screenY": 3120,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
@@ -2150,6 +2249,24 @@
       "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/t8XkbX-LC9r7iyD6bHrqySGRKB4rXQ4hUAQxMbe4xSzMelw-Vvl3wQePibgcF0FtmaYfkSM_pTob"
+  },
+  {
+    "brand": "samsung",
+    "codename": "pa2qxxx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "pa2qxxx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S25+",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
