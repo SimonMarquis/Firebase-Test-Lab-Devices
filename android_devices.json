@@ -311,6 +311,27 @@
     ]
   },
   {
+    "brand": "samsung",
+    "codename": "SC-53C",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "SC-53C",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A53 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/6r-jy8ohSyFHO40Bz-DvFCcsv3gANCKPJrGEF_h-0jwHqs7RsGwpmIdv3WEDoT6L6E7xzyXlVrA"
+  },
+  {
     "brand": "DOCOMO",
     "codename": "SH-01L",
     "form": "PHYSICAL",
@@ -631,6 +652,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "a14xmsq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a14xmsq",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A14 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2408,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "a14xmtfn",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -731,7 +772,8 @@
     ],
     "supportedVersionIds": [
       "35",
-      "34"
+      "34",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/o043c8_tvK5huXwojBX528a_n_QxCBKPhMB3vGMi4o8jqB9JB6VEnjgo1vTchwe3aMst0lnjSe5Zqw"
   },
