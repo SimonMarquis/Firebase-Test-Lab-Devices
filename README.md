@@ -69,6 +69,7 @@
 │ caprip                  │ Motorola │ moto g(30)                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
 │ cheetah                 │ Google   │ Pixel 7 Pro                                    │ PHYSICAL │ 3120 x 1440 │ 33                               │                        │
 │ comet                   │ Google   │ Pixel 9 Pro Fold                               │ PHYSICAL │ 2152 x 2076 │ 34,35                            │ dda-default            │
+│ cuscoi                  │ Motorola │ motorola edge 50 fusion                        │ PHYSICAL │ 2400 x 1080 │ 35                               │                        │
 │ dm1q                    │ Samsung  │ Samsung S23                                    │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ dm1q-SM-S911U           │ Samsung  │ Samsung S23                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ dm1qcsx                 │ Samsung  │ Galaxy S23                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
@@ -135,6 +136,7 @@
 │ rango                   │ Google   │ Pixel 10 Pro Fold                              │ PHYSICAL │ 2152 x 2076 │ 36                               │                        │
 │ redfin                  │ Google   │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                               │ default                │
 │ shiba                   │ Google   │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35,34                            │                        │
+│ stallion                │ Google   │ Pixel 10a                                      │ PHYSICAL │ 2424 x 1080 │ 36                               │                        │
 │ starlte                 │ Samsung  │ Galaxy S9                                      │ PHYSICAL │ 1080 x 2220 │ 29                               │                        │
 │ t2q                     │ Samsung  │ Galaxy S21 Plus                                │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
 │ tangorpro               │ Google   │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                               │                        │

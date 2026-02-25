@@ -1020,7 +1020,7 @@
     "supportedVersionIds": [
       "34"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/hPIRUYIi4dYCpDFl1A7Asq2e-E4BNfIkl1WxTRJX1qhtS6cGKeJNLhRTcFVs6h0lomabZUzTWTIx"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/NSLx63ucY8QuOwrZ7IEGLu3e4T20jREXtZoVxKAwkpRCP88AJ3bVyth35x8PQD_a8jNkyduc2NGl"
   },
   {
     "brand": "motorola",
@@ -1063,7 +1063,7 @@
       "33",
       "36"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/uUcnszVlCOjsBx5mSxp7QJNIzKhZXRC2gTFdk6N0TJnwKIyT3u-1PJBr4JAiJVlYo1HdiFhxHfw"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/-jYAkTPmoRKVJi5OXU41fNyhUmqQSFBmrrqAYcLkqmzR2B_99HbY0xWJtCaIm5KEtetS_H0qty0"
   },
   {
     "brand": "samsung",
@@ -1331,6 +1331,27 @@
       "dda-default"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/dfhBj0T_wyl4qqYgqthNzV1oBiicXqbFLISFZXhRDMRews-YL_WtDiiGrgofdNA8_HZRuuNeJWv3CA"
+  },
+  {
+    "brand": "motorola",
+    "codename": "cuscoi",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "cuscoi",
+    "manufacturer": "Motorola",
+    "name": "motorola edge 50 fusion",
+    "screenDensity": 400,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/TK-1Ax0SLpkE5eGzV4VLRlPnKBR7_dG6fBBlz81Ui2NX_aN1JvcmHcyv1avxSjXzoq71gxaucdnKB5obB--atw"
   },
   {
     "brand": "samsung",
@@ -1711,7 +1732,7 @@
     "supportedVersionIds": [
       "34"
     ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/jLQifjBURXfAOgsWE2aLDXOJyfHlVSK0soOLFQL8Xx7soEwo6WDUeF2ixZOcoHa88JRDbj41Ky2r"
+    "thumbnailUrl": "https://lh3.googleusercontent.com/AGri29pIx8kN16VaRQeQHtpBh9dbKONYPZfvmYEGt86e-Jsn3W8uqBqBYr50nVMZtc23-Xbiyk7p6Q"
   },
   {
     "brand": "google",
@@ -2677,6 +2698,25 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y3CK3aSh9wV7Dmrti0ogN_C0r5j1M5-Vmdu_-trvcCF-BQDJsUxKQcRuxx05H1a0CvteCOL9umU"
+  },
+  {
+    "brand": "google",
+    "codename": "stallion",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "stallion",
+    "manufacturer": "Google",
+    "name": "Pixel 10a",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2424,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/z_PLF4dt9r6ScoP2DWZD6n1aXllwaDffFpaj6RrpbmBCqATRNpmGhcNF4Mne2HW3QjcfEFcvuLjr"
   },
   {
     "brand": "samsung",
