@@ -91,6 +91,7 @@
 │ fogos                   │ Motorola │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ frankel                 │ Google   │ Pixel 10                                       │ PHYSICAL │ 2424 x 1080 │ 36                               │                        │
 │ g0q                     │ Samsung  │ SM-S906U1                                      │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
+│ gnevan                  │ Motorola │ moto g stylus (2023)                           │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ gta7lite                │ Samsung  │ Galaxy Tab A7 Lite                             │ PHYSICAL │ 1340 x 800  │ 34                               │                        │
 │ gta8wifi                │ Samsung  │ Galaxy Tab A8                                  │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
 │ gta9pwifi               │ Samsung  │ SM-X210                                        │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
@@ -126,6 +127,7 @@
 │ q5q                     │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 34                               │                        │
 │ q6q                     │ Samsung  │ Galaxy Z Fold6                                 │ PHYSICAL │ 2160 x 1856 │ 34                               │                        │
 │ r0q                     │ Samsung  │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
+│ r0qcsx                  │ Samsung  │ Samsung S22                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r11                     │ Google   │ Google Pixel Watch                             │ PHYSICAL │  384 x 384  │ 30                               │                        │
 │ r11q                    │ Samsung  │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ r11s                    │ Samsung  │ SM-S711N                                       │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │

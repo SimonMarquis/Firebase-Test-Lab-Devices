@@ -1782,6 +1782,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/oaKy1va_Ew4p7B5U0pnkp0VUnM9NlDs1kER1M6pZ8uM_ADVTQhHbQwUPBhMzumk5MgLrSaKjXi25"
   },
   {
+    "brand": "motorola",
+    "codename": "gnevan",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gnevan",
+    "manufacturer": "Motorola",
+    "name": "moto g stylus (2023)",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/y_t9JuhSze8qVVBBrW6TEqvRLh3pEBPKfSjWwLERFO-KpolwDDon0M8HbPq8XBRTW-4VplnpRHQE6Q"
+  },
+  {
     "brand": "samsung",
     "codename": "gta7lite",
     "form": "PHYSICAL",
@@ -2500,6 +2521,26 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/Em0LK-cr2FRcROydSLZx3AxO64zRYCwq1wbIUoqVyb8q1CyoHApzR_uyF_qOxvcPUbAEHq20MMkK"
+  },
+  {
+    "brand": "samsung",
+    "codename": "r0qcsx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r0qcsx",
+    "manufacturer": "Samsung",
+    "name": "Samsung S22",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "google",
