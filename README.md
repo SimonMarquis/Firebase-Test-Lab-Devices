@@ -88,6 +88,7 @@
 │ felix_camera            │ Google   │ Pixel Fold (Camera-enabled)                    │ PHYSICAL │ 1840 x 2208 │ 33                               │                        │
 │ fogo                    │ Motorola │ Moto G 5G                                      │ PHYSICAL │ 1612 x 720  │ 35                               │                        │
 │ fogona                  │ Motorola │ moto g play - 2024                             │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
+│ fogorow                 │ Motorola │ moto g24                                       │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
 │ fogos                   │ Motorola │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ frankel                 │ Google   │ Pixel 10                                       │ PHYSICAL │ 2424 x 1080 │ 36                               │                        │
 │ g0q                     │ Samsung  │ SM-S906U1                                      │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │

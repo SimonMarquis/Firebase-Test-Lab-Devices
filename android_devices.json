@@ -1721,6 +1721,27 @@
   },
   {
     "brand": "motorola",
+    "codename": "fogorow",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "fogorow",
+    "manufacturer": "Motorola",
+    "name": "moto g24",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/c4M5_MzPN8AIbstlAmpRK50r1a0ONE0DfhoxGdDarNqKy4OUG697Y9iQS6Ip5uqN2Tyn1x3v6zqWTg"
+  },
+  {
+    "brand": "motorola",
     "codename": "fogos",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
