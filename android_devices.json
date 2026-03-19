@@ -740,6 +740,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "a15xtfn",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a15xtfn",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A15 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "a16",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -781,6 +801,26 @@
       "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/o043c8_tvK5huXwojBX528a_n_QxCBKPhMB3vGMi4o8jqB9JB6VEnjgo1vTchwe3aMst0lnjSe5Zqw"
+  },
+  {
+    "brand": "samsung",
+    "codename": "a16xeea",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a16xeea",
+    "manufacturer": "Samsung",
+    "name": "Samsung A16 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ]
   },
   {
     "brand": "samsung",
@@ -1130,6 +1170,24 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/kjcnCNS1lvUSALhFKalozZh12yo6SPvltQqD48LD7fTR7enFqkwuhCXGMmFXHzWuOKU9esSf1ael"
+  },
+  {
+    "brand": "samsung",
+    "codename": "b6qsqw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b6qsqw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Flip 6",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2640,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "google",
