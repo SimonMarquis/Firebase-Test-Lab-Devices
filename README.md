@@ -60,6 +60,7 @@
 │ b0q                     │ Samsung  │ Galaxy S22 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,36                            │                        │
 │ b4q                     │ Samsung  │ Galaxy Z Flip4                                 │ PHYSICAL │ 2640 x 1080 │ 33                               │                        │
 │ b5q                     │ Samsung  │ Galaxy Z Flip5                                 │ PHYSICAL │ 2640 x 1080 │ 34                               │                        │
+│ b5qsqw                  │ Samsung  │ Galaxy Z Flip 5                                │ PHYSICAL │  720 x 748  │ 36                               │                        │
 │ b6q                     │ Samsung  │ Galaxy Z Flip 6                                │ PHYSICAL │ 2640 x 1080 │ 34                               │                        │
 │ b6qsqw                  │ Samsung  │ Galaxy Z Flip 6                                │ PHYSICAL │ 2640 x 1080 │ 36                               │                        │
 │ blazer                  │ Google   │ Pixel 10 Pro                                   │ PHYSICAL │ 2410 x 1080 │ 36                               │                        │

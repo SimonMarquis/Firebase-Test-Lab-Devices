@@ -1154,6 +1154,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "b5qsqw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b5qsqw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Flip 5",
+    "screenDensity": 340,
+    "screenX": 748,
+    "screenY": 720,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "b6q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
