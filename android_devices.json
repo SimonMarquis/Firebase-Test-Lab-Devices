@@ -1069,6 +1069,26 @@
   },
   {
     "brand": "motorola",
+    "codename": "aruba",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "aruba",
+    "manufacturer": "Motorola",
+    "name": "moto e20",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "30"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/Fc9TFVRwOoAaui4D-iuqSvBfYJV_mxBrPzcSoT8aLC90qxMr5Y0NDR7UuyQsqzB6HObpULriTZQ"
+  },
+  {
+    "brand": "motorola",
     "codename": "austin",
     "form": "PHYSICAL",
     "formFactor": "PHONE",

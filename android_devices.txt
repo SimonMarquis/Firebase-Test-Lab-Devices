@@ -51,6 +51,7 @@
 │ a56xnaeea               │ Samsung  │ SM-A566b                                       │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ akita                   │ Google   │ Pixel 8a                                       │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
 │ arcfox                  │ Motorola │ motorola razr plus 2024                        │ PHYSICAL │ 1272 x 1080 │ 34                               │                        │
+│ aruba                   │ Motorola │ moto e20                                       │ PHYSICAL │ 1600 x 720  │ 30                               │                        │
 │ austin                  │ Motorola │ moto g 5G (2022)                               │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ b0q                     │ Samsung  │ Galaxy S22 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,36                            │                        │
 │ b4q                     │ Samsung  │ Galaxy Z Flip4                                 │ PHYSICAL │ 2640 x 1080 │ 33                               │                        │
