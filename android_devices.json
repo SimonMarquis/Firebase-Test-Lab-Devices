@@ -2637,7 +2637,8 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "34"
+      "34",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/Em0LK-cr2FRcROydSLZx3AxO64zRYCwq1wbIUoqVyb8q1CyoHApzR_uyF_qOxvcPUbAEHq20MMkK"
   },
@@ -2766,6 +2767,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "r8qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r8qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S20 FE 5G",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "r9q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -2864,7 +2885,8 @@
     ],
     "supportedVersionIds": [
       "35",
-      "34"
+      "34",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y3CK3aSh9wV7Dmrti0ogN_C0r5j1M5-Vmdu_-trvcCF-BQDJsUxKQcRuxx05H1a0CvteCOL9umU"
   },

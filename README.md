@@ -132,18 +132,19 @@
 │ q4q                     │ Samsung  │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │
 │ q5q                     │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 34                               │                        │
 │ q6q                     │ Samsung  │ Galaxy Z Fold6                                 │ PHYSICAL │ 2160 x 1856 │ 34                               │                        │
-│ r0q                     │ Samsung  │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
+│ r0q                     │ Samsung  │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ r0qcsx                  │ Samsung  │ Samsung S22                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r11                     │ Google   │ Google Pixel Watch                             │ PHYSICAL │  384 x 384  │ 30                               │                        │
 │ r11q                    │ Samsung  │ SM-S711U                                       │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ r11s                    │ Samsung  │ SM-S711N                                       │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r12s                    │ Samsung  │ SM-S721U1                                      │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ r8q                     │ Samsung  │ Galaxy S20 FE 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
+│ r8qksx                  │ Samsung  │ Galaxy S20 FE 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ r9q                     │ Samsung  │ Samsung Galaxy S21 FE 5G                       │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r9q-SM-G990U            │ Samsung  │ Galaxy S21 FE 5G                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ rango                   │ Google   │ Pixel 10 Pro Fold                              │ PHYSICAL │ 2152 x 2076 │ 36                               │                        │
 │ redfin                  │ Google   │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                               │ default                │
-│ shiba                   │ Google   │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35,34                            │                        │
+│ shiba                   │ Google   │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35,34,36                         │                        │
 │ stallion                │ Google   │ Pixel 10a                                      │ PHYSICAL │ 2424 x 1080 │ 36                               │                        │
 │ starlte                 │ Samsung  │ Galaxy S9                                      │ PHYSICAL │ 1080 x 2220 │ 29                               │                        │
 │ t2q                     │ Samsung  │ Galaxy S21 Plus                                │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
