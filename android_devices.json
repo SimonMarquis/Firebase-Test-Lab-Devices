@@ -269,6 +269,28 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/L91c6R5vWWOVfCZJmHFxTmRtUH4FNkBnKY4bXBtWYFrZr5sPX-zEefPQDtvmtl2MsIIRaeITmXYe"
   },
   {
+    "brand": "OPPO",
+    "codename": "OP5759L1",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "OP5759L1",
+    "lowFpsVideoRecording": true,
+    "manufacturer": "OPPO",
+    "name": "CPH2579",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/4gY2lJhBuwccOB3utine5GRlR3HPcaXiYSEna0njF6ioQNRXk3kxWFBdew4zvpi_2zICe_VJ9O5k"
+  },
+  {
     "brand": "OnePlus",
     "codename": "OP5958L1",
     "form": "PHYSICAL",
@@ -314,6 +336,27 @@
       "32",
       "33"
     ]
+  },
+  {
+    "brand": "realme",
+    "codename": "RE58C2",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "RE58C2",
+    "manufacturer": "realme",
+    "name": "Realme C53",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://image01.realme.net/general/20230512/1683873789325.png.webp?width=1440&height=1440&size=656747"
   },
   {
     "brand": "samsung",
