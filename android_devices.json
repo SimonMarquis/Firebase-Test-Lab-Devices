@@ -359,6 +359,27 @@
     "thumbnailUrl": "https://image01.realme.net/general/20230512/1683873789325.png.webp?width=1440&height=1440&size=656747"
   },
   {
+    "brand": "realme",
+    "codename": "RMX3231",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "RMX3231",
+    "lowFpsVideoRecording": true,
+    "manufacturer": "realme",
+    "name": "Realme C11",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "30"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/BYLFyMPJBr1uQ8o9S-y78y41xmt38N_5t1sBfZF7D9EBijfD-mRkYfVL7Ynvji5ExvoKsQXyVirr"
+  },
+  {
     "brand": "samsung",
     "codename": "SC-53C",
     "form": "PHYSICAL",
@@ -2175,6 +2196,48 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/WZlS6prnvaUCoOAyRVPmOeaLrA41vMvyAmL2PLCjD-BedQ-qrH0_AAzFd5IrlNsah9nPdy5Ctj-D"
+  },
+  {
+    "brand": "motorola",
+    "codename": "guamna",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "guamna",
+    "manufacturer": "Motorola",
+    "name": "Moto XT2093-3",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "30"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/kS7TIroykXr_oG7DCc5G8VXiuQMVf4ryVqNKdKyTmbkVYXUywWvwnf_WuT6JLBAuGsOeiJhiCDjKeA"
+  },
+  {
+    "brand": "motorola",
+    "codename": "guamp",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "guamp",
+    "manufacturer": "Motorola",
+    "name": "Moto XT2083-1",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "30"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/QLCLQd09bil6XN0iv-GC_Ed4LI76VsrS0Z25yVWBqf3A8JdHNJz58KKg3tj5CARYSG_kHfRajRZl"
   },
   {
     "brand": "google",
