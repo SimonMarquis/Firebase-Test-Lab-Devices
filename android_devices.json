@@ -1376,6 +1376,48 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/l2rR_zUzW6bQXUa4EiDGp1fyYCVeV7p9MfxN7j-oGso1-8uSn-mkjmPScoLft-eh7uCigOwaNLjFuQ"
   },
   {
+    "brand": "samsung",
+    "codename": "c1qksw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "c1qksw",
+    "lowFpsVideoRecording": true,
+    "manufacturer": "Samsung",
+    "name": "Galaxy Note 20 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "c2q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "c2q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Note20 Ultra 5G",
+    "screenDensity": 560,
+    "screenX": 1440,
+    "screenY": 3088,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/QTGlw9eyY3zfuGbG_yQInGzO3fcm3b9rkRYX9M_cxFgPl1jAK9-LQscH1yCp78I1ovGrDc7ZwrfW"
+  },
+  {
     "brand": "xiaomi",
     "codename": "cactus",
     "form": "PHYSICAL",
@@ -1665,6 +1707,25 @@
     ],
     "tags": [
       "dda-default"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
+  },
+  {
+    "brand": "samsung",
+    "codename": "e1s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e1s",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
   },
@@ -2047,30 +2108,6 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/4Oea5lXX59kuvn0CM7NE82PkSEVDyUYoecLtYgVPFEHbgnZkLzJ1FWfXXKu93xRn71yF3TeFbY0"
-  },
-  {
-    "brand": "Verizon",
-    "codename": "gts3lltevzw",
-    "form": "PHYSICAL",
-    "formFactor": "TABLET",
-    "id": "gts3lltevzw",
-    "manufacturer": "Samsung",
-    "name": "Galaxy Tab S3",
-    "screenDensity": 320,
-    "screenX": 2048,
-    "screenY": 1536,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "28"
-    ],
-    "tags": [
-      "deprecated=28"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/Ei1LFgQvf4Yj3wDCKdnge1mlusicePcwVnsSFqFcTtbJUecMZAEy_cjfLTKNwXDxs1lZJtgto-HVaw"
   },
   {
     "brand": "samsung",
@@ -2524,6 +2561,27 @@
     ],
     "supportedVersionIds": [
       "34",
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/7WUVU79a6FKNQz5QUjdx3Rct_QbXGb_MxxTocNfTibHyhJ5p8dfWa0IP-5FuC4Jq5gPtevgkubjUVQ"
+  },
+  {
+    "brand": "samsung",
+    "codename": "p3s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "p3s",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S21 Ultra 5G",
+    "screenDensity": 600,
+    "screenX": 1440,
+    "screenY": 3200,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/7WUVU79a6FKNQz5QUjdx3Rct_QbXGb_MxxTocNfTibHyhJ5p8dfWa0IP-5FuC4Jq5gPtevgkubjUVQ"
@@ -3181,5 +3239,26 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/IobHdSLAtgAC2OnL3R5a9wRlV271XvkQ0cmEbDamXrtx7IoKbjiEzVg9YNwQD3pShhoEa_9rAUmd"
+  },
+  {
+    "brand": "samsung",
+    "codename": "z3q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "z3q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S20 Ultra 5G",
+    "screenDensity": 560,
+    "screenX": 1440,
+    "screenY": 3200,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/TkrxQIgTloj5G3znFSRNRTKou-nO4V8byeFzQ8XdLy3VdTpnuKBFEdNehAMlw7-vYNIzPLMTM53YVw"
   }
 ]

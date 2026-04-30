@@ -66,6 +66,8 @@
 │ bluejay                 │ Google   │ Pixel 6a                                       │ PHYSICAL │ 2400 x 1080 │ 32                               │                        │
 │ blueline                │ Google   │ Pixel 3                                        │ PHYSICAL │ 2160 x 1080 │ 28                               │                        │
 │ c1q                     │ Samsung  │ Galaxy Note 20 5G                              │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
+│ c1qksw                  │ Samsung  │ Galaxy Note 20 5G                              │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
+│ c2q                     │ Samsung  │ Galaxy Note20 Ultra 5G                         │ PHYSICAL │ 3088 x 1440 │ 33                               │                        │
 │ cactus                  │ Xiaomi   │ Redmi 6A                                       │ PHYSICAL │ 1440 x 720  │ 27                               │                        │
 │ caiman                  │ Google   │ Pixel 9 Pro                                    │ PHYSICAL │ 2142 x 960  │ 34,35                            │                        │
 │ cancunf                 │ Motorola │ moto g54 5G                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
@@ -80,6 +82,7 @@
 │ dm3q                    │ Samsung  │ Galaxy S23 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,34                            │                        │
 │ dubai                   │ Motorola │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ e1q                     │ Samsung  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │ dda-default            │
+│ e1s                     │ Samsung  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ e2q                     │ Samsung  │ Galaxy S24 +                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ e2s                     │ Samsung  │ Galaxy S24+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ e3q                     │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 34,36                            │                        │
@@ -99,7 +102,6 @@
 │ gta7lite                │ Samsung  │ Galaxy Tab A7 Lite                             │ PHYSICAL │ 1340 x 800  │ 34                               │                        │
 │ gta8wifi                │ Samsung  │ Galaxy Tab A8                                  │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
 │ gta9pwifi               │ Samsung  │ SM-X210                                        │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
-│ gts3lltevzw             │ Samsung  │ Galaxy Tab S3                                  │ PHYSICAL │ 1536 x 2048 │ 28                               │ deprecated=28          │
 │ gts7lwifi               │ Samsung  │ SM-T870                                        │ PHYSICAL │ 2560 x 1600 │ 33                               │                        │
 │ gts7xllite              │ Samsung  │ SM-T738U                                       │ PHYSICAL │ 2560 x 1600 │ 34                               │                        │
 │ gts8uwifi               │ Samsung  │ Galaxy Tab S8 Ultra                            │ PHYSICAL │ 2960 x 1848 │ 33                               │                        │
@@ -122,6 +124,7 @@
 │ o1q                     │ Samsung  │ Galaxy S21                                     │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
 │ oriole                  │ Google   │ Pixel 6                                        │ PHYSICAL │ 2400 x 1080 │ 32,33,31                         │                        │
 │ p3q                     │ Samsung  │ Galaxy S21 Ultra                               │ PHYSICAL │ 3200 x 1440 │ 34,35                            │                        │
+│ p3s                     │ Samsung  │ Galaxy S21 Ultra 5G                            │ PHYSICAL │ 3200 x 1440 │ 35                               │                        │
 │ pa1q                    │ Samsung  │ Samsung S25                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2q                    │ Samsung  │ Samsung S25+                                   │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2qxxx                 │ Samsung  │ Galaxy S25+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
@@ -154,4 +157,5 @@
 │ xcover7                 │ Samsung  │ SM-G556B                                       │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ xcoverpro               │ Samsung  │ Galaxy XCover Pro                              │ PHYSICAL │ 2340 x 1080 │ 33                               │                        │
 │ y2q                     │ Samsung  │ S20 Plus 5G                                    │ PHYSICAL │ 3200 x 1440 │ 33                               │                        │
+│ z3q                     │ Samsung  │ Galaxy S20 Ultra 5G                            │ PHYSICAL │ 3200 x 1440 │ 33                               │                        │
 └─────────────────────────┴──────────┴────────────────────────────────────────────────┴──────────┴─────────────┴──────────────────────────────────┴────────────────────────┘
