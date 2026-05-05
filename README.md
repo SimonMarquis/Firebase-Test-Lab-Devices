@@ -100,7 +100,7 @@
 │ fogo                    │ Motorola │ moto g 5G - 2024                               │ PHYSICAL │ 1612 x 720  │ 35                               │                        │
 │ fogona                  │ Motorola │ moto g play - 2024                             │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ fogorow                 │ Motorola │ moto g24                                       │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
-│ fogos                   │ Motorola │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
+│ fogos                   │ Motorola │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34,35                            │                        │
 │ frankel                 │ Google   │ Pixel 10                                       │ PHYSICAL │ 2424 x 1080 │ 36                               │ dda-default            │
 │ g0q                     │ Samsung  │ Galaxy S22+                                    │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ gnevan                  │ Motorola │ moto g stylus (2023)                           │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
@@ -139,6 +139,7 @@
 │ psq                     │ Samsung  │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ q4q                     │ Samsung  │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │
 │ q5q                     │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 34                               │                        │
+│ q5qksx                  │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 36                               │                        │
 │ q6q                     │ Samsung  │ Galaxy Z Fold6                                 │ PHYSICAL │ 2160 x 1856 │ 34                               │                        │
 │ r0q                     │ Samsung  │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ r0qcsx                  │ Samsung  │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
