@@ -119,6 +119,7 @@
 │ lynx                    │ Google   │ Pixel 7a                                       │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ lyriq                   │ Motorola │ motorola edge 40                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ m2q                     │ Samsung  │ Galaxy S26+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ m3q                     │ Samsung  │ Galaxy S26 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ manaus                  │ Motorola │ motorola edge 40 neo                           │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ maui                    │ Motorola │ moto g play - 2023                             │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ mustang                 │ Google   │ Pixel 10 Pro XL                                │ PHYSICAL │ 2404 x 1080 │ 36                               │ dda-default            │

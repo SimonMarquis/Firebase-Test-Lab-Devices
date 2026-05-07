@@ -2459,6 +2459,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/dnR_LjVMwDHHKPNurueot-mpTv5iWE3Q4uOfXnzuvZbe6ZaaGZjAEov22hJo3awrlg6xz1xEOfgX"
   },
   {
+    "brand": "samsung",
+    "codename": "m3q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "m3q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S26 Ultra",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/yiY-zwLyIETcagrrWk6G4W51fSY7cUoqiYnRxlL4MlkPGqIcx1pYSQKoq7lmiOgBPx8aLjA-rtg"
+  },
+  {
     "brand": "motorola",
     "codename": "manaus",
     "form": "PHYSICAL",
