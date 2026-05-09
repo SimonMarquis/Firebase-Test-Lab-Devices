@@ -142,6 +142,7 @@
 │ q5q                     │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 34                               │                        │
 │ q5qksx                  │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 36                               │                        │
 │ q6q                     │ Samsung  │ Galaxy Z Fold6                                 │ PHYSICAL │ 2160 x 1856 │ 34                               │                        │
+│ q7mq                    │ Samsung  │ Galaxy Z TriFold                               │ PHYSICAL │ 1584 x 2160 │ 36                               │                        │
 │ r0q                     │ Samsung  │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ r0qcsx                  │ Samsung  │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r11                     │ Google   │ Pixel Watch                                    │ PHYSICAL │  384 x 384  │ 30                               │                        │

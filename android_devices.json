@@ -2832,6 +2832,25 @@
   },
   {
     "brand": "samsung",
+    "codename": "q7mq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q7mq",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z TriFold",
+    "screenDensity": 320,
+    "screenX": 2160,
+    "screenY": 1584,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/7LQvecF4Vn6oCNmTAFWJoGK0YiFxwACsJSonmkrbbS0HzQOLb6pFXJ9gYA7jOhEen2FDYWxJlyM"
+  },
+  {
+    "brand": "samsung",
     "codename": "r0q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
