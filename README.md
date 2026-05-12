@@ -123,6 +123,7 @@
 │ lion                    │ Motorola │ moto g04                                       │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
 │ lynx                    │ Google   │ Pixel 7a                                       │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ lyriq                   │ Motorola │ motorola edge 40                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
+│ m1q                     │ Samsung  │ Galaxy S26                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ m2q                     │ Samsung  │ Galaxy S26+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ manaus                  │ Motorola │ motorola edge 40 neo                           │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ maui                    │ Motorola │ moto g play - 2023                             │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
