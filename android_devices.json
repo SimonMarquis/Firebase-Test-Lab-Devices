@@ -679,6 +679,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "a13x",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a13x",
+    "lowFpsVideoRecording": true,
+    "manufacturer": "Samsung",
+    "name": "Galaxy A13 5G",
+    "screenDensity": 300,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/IvyJEiBKSaCUCnuUERptKMU6ZY6QTcEF1TxWwiL1rn1JJacHq17e6Dj01sVX6XKhSGUcVsE2DCUilg"
+  },
+  {
+    "brand": "samsung",
     "codename": "a14m",
     "form": "PHYSICAL",
     "formFactor": "PHONE",

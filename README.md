@@ -37,6 +37,7 @@
 │ a10                     │ Samsung  │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                               │                        │
 │ a12                     │ Samsung  │ Galaxy A12                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
 │ a13                     │ Samsung  │ Galaxy A13                                     │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
+│ a13x                    │ Samsung  │ Galaxy A13 5G                                  │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ a14m                    │ Samsung  │ Galaxy A14                                     │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ a14xm                   │ Samsung  │ Galaxy A14 5G                                  │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ a14xmsq                 │ Samsung  │ Galaxy A14 5G                                  │ PHYSICAL │ 2408 x 1080 │ 35                               │                        │
