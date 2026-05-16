@@ -51,6 +51,7 @@
 │ a21                     │ Samsung  │ Galaxy A21                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
 │ a25x                    │ Samsung  │ Galaxy A25 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a26x                    │ Samsung  │ Galaxy A26 5G                                  │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ a32                     │ Samsung  │ Galaxy A32                                     │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ a34x                    │ Samsung  │ Galaxy A34 5G                                  │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ a35x                    │ Samsung  │ Galaxy A35 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34,35,36                         │                        │
 │ a36xq                   │ Samsung  │ Galaxy A36 5G                                  │ PHYSICAL │ 2340 x 1080 │ 35,36                            │                        │
