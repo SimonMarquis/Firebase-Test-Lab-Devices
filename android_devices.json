@@ -203,6 +203,27 @@
     ]
   },
   {
+    "brand": "OPPO",
+    "codename": "OP4F39L1",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "OP4F39L1",
+    "manufacturer": "OPPO",
+    "name": "CPH2195",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/ULpLU-btqjdE5t5R1yxGUds2Zu1zLcC-ejwAAiPWtMeah8rOTeHE0ioUBluM1pJUZlL62ePfaYHx"
+  },
+  {
     "brand": "OnePlus",
     "codename": "OP535DL1",
     "form": "PHYSICAL",
@@ -1579,7 +1600,8 @@
     ],
     "supportedVersionIds": [
       "34",
-      "35"
+      "35",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/dfhBj0T_wyl4qqYgqthNzV1oBiicXqbFLISFZXhRDMRews-YL_WtDiiGrgofdNA8_HZRuuNeJWv3CA"
   },
