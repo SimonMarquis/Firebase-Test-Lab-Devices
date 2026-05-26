@@ -2854,6 +2854,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "q4qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q4qksx",
+    "lowFpsVideoRecording": true,
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Fold4",
+    "screenDensity": 420,
+    "screenX": 1812,
+    "screenY": 2176,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "q5q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",

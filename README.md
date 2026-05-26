@@ -143,6 +143,7 @@
 │ panther                 │ Google   │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ psq                     │ Samsung  │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ q4q                     │ Samsung  │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │
+│ q4qksx                  │ Samsung  │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 36                               │                        │
 │ q5q                     │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 34                               │                        │
 │ q5qksx                  │ Samsung  │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 36                               │                        │
 │ q6q                     │ Samsung  │ Galaxy Z Fold6                                 │ PHYSICAL │ 2160 x 1856 │ 34                               │                        │
