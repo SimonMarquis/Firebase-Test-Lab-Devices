@@ -98,7 +98,7 @@
 │ e3qksx                  │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 3120 x 1440 │ 36                               │                        │
 │ e3qzhx                  │ Samsung  │ Galaxy S24 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ eos                     │ Google   │ Eos                                            │ PHYSICAL │  384 x 384  │ 33                               │                        │
-│ felix                   │ Google   │ Pixel Fold                                     │ PHYSICAL │ 1840 x 2208 │ 33,34                            │                        │
+│ felix                   │ Google   │ Pixel Fold                                     │ PHYSICAL │ 1840 x 2208 │ 33,34,36                         │                        │
 │ felix_camera            │ Google   │ Pixel Fold (Camera-enabled)                    │ PHYSICAL │ 1840 x 2208 │ 33                               │                        │
 │ fogo                    │ Motorola │ moto g 5G - 2024                               │ PHYSICAL │ 1612 x 720  │ 35                               │                        │
 │ fogona                  │ Motorola │ moto g play - 2024                             │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
