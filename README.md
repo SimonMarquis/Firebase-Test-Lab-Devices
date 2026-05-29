@@ -164,7 +164,7 @@
 │ stallion                │ Google   │ Pixel 10a                                      │ PHYSICAL │ 2424 x 1080 │ 36                               │                        │
 │ starlte                 │ Samsung  │ Galaxy S9                                      │ PHYSICAL │ 1080 x 2220 │ 29                               │                        │
 │ t2q                     │ Samsung  │ Galaxy S21+ 5G                                 │ PHYSICAL │ 2400 x 1080 │ 34,35                            │                        │
-│ tangorpro               │ Google   │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33                               │                        │
+│ tangorpro               │ Google   │ Pixel Tablet                                   │ PHYSICAL │ 2560 x 1600 │ 33,36                            │                        │
 │ tegu                    │ Google   │ Pixel 9a                                       │ PHYSICAL │ 2424 x 1080 │ 35                               │                        │
 │ tokay                   │ Google   │ Pixel 9                                        │ PHYSICAL │ 2424 x 1080 │ 34,35,36                         │                        │
 │ xcover7                 │ Samsung  │ Galaxy XCover7                                 │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │

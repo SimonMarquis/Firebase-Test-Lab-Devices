@@ -3304,7 +3304,8 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "33"
+      "33",
+      "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/bR1gb7ZpYNvyOALgrs68oPuhO5_RMPv5Vo9hQKYydyz7rITOzLwIqW4F6Vpc7f21oyXe7BuQE9C3Wg"
   },
