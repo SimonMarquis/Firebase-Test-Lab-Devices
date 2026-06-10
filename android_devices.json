@@ -176,6 +176,48 @@
     ]
   },
   {
+    "brand": "Google",
+    "codename": "MediumPhone_ps16k.arm",
+    "form": "VIRTUAL",
+    "formFactor": "PHONE",
+    "id": "MediumPhone_ps16k.arm",
+    "manufacturer": "Generic",
+    "name": "Medium Phone (16K page size), 6.4in/16cm (Arm)",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "tags": [
+      "preview=36"
+    ]
+  },
+  {
+    "brand": "Google",
+    "codename": "MediumPhone_ps16k_backcompat.arm",
+    "form": "VIRTUAL",
+    "formFactor": "PHONE",
+    "id": "MediumPhone_ps16k_backcompat.arm",
+    "manufacturer": "Generic",
+    "name": "Medium Phone (16K page size), 6.4in/16cm (Arm)",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "tags": [
+      "preview=36"
+    ]
+  },
+  {
     "brand": "Generic",
     "codename": "MediumTablet.arm",
     "form": "VIRTUAL",
@@ -2174,6 +2216,25 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/4Oea5lXX59kuvn0CM7NE82PkSEVDyUYoecLtYgVPFEHbgnZkLzJ1FWfXXKu93xRn71yF3TeFbY0"
+  },
+  {
+    "brand": "samsung",
+    "codename": "gts10pwifi",
+    "form": "PHYSICAL",
+    "formFactor": "TABLET",
+    "id": "gts10pwifi",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Tab S10+",
+    "screenDensity": 320,
+    "screenX": 1752,
+    "screenY": 2800,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/zRrVGC2xmo4HmBunOh5_zCDXEPoMn7zloN5tuF-ZS11mvX68fGg5bTFHNn7uBthktgLO1UQMiEwW"
   },
   {
     "brand": "samsung",
