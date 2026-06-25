@@ -444,6 +444,27 @@
   },
   {
     "brand": "samsung",
+    "codename": "SC-51C",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "SC-51C",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S22",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/GR-_2VcyJIMU4XUq-Dm_6zmdTMYXBjweI1vmB0x5e3qQI8liTfTB2Q_lwwgzPyHoQSs2b6txUGNk"
+  },
+  {
+    "brand": "samsung",
     "codename": "SC-53C",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1138,6 +1159,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/ETaqQksrO9CC-PjPrGSry4V_BqeWPdhsFUPeQZysll-unB78vUJGe1u1XMbecA1Stpjq_78Hs37q"
+  },
+  {
+    "brand": "samsung",
+    "codename": "a52xq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a52xq",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A52 5G",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/SEuX5k_ZqoV5JwLEYj_x63qSBVwxGGAsaIt0BYzebP7Q5UWaeudFOGN_9lk1Sfx5I_T-BnIxH2I"
   },
   {
     "brand": "samsung",
@@ -2277,6 +2319,27 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/hheN13ltUM9hMuLl4y9aP352pjHu-hRLr98Ai72-b7UiAcntpyv_0yFJywdImIG1dwYgEuhSBNWXjg"
+  },
+  {
+    "brand": "samsung",
+    "codename": "gts7xlwifi",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gts7xlwifi",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Tab S7+",
+    "screenDensity": 340,
+    "screenX": 1752,
+    "screenY": 2800,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/JiTm9g141R3gTyI2v7uz1G62bWwHP3DvEhNJNElpfKolGPr6posXWXhxrcM0bgiPoHwFbXf6e_5IAQ"
   },
   {
     "brand": "samsung",
