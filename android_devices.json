@@ -485,6 +485,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/6r-jy8ohSyFHO40Bz-DvFCcsv3gANCKPJrGEF_h-0jwHqs7RsGwpmIdv3WEDoT6L6E7xzyXlVrA"
   },
   {
+    "brand": "samsung",
+    "codename": "SCG13",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "SCG13",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S22",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/Em0LK-cr2FRcROydSLZx3AxO64zRYCwq1wbIUoqVyb8q1CyoHApzR_uyF_qOxvcPUbAEHq20MMkK"
+  },
+  {
     "brand": "DOCOMO",
     "codename": "SH-01L",
     "form": "PHYSICAL",
@@ -594,6 +615,48 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/MKUfPPnYMtlCOfolCr25Nw0PrNt01OlhI3PTqq6pcCnsqQV6fCtW3K17M-TvhyvX_FwIvAcQPd3z"
+  },
+  {
+    "brand": "TECNO",
+    "codename": "TECNO-BG6",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "TECNO-BG6",
+    "manufacturer": "TECNO MOBILE LIMITED",
+    "name": "SPARK Go 2024",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/lMfa_jsGrR-XnJuyNPLVF9w4DUm6Wo5AoaLuMp-fFJ8eNjINcelseIkIm3kdc4LpxsCWXWLFP3ZFig"
+  },
+  {
+    "brand": "TECNO",
+    "codename": "TECNO-KI5k",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "TECNO-KI5k",
+    "manufacturer": "TECNO",
+    "name": "TECNO SPARK 10C",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/mq9iIAf3lhPsrrZBuaMxtiCcDOYx3r0otCkQaZ4FWi4vj_Neixvh1Esncs_gy1moG6mAzRg09BBc0g"
   },
   {
     "brand": "Sony",
@@ -1204,6 +1267,24 @@
   },
   {
     "brand": "samsung",
+    "codename": "a55xzh",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a55xzh",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A55 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "a56x",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1791,6 +1872,26 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/EJjgNr0yotC6t6QCwd4yYIZ_B5HOEMPuPI_tZsXJ6l7kSezRC2b_91TVqViKJbz0F-z5c9UJTUzJ"
+  },
+  {
+    "brand": "samsung",
+    "codename": "dm2qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dm2qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S23+",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
@@ -3058,6 +3159,42 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/S_VwRUp9aQszgfMb2tWiwNtxfM3s8wpyULyDOH2XgdiuIrwLLRfK8vMrs-bshSHO7Fhz1kzqgEMV"
+  },
+  {
+    "brand": "samsung",
+    "codename": "q6qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q6qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Fold6",
+    "screenDensity": 420,
+    "screenX": 1856,
+    "screenY": 2160,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "q6qsqw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q6qsqw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Fold6",
+    "screenDensity": 420,
+    "screenX": 1856,
+    "screenY": 2160,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
