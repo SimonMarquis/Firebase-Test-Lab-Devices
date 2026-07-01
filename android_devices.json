@@ -1649,26 +1649,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/QTGlw9eyY3zfuGbG_yQInGzO3fcm3b9rkRYX9M_cxFgPl1jAK9-LQscH1yCp78I1ovGrDc7ZwrfW"
   },
   {
-    "brand": "xiaomi",
-    "codename": "cactus",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "cactus",
-    "manufacturer": "Xiaomi",
-    "name": "Redmi 6A",
-    "screenDensity": 320,
-    "screenX": 720,
-    "screenY": 1440,
-    "supportedAbis": [
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "27"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/c07v2Tu4nxWOaaLJKr266xcvZ1Tc7Yacjhv5gcc9weh2lWekmmdm6lviTScreGiJEO1uGMiVais"
-  },
-  {
     "brand": "google",
     "codename": "caiman",
     "form": "PHYSICAL",

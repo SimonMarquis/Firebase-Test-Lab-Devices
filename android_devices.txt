@@ -79,7 +79,6 @@
 │ c1q                              │ Samsung              │ Galaxy Note20 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ c1qksw                           │ Samsung              │ Galaxy Note20 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ c2q                              │ Samsung              │ Galaxy Note20 Ultra 5G                         │ PHYSICAL │ 3088 x 1440 │ 33                               │                        │
-│ cactus                           │ Xiaomi               │ Redmi 6A                                       │ PHYSICAL │ 1440 x 720  │ 27                               │                        │
 │ caiman                           │ Google               │ Pixel 9 Pro                                    │ PHYSICAL │ 2142 x 960  │ 34,35                            │                        │
 │ cancunf                          │ Motorola             │ moto g54 5G                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ caprip                           │ Motorola             │ moto g(30)                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
