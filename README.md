@@ -21,7 +21,6 @@
 │ OP535DL1                         │ OnePlus              │ OnePlus Nord CE 2 Lite 5G                      │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ OP5552L1                         │ OnePlus              │ OnePlus 10T 5G                                 │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ OP573DL1                         │ OPPO                 │ A79 5G                                         │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
-│ OP5759L1                         │ OPPO                 │ A38                                            │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
 │ OP5958L1                         │ OnePlus              │ OnePlus Nord CE 3 Lite 5G                      │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ Pixel2.arm                       │ Google               │ Pixel 2 (Arm)                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,31,32,33          │                        │
 │ RE58C2                           │ realme               │ realme C53                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
@@ -32,7 +31,6 @@
 │ SH-01L                           │ SHARP                │ AQUOS sense2 SH-01L                            │ PHYSICAL │ 2160 x 1080 │ 28                               │                        │
 │ SO-41A                           │ Sony                 │ Xperia 10 II                                   │ PHYSICAL │ 1080 x 2520 │ 31                               │                        │
 │ SmallPhone.arm                   │ Generic              │ Small Phone, 4.65in/12cm (Arm)                 │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35    │                        │
-│ TB330FU                          │ Lenovo               │ Lenovo Tab M11                                 │ PHYSICAL │ 1920 x 1200 │ 35                               │                        │
 │ TB370FU                          │ Lenovo               │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35                               │                        │
 │ TECNO-BG6                        │ TECNO MOBILE LIMITED │ SPARK Go 2024                                  │ PHYSICAL │ 1612 x 720  │ 33                               │                        │
 │ TECNO-KI5k                       │ TECNO                │ TECNO SPARK 10C                                │ PHYSICAL │ 1612 x 720  │ 31                               │                        │
@@ -108,10 +106,9 @@
 │ eos                              │ Google               │ Eos                                            │ PHYSICAL │  384 x 384  │ 33                               │                        │
 │ felix                            │ Google               │ Pixel Fold                                     │ PHYSICAL │ 1840 x 2208 │ 33,34,36                         │                        │
 │ felix_camera                     │ Google               │ Pixel Fold (Camera-enabled)                    │ PHYSICAL │ 1840 x 2208 │ 33                               │                        │
-│ fogo                             │ Motorola             │ moto g 5G - 2024                               │ PHYSICAL │ 1612 x 720  │ 35                               │                        │
 │ fogona                           │ Motorola             │ moto g play - 2024                             │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ fogorow                          │ Motorola             │ moto g24                                       │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
-│ fogos                            │ Motorola             │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34,35                            │                        │
+│ fogos                            │ Motorola             │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ frankel                          │ Google               │ Pixel 10                                       │ PHYSICAL │ 2424 x 1080 │ 36                               │ dda-default            │
 │ g0q                              │ Samsung              │ Galaxy S22+                                    │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ gnevan                           │ Motorola             │ moto g stylus (2023)                           │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
@@ -148,8 +145,7 @@
 │ pa1q                             │ Samsung              │ Galaxy S25                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2q                             │ Samsung              │ Galaxy S25+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ pa2qxxx                          │ Samsung              │ Galaxy S25+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
-│ pa3q                             │ Samsung              │ Galaxy S25 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 35,36                            │ dda-default            │
-│ pa3qxxx                          │ Samsung              │ Galaxy S25 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ pa3q                             │ Samsung              │ Galaxy S25 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ panther                          │ Google               │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ psq                              │ Samsung              │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                        │
 │ q4q                              │ Samsung              │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                        │
