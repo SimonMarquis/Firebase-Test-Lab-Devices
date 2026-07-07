@@ -37,6 +37,7 @@
 │ XQ-DC54                          │ Sony                 │ Xperia 10 V                                    │ PHYSICAL │ 2520 x 1080 │ 34                               │                        │
 │ XQ-DQ72                          │ Sony                 │ Xperia 1 V                                     │ PHYSICAL │ 2560 x 1096 │ 34                               │                        │
 │ a03su                            │ Samsung              │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
+│ a03sutfn                         │ Samsung              │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ a05s                             │ Samsung              │ Galaxy A05s                                    │ PHYSICAL │ 2400 x 1080 │ 35                               │                        │
 │ a06                              │ Samsung              │ Galaxy A06                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
 │ a10                              │ Samsung              │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                               │                        │
@@ -72,6 +73,7 @@
 │ austin                           │ Motorola             │ moto g 5G (2022)                               │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ b0q                              │ Samsung              │ Galaxy S22 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,36                            │                        │
 │ b4q                              │ Samsung              │ Galaxy Z Flip4                                 │ PHYSICAL │ 2640 x 1080 │ 33                               │                        │
+│ b4qsqw                           │ Samsung              │ Galaxy Z Flip4                                 │ PHYSICAL │ 2640 x 1080 │ 36                               │                        │
 │ b5q                              │ Samsung              │ Galaxy Z Flip5                                 │ PHYSICAL │ 2640 x 1080 │ 34                               │                        │
 │ b5qsqw                           │ Samsung              │ Galaxy Z Flip5                                 │ PHYSICAL │  720 x 748  │ 36                               │                        │
 │ b6q                              │ Samsung              │ Galaxy Z Flip6                                 │ PHYSICAL │ 2640 x 1080 │ 34                               │                        │
@@ -158,6 +160,7 @@
 │ q7mq                             │ Samsung              │ Galaxy Z TriFold                               │ PHYSICAL │ 1584 x 2160 │ 36                               │                        │
 │ r0q                              │ Samsung              │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ r0qcsx                           │ Samsung              │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
+│ r0qksx                           │ Samsung              │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ r11                              │ Google               │ Pixel Watch                                    │ PHYSICAL │  384 x 384  │ 30                               │                        │
 │ r11q                             │ Samsung              │ Galaxy S23 FE                                  │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ r11s                             │ Samsung              │ Galaxy S23 FE                                  │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │

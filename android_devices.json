@@ -680,6 +680,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "a03sutfn",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a03sutfn",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A03s",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "a05s",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1399,6 +1419,26 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/gxeUTRxnEYX8brkVq97y88S7LMOlX7yNTUFbSzCOgfZixJ2OYWDp93KdRhbIiosUMTGwonR4bmbUxA"
+  },
+  {
+    "brand": "samsung",
+    "codename": "b4qsqw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b4qsqw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Flip4",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2640,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
@@ -3134,6 +3174,26 @@
     "form": "PHYSICAL",
     "formFactor": "PHONE",
     "id": "r0qcsx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S22",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "r0qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r0qksx",
     "manufacturer": "Samsung",
     "name": "Galaxy S22",
     "screenDensity": 480,
