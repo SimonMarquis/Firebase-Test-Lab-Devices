@@ -1402,6 +1402,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "b0qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b0qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2316,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "b4q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1645,6 +1665,26 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/QTGlw9eyY3zfuGbG_yQInGzO3fcm3b9rkRYX9M_cxFgPl1jAK9-LQscH1yCp78I1ovGrDc7ZwrfW"
+  },
+  {
+    "brand": "samsung",
+    "codename": "c2qksw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "c2qksw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Note20 Ultra 5G",
+    "screenDensity": 560,
+    "screenX": 1440,
+    "screenY": 3088,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ]
   },
   {
     "brand": "google",
@@ -2252,6 +2292,27 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y_t9JuhSze8qVVBBrW6TEqvRLh3pEBPKfSjWwLERFO-KpolwDDon0M8HbPq8XBRTW-4VplnpRHQE6Q"
+  },
+  {
+    "brand": "samsung",
+    "codename": "gta4lwifi",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "gta4lwifi",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Tab A7",
+    "screenDensity": 240,
+    "screenX": 1200,
+    "screenY": 2000,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/0fGvFgipjfqZLE3tvqdK_4glCNMi-pmOWpfIj-bHsQiS-PpiIBXtOCGZ0RmYja3KGDD6vxHTZ-4"
   },
   {
     "brand": "samsung",
