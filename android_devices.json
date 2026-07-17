@@ -444,6 +444,25 @@
   },
   {
     "brand": "samsung",
+    "codename": "SC-51E",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "SC-51E",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/fozCbREwHAvzhKA-jC5Ox2FDXHrKG_D2ZCYjp7Mhmym_77MmSi-CmFoDQrAF7r0_lntc3uDvysh88A"
+  },
+  {
+    "brand": "samsung",
     "codename": "SC-53C",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -576,6 +595,26 @@
   },
   {
     "brand": "TECNO",
+    "codename": "TECNO-BF6",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "TECNO-BF6",
+    "manufacturer": "TECNO",
+    "name": "TECNO POP 7",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/o87z3pqz1vvXmoacfgeMmUonTGpanBYM3gxSHQsVwXkqzbw8WBUl2z2Dll0fIQXmpZ7QtXbft-s5"
+  },
+  {
+    "brand": "TECNO",
     "codename": "TECNO-BG6",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -698,6 +737,27 @@
     "supportedVersionIds": [
       "33"
     ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "a04s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a04s",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A04s",
+    "screenDensity": 300,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/4XjNf-MUaHCa9cNiCOi42aDyarsdv1bRmGQd87CKedOUf_AT3A4Y8dUm5YWXdhC7JEVsLr49STQm"
   },
   {
     "brand": "samsung",
@@ -1094,6 +1154,27 @@
       "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/hubnZqz8_oNFVL3PwOZfcmnGmOt7yZiIEFNPFpDdW-6NNXsRKWk1_rgUPrF_QXzy5nfMj0clk9wltA"
+  },
+  {
+    "brand": "samsung",
+    "codename": "a31",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a31",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A31",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/QEAC8Sy7A3Mlymz1zWpau9VXKcaUZ1PMnwHIZj_gh4gNyurp3uSoF8FK3qOs6X6xtEdRhq6zhVqJ2w"
   },
   {
     "brand": "samsung",
@@ -2956,6 +3037,24 @@
   },
   {
     "brand": "samsung",
+    "codename": "pa1qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "pa1qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S25",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "pa2q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -3032,6 +3131,27 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/0m1WCY9GpKqdyC_gg2pOOB-9YRLRWmxV97QHYsSxenEvJRzSUpBRPhxXyoGSHIboCItCgT5VOFK1"
   },
   {
+    "brand": "motorola",
+    "codename": "penang",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "penang",
+    "manufacturer": "Motorola",
+    "name": "moto g53 5G",
+    "screenDensity": 280,
+    "screenX": 720,
+    "screenY": 1600,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/aayXTXHfGTAUAUMezHLOtQutR_JaqvZdqjHueXBuBDUSHTHC1OFVjmAR5iXM5poR77-X3h0d18MCLw"
+  },
+  {
     "brand": "samsung",
     "codename": "psq",
     "form": "PHYSICAL",
@@ -3049,6 +3169,26 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/TVGaOMMXEoBC_bYhXYgmWYIMO6gZjIhCehfwTQ-8xYpeHsTtqR6uy80y93_xlFOyXFw4cdnsYFPDQQ"
+  },
+  {
+    "brand": "samsung",
+    "codename": "q2qsqw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "q2qsqw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Fold3 5G",
+    "screenDensity": 420,
+    "screenX": 832,
+    "screenY": 2268,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ]
   },
   {
     "brand": "samsung",
@@ -3375,6 +3515,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "r8qcsx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r8qcsx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S20 FE 5G",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "r8qksx",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -3420,6 +3580,26 @@
     "form": "PHYSICAL",
     "formFactor": "PHONE",
     "id": "r9q-SM-G990U",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S21 FE 5G",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "r9q2csx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r9q2csx",
     "manufacturer": "Samsung",
     "name": "Galaxy S21 FE 5G",
     "screenDensity": 480,

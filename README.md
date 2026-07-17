@@ -26,18 +26,21 @@
 │ RE58C2                           │ realme               │ realme C53                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                                     │
 │ RMX3231                          │ realme               │ RMX3231                                        │ PHYSICAL │ 1600 x 720  │ 30                               │                                     │
 │ SC-51C                           │ Samsung              │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
+│ SC-51E                           │ Samsung              │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ SC-53C                           │ Samsung              │ Galaxy A53 5G                                  │ PHYSICAL │ 2400 x 1080 │ 36                               │                                     │
 │ SCG13                            │ Samsung              │ Galaxy S22                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ SH-01L                           │ SHARP                │ AQUOS sense2 SH-01L                            │ PHYSICAL │ 2160 x 1080 │ 28                               │                                     │
 │ SO-41A                           │ Sony                 │ Xperia 10 II                                   │ PHYSICAL │ 1080 x 2520 │ 31                               │                                     │
 │ SmallPhone.arm                   │ Generic              │ Small Phone, 4.65in/12cm (Arm)                 │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35    │                                     │
 │ TB370FU                          │ Lenovo               │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35                               │                                     │
+│ TECNO-BF6                        │ TECNO                │ TECNO POP 7                                    │ PHYSICAL │ 1612 x 720  │ 31                               │                                     │
 │ TECNO-BG6                        │ TECNO MOBILE LIMITED │ SPARK Go 2024                                  │ PHYSICAL │ 1612 x 720  │ 33                               │                                     │
 │ TECNO-KI5k                       │ TECNO                │ TECNO SPARK 10C                                │ PHYSICAL │ 1612 x 720  │ 31                               │                                     │
 │ XQ-DC54                          │ Sony                 │ Xperia 10 V                                    │ PHYSICAL │ 2520 x 1080 │ 34                               │                                     │
 │ XQ-DQ72                          │ Sony                 │ Xperia 1 V                                     │ PHYSICAL │ 2560 x 1096 │ 34                               │                                     │
 │ a03su                            │ Samsung              │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │                                     │
 │ a03sutfn                         │ Samsung              │ Galaxy A03s                                    │ PHYSICAL │ 1600 x 720  │ 33                               │                                     │
+│ a04s                             │ Samsung              │ Galaxy A04s                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                                     │
 │ a05s                             │ Samsung              │ Galaxy A05s                                    │ PHYSICAL │ 2400 x 1080 │ 35                               │                                     │
 │ a06                              │ Samsung              │ Galaxy A06                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                                     │
 │ a10                              │ Samsung              │ Galaxy A10                                     │ PHYSICAL │  720 x 1520 │ 29                               │                                     │
@@ -57,6 +60,7 @@
 │ a21                              │ Samsung              │ Galaxy A21                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                                     │
 │ a25x                             │ Samsung              │ Galaxy A25 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                               │                                     │
 │ a26x                             │ Samsung              │ Galaxy A26 5G                                  │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
+│ a31                              │ Samsung              │ Galaxy A31                                     │ PHYSICAL │ 2400 x 1080 │ 31                               │                                     │
 │ a32                              │ Samsung              │ Galaxy A32                                     │ PHYSICAL │ 2400 x 1080 │ 33                               │                                     │
 │ a34x                             │ Samsung              │ Galaxy A34 5G                                  │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ a35x                             │ Samsung              │ Galaxy A35 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34,35,36                         │                                     │
@@ -148,11 +152,14 @@
 │ p3q                              │ Samsung              │ Galaxy S21 Ultra 5G                            │ PHYSICAL │ 3200 x 1440 │ 34,35                            │                                     │
 │ p3s                              │ Samsung              │ Galaxy S21 Ultra 5G                            │ PHYSICAL │ 3200 x 1440 │ 35                               │                                     │
 │ pa1q                             │ Samsung              │ Galaxy S25                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
+│ pa1qksx                          │ Samsung              │ Galaxy S25                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ pa2q                             │ Samsung              │ Galaxy S25+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ pa2qxxx                          │ Samsung              │ Galaxy S25+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ pa3q                             │ Samsung              │ Galaxy S25 Ultra                               │ PHYSICAL │ 2340 x 1080 │ 35                               │                                     │
 │ panther                          │ Google               │ Pixel 7                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                                     │
+│ penang                           │ Motorola             │ moto g53 5G                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                                     │
 │ psq                              │ Samsung              │ Galaxy S25 Edge                                │ PHYSICAL │ 3120 x 1440 │ 35                               │                                     │
+│ q2qsqw                           │ Samsung              │ Galaxy Z Fold3 5G                              │ PHYSICAL │ 2268 x 832  │ 35                               │                                     │
 │ q4q                              │ Samsung              │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 33                               │                                     │
 │ q4qksx                           │ Samsung              │ Galaxy Z Fold4                                 │ PHYSICAL │ 2176 x 1812 │ 36                               │                                     │
 │ q5q                              │ Samsung              │ Galaxy Z Fold5                                 │ PHYSICAL │ 2176 x 1812 │ 34                               │                                     │
@@ -169,9 +176,11 @@
 │ r11s                             │ Samsung              │ Galaxy S23 FE                                  │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ r12s                             │ Samsung              │ Galaxy S24 FE                                  │ PHYSICAL │ 2340 x 1080 │ 35                               │                                     │
 │ r8q                              │ Samsung              │ Galaxy S20 FE 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                                     │
+│ r8qcsx                           │ Samsung              │ Galaxy S20 FE 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                                     │
 │ r8qksx                           │ Samsung              │ Galaxy S20 FE 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                                     │
 │ r9q                              │ Samsung              │ Galaxy S21 FE 5G                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ r9q-SM-G990U                     │ Samsung              │ Galaxy S21 FE 5G                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
+│ r9q2csx                          │ Samsung              │ Galaxy S21 FE 5G                               │ PHYSICAL │ 2340 x 1080 │ 36                               │                                     │
 │ rango                            │ Google               │ Pixel 10 Pro Fold                              │ PHYSICAL │ 2152 x 2076 │ 36                               │ dda-default                         │
 │ redfin                           │ Google               │ Pixel 5                                        │ PHYSICAL │ 2340 x 1080 │ 30                               │ default                             │
 │ shiba                            │ Google               │ Pixel 8                                        │ PHYSICAL │ 2400 x 1080 │ 35,34,36                         │                                     │
