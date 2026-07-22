@@ -191,10 +191,12 @@
       "arm64-v8a"
     ],
     "supportedVersionIds": [
-      "36"
+      "36",
+      "37"
     ],
     "tags": [
-      "preview=36"
+      "preview=36",
+      "preview=37"
     ]
   },
   {

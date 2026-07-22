@@ -9,7 +9,7 @@
 │ F01L                             │ FUJITSU              │ F-01L                                          │ PHYSICAL │ 1280 x 720  │ 27                               │                                     │
 │ GoogleTvEmulator                 │ Google               │ Google TV                                      │ VIRTUAL  │  720 x 1280 │ 30                               │ beta=30, deprecated=30              │
 │ MediumPhone.arm                  │ Generic              │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34,35,36 │                                     │
-│ MediumPhone_ps16k.arm            │ Generic              │ Medium Phone (16K page size), 6.4in/16cm (Arm) │ VIRTUAL  │ 2400 x 1080 │ 36                               │ preview=36                          │
+│ MediumPhone_ps16k.arm            │ Generic              │ Medium Phone (16K page size), 6.4in/16cm (Arm) │ VIRTUAL  │ 2400 x 1080 │ 36,37                            │ preview=36, preview=37              │
 │ MediumPhone_ps16k_backcompat.arm │ Generic              │ Medium Phone (16K page size), 6.4in/16cm (Arm) │ VIRTUAL  │ 2400 x 1080 │ 36                               │ preview=36                          │
 │ MediumTablet.arm                 │ Generic              │ Medium Tablet, 10.05in/25cm (Arm)              │ VIRTUAL  │ 2560 x 1600 │ 26,27,28,29,30,31,32,33,34,35    │                                     │
 │ OP4F39L1                         │ OPPO                 │ CPH2195                                        │ PHYSICAL │ 2400 x 1080 │ 33                               │                                     │
