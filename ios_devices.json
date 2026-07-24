@@ -232,7 +232,8 @@
     "screenX": 640,
     "screenY": 1136,
     "supportedVersionIds": [
-      "18.4"
+      "18.4",
+      "26.3"
     ]
   }
 ]

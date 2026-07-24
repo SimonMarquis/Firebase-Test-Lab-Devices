@@ -208,6 +208,6 @@
 │ iphone14pro │ iPhone 14 Pro          │ 16.6           │ default │
 │ iphone16pro │ iPhone 16 Pro          │ 18.3           │         │
 │ iphone8     │ iPhone 8               │ 16.6           │         │
-│ iphonese3   │ iPhone SE 3            │ 18.4           │         │
+│ iphonese3   │ iPhone SE 3            │ 18.4,26.3      │         │
 └─────────────┴────────────────────────┴────────────────┴─────────┘
 ```
