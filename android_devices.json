@@ -1328,6 +1328,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "a54xue",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a54xue",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A54 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "a55xzh",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1587,6 +1607,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "b5qxeea",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b5qxeea",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "screenDensity": 340,
+    "screenX": 748,
+    "screenY": 720,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "b6q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1788,6 +1828,27 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/3Q_f6pVtaCnuI_zptGxBySrHodtZ2xcTVfPeMr1V1s1iyJjhaAtGdLX_VdKoY4FBbo15bpjWnsVA"
+  },
+  {
+    "brand": "motorola",
+    "codename": "cancun",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "cancun",
+    "manufacturer": "Motorola",
+    "name": "moto g14",
+    "screenDensity": 400,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/ahkp6mpI3xcwC_PUvacIy6wwtcVxqYpChe_Sx63zCB2um9k7LzYonnp5hT454sLf5LjkyPXxVHyfBg"
   },
   {
     "brand": "motorola",
@@ -2113,6 +2174,24 @@
       "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/7J94qy5xQ3eceAz5oZIaGMcqiIGYytvdLeTkYsv1YPIC6xjvOdVz9mz_azB66Fao9Qm-R8NTRSviCA"
+  },
+  {
+    "brand": "samsung",
+    "codename": "e2sksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "e2sksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S24+",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
@@ -2869,6 +2948,25 @@
   },
   {
     "brand": "motorola",
+    "codename": "malmo",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "malmo",
+    "manufacturer": "Motorola",
+    "name": "moto g85 5G",
+    "screenDensity": 400,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gqKe62jBugO0h8bari0WtQm2I9PWSapwiqnpoahK0OkdHcm2Aailop1ojGewYu6PzSqmddGAOjCnqA"
+  },
+  {
+    "brand": "motorola",
     "codename": "manaus",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -2951,6 +3049,27 @@
       "34",
       "35"
     ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "o1s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "o1s",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S21 5G",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/UFuFdBxs-zcdec8BS7aKSuEejlh_jrC7VnUuKsZA70rdVbHxrfUjVpmChmd2AB8esFhJM56Q9DnNqg"
   },
   {
     "brand": "google",
@@ -3453,6 +3572,26 @@
       "34"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/opAt-FW0N3ksz9O2rSzuw2DM6Ou25obTXFH00FGHSl6_WG7uM_sHCnr3tviDJ5byXnR6k05gpy9Z"
+  },
+  {
+    "brand": "samsung",
+    "codename": "r11qcs",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "r11qcs",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S23 FE",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
