@@ -1,29 +1,5 @@
 [
   {
-    "brand": "vivo",
-    "codename": "1610",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "1610",
-    "manufacturer": "Vivo",
-    "name": "Y55s",
-    "screenDensity": 320,
-    "screenX": 720,
-    "screenY": 1280,
-    "supportedAbis": [
-      "armeabi",
-      "armeabi-v7a"
-    ],
-    "supportedVersionIds": [
-      "23"
-    ],
-    "tags": [
-      "deprecated=23",
-      "reduced_stability=23"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/SqwncaPUUGjIC0sosZBMkbYsu1p8WEj2uYz4fjgBcxRoe1u9Ti4JBJKXya5i8sbf_UQifSxzSlmb"
-  },
-  {
     "brand": "Sony",
     "codename": "A402SO",
     "form": "PHYSICAL",
@@ -147,6 +123,27 @@
       "beta=30",
       "deprecated=30"
     ]
+  },
+  {
+    "brand": "Infinix",
+    "codename": "Infinix-X6525",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "Infinix-X6525",
+    "manufacturer": "INFINIX MOBILITY LIMITED",
+    "name": "Infinix SMART 8",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/XM7c19T77IbByzvjl8BwS4EFVfXMKlLPd6E0SDiLmd1EmHa2kWzeZqW5fM5Dg6Rz6re-eIPpaDBj"
   },
   {
     "brand": "Generic",
@@ -614,6 +611,27 @@
       "31"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/o87z3pqz1vvXmoacfgeMmUonTGpanBYM3gxSHQsVwXkqzbw8WBUl2z2Dll0fIQXmpZ7QtXbft-s5"
+  },
+  {
+    "brand": "TECNO",
+    "codename": "TECNO-BF7",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "TECNO-BF7",
+    "manufacturer": "TECNO",
+    "name": "TECNO",
+    "screenDensity": 320,
+    "screenX": 720,
+    "screenY": 1612,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "31"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/OHbqP_ANVl-DYenGlw5VmBLS13_M_MntP_PNlFqgoOFiwGqUga5ULyTs0ojOGATK6EYiAd4Ev7zh"
   },
   {
     "brand": "TECNO",
@@ -1509,6 +1527,26 @@
     "form": "PHYSICAL",
     "formFactor": "PHONE",
     "id": "b0qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2316,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "b0qxxx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b0qxxx",
     "manufacturer": "Samsung",
     "name": "Galaxy S22 Ultra",
     "screenDensity": 450,
