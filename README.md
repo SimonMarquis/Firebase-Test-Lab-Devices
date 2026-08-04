@@ -21,6 +21,7 @@
 │ OP535DL1                         │ OnePlus                  │ OnePlus Nord CE 2 Lite 5G                      │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ OP5552L1                         │ OnePlus                  │ OnePlus 10T 5G                                 │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ OP573DL1                         │ OPPO                     │ A79 5G                                         │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
+│ OP5759L1                         │ OPPO                     │ A38                                            │ PHYSICAL │ 1612 x 720  │ 34                               │                        │
 │ OP5958L1                         │ OnePlus                  │ OnePlus Nord CE 3 Lite 5G                      │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ Pixel2.arm                       │ Google                   │ Pixel 2 (Arm)                                  │ VIRTUAL  │ 1920 x 1080 │ 26,27,28,29,30,31,32,33          │                        │
 │ RE58C2                           │ realme                   │ realme C53                                     │ PHYSICAL │ 1600 x 720  │ 35                               │                        │
