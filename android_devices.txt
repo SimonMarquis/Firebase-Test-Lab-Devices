@@ -55,6 +55,7 @@
 │ a16x                             │ Samsung                  │ Galaxy A16 5G                                  │ PHYSICAL │ 2340 x 1080 │ 35,34,36                         │                        │
 │ a16xeea                          │ Samsung                  │ Galaxy A16 5G                                  │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ a21                              │ Samsung                  │ Galaxy A21                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
+│ a23xq                            │ Samsung                  │ Galaxy A23 5G                                  │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ a25x                             │ Samsung                  │ Galaxy A25 5G                                  │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ a26x                             │ Samsung                  │ Galaxy A26 5G                                  │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ a31                              │ Samsung                  │ Galaxy A31                                     │ PHYSICAL │ 2400 x 1080 │ 31                               │                        │
@@ -82,6 +83,7 @@
 │ b5qsqw                           │ Samsung                  │ Galaxy Z Flip5                                 │ PHYSICAL │  720 x 748  │ 36                               │                        │
 │ b5qxeea                          │ Samsung                  │ Galaxy Z Flip5                                 │ PHYSICAL │  720 x 748  │ 36                               │                        │
 │ b6q                              │ Samsung                  │ Galaxy Z Flip6                                 │ PHYSICAL │ 2640 x 1080 │ 34                               │                        │
+│ b6qksx                           │ Samsung                  │ Galaxy Z Flip6                                 │ PHYSICAL │ 2640 x 1080 │ 36                               │                        │
 │ b6qsqw                           │ Samsung                  │ Galaxy Z Flip6                                 │ PHYSICAL │ 2640 x 1080 │ 36                               │                        │
 │ blazer                           │ Google                   │ Pixel 10 Pro                                   │ PHYSICAL │ 2410 x 1080 │ 36                               │ dda-default            │
 │ bluejay                          │ Google                   │ Pixel 6a                                       │ PHYSICAL │ 2400 x 1080 │ 32                               │                        │
@@ -90,6 +92,7 @@
 │ c1qksw                           │ Samsung                  │ Galaxy Note20 5G                               │ PHYSICAL │ 2400 x 1080 │ 33                               │                        │
 │ c2q                              │ Samsung                  │ Galaxy Note20 Ultra 5G                         │ PHYSICAL │ 3088 x 1440 │ 33                               │                        │
 │ c2qksw                           │ Samsung                  │ Galaxy Note20 Ultra 5G                         │ PHYSICAL │ 3088 x 1440 │ 33                               │                        │
+│ c2s                              │ Samsung                  │ Galaxy Note20 Ultra 5G                         │ PHYSICAL │ 3088 x 1440 │ 33                               │                        │
 │ caiman                           │ Google                   │ Pixel 9 Pro                                    │ PHYSICAL │ 2142 x 960  │ 34,35                            │                        │
 │ cancun                           │ Motorola                 │ moto g14                                       │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ cancunf                          │ Motorola                 │ moto g54 5G                                    │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
@@ -121,6 +124,7 @@
 │ fogos                            │ Motorola                 │ moto g34 5G                                    │ PHYSICAL │ 1600 x 720  │ 34                               │                        │
 │ frankel                          │ Google                   │ Pixel 10                                       │ PHYSICAL │ 2424 x 1080 │ 36                               │ dda-default            │
 │ g0q                              │ Samsung                  │ Galaxy S22+                                    │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
+│ g0qksx                           │ Samsung                  │ Galaxy S22+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ gnevan                           │ Motorola                 │ moto g stylus (2023)                           │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
 │ gta4lwifi                        │ Samsung                  │ Galaxy Tab A7                                  │ PHYSICAL │ 2000 x 1200 │ 31                               │                        │
 │ gta7lite                         │ Samsung                  │ Galaxy Tab A7 Lite                             │ PHYSICAL │ 1340 x 800  │ 34                               │                        │

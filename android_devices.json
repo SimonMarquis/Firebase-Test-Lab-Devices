@@ -1157,6 +1157,28 @@
   },
   {
     "brand": "samsung",
+    "codename": "a23xq",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a23xq",
+    "lowFpsVideoRecording": true,
+    "manufacturer": "Samsung",
+    "name": "Galaxy A23 5G",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2408,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "34"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/WLDFMxr78EoXB7xmDrBYmcBnBPeg7K38LdnBXaKfRsBEnQTBXLdu58mhpxuwTsxt7dzKmjATONA"
+  },
+  {
+    "brand": "samsung",
     "codename": "a25x",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1706,6 +1728,24 @@
   },
   {
     "brand": "samsung",
+    "codename": "b6qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b6qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Flip6",
+    "screenDensity": 340,
+    "screenX": 1080,
+    "screenY": 2640,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "b6qsqw",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -1868,6 +1908,27 @@
     "supportedVersionIds": [
       "33"
     ]
+  },
+  {
+    "brand": "samsung",
+    "codename": "c2s",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "c2s",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Note20 Ultra 5G",
+    "screenDensity": 560,
+    "screenX": 1440,
+    "screenY": 3088,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "33"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/QTGlw9eyY3zfuGbG_yQInGzO3fcm3b9rkRYX9M_cxFgPl1jAK9-LQscH1yCp78I1ovGrDc7ZwrfW"
   },
   {
     "brand": "google",
@@ -2493,6 +2554,26 @@
       "36"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/oaKy1va_Ew4p7B5U0pnkp0VUnM9NlDs1kER1M6pZ8uM_ADVTQhHbQwUPBhMzumk5MgLrSaKjXi25"
+  },
+  {
+    "brand": "samsung",
+    "codename": "g0qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "g0qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S22+",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "motorola",
