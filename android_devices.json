@@ -2054,6 +2054,25 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/dfhBj0T_wyl4qqYgqthNzV1oBiicXqbFLISFZXhRDMRews-YL_WtDiiGrgofdNA8_HZRuuNeJWv3CA"
   },
   {
+    "brand": "google",
+    "codename": "cubs",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "cubs",
+    "manufacturer": "Google",
+    "name": "Pixel 11",
+    "screenDensity": 420,
+    "screenX": 1080,
+    "screenY": 2424,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "37"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/Y4D9awwvm57-Ljy_5daGOdd8xpXAxVBHANDmNz9EHJRPgQj6BjR9qUFn-ofqcDvsW_fmZFNTug"
+  },
+  {
     "brand": "motorola",
     "codename": "cuscoi",
     "form": "PHYSICAL",
@@ -2595,6 +2614,24 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/y_t9JuhSze8qVVBBrW6TEqvRLh3pEBPKfSjWwLERFO-KpolwDDon0M8HbPq8XBRTW-4VplnpRHQE6Q"
+  },
+  {
+    "brand": "google",
+    "codename": "grizzly",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "grizzly",
+    "manufacturer": "Google",
+    "name": "Pixel 11 Pro",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2410,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "37"
+    ]
   },
   {
     "brand": "samsung",
@@ -4146,6 +4183,24 @@
       "33"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/IobHdSLAtgAC2OnL3R5a9wRlV271XvkQ0cmEbDamXrtx7IoKbjiEzVg9YNwQD3pShhoEa_9rAUmd"
+  },
+  {
+    "brand": "google",
+    "codename": "yogi",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "yogi",
+    "manufacturer": "Google",
+    "name": "Pixel 11 Pro Fold",
+    "screenDensity": 390,
+    "screenX": 2076,
+    "screenY": 2152,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "37"
+    ]
   },
   {
     "brand": "samsung",

@@ -104,6 +104,7 @@
 │ caprip                           │ Motorola                 │ moto g(30)                                     │ PHYSICAL │ 1600 x 720  │ 31                               │                        │
 │ cheetah                          │ Google                   │ Pixel 7 Pro                                    │ PHYSICAL │ 3120 x 1440 │ 33                               │                        │
 │ comet                            │ Google                   │ Pixel 9 Pro Fold                               │ PHYSICAL │ 2152 x 2076 │ 34,35,36                         │                        │
+│ cubs                             │ Google                   │ Pixel 11                                       │ PHYSICAL │ 2424 x 1080 │ 37                               │                        │
 │ cuscoi                           │ Motorola                 │ moto g96 5G                                    │ PHYSICAL │ 2400 x 1080 │ 35                               │                        │
 │ dm1q                             │ Samsung                  │ Galaxy S23                                     │ PHYSICAL │ 2340 x 1080 │ 35                               │                        │
 │ dm1q-SM-S911U                    │ Samsung                  │ Galaxy S23                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
@@ -131,6 +132,7 @@
 │ g0q                              │ Samsung                  │ Galaxy S22+                                    │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ g0qksx                           │ Samsung                  │ Galaxy S22+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ gnevan                           │ Motorola                 │ moto g stylus (2023)                           │ PHYSICAL │ 1600 x 720  │ 33                               │                        │
+│ grizzly                          │ Google                   │ Pixel 11 Pro                                   │ PHYSICAL │ 2410 x 1080 │ 37                               │                        │
 │ gta4lwifi                        │ Samsung                  │ Galaxy Tab A7                                  │ PHYSICAL │ 2000 x 1200 │ 31                               │                        │
 │ gta7lite                         │ Samsung                  │ Galaxy Tab A7 Lite                             │ PHYSICAL │ 1340 x 800  │ 34                               │                        │
 │ gta8wifi                         │ Samsung                  │ Galaxy Tab A8                                  │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
@@ -207,6 +209,7 @@
 │ xcover7                          │ Samsung                  │ Galaxy XCover7                                 │ PHYSICAL │ 2408 x 1080 │ 34                               │                        │
 │ xcoverpro                        │ Samsung                  │ Galaxy XCover Pro                              │ PHYSICAL │ 2340 x 1080 │ 33                               │                        │
 │ y2q                              │ Samsung                  │ Galaxy S20+ 5G                                 │ PHYSICAL │ 3200 x 1440 │ 33                               │                        │
+│ yogi                             │ Google                   │ Pixel 11 Pro Fold                              │ PHYSICAL │ 2152 x 2076 │ 37                               │                        │
 │ z3q                              │ Samsung                  │ Galaxy S20 Ultra 5G                            │ PHYSICAL │ 3200 x 1440 │ 33                               │                        │
 └──────────────────────────────────┴──────────────────────────┴────────────────────────────────────────────────┴──────────┴─────────────┴──────────────────────────────────┴────────────────────────┘
 ```
