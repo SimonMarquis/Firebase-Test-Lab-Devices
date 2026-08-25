@@ -3407,7 +3407,11 @@
       "armeabi"
     ],
     "supportedVersionIds": [
-      "35"
+      "35",
+      "36"
+    ],
+    "tags": [
+      "dda-default"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/52o0ZMdywHtR0rMafloVywcMLMlRTwRgqUug7QQz_6gKz6yqxHoo23NaIOjGyH4mFuYCiL7HNxpM"
   },
