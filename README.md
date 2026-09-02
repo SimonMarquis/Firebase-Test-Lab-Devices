@@ -136,7 +136,7 @@
 │ gta4lwifi                        │ Samsung                  │ Galaxy Tab A7                                  │ PHYSICAL │ 2000 x 1200 │ 31                               │                        │
 │ gta7lite                         │ Samsung                  │ Galaxy Tab A7 Lite                             │ PHYSICAL │ 1340 x 800  │ 34                               │                        │
 │ gta8wifi                         │ Samsung                  │ Galaxy Tab A8                                  │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
-│ gta9pwifi                        │ Samsung                  │ Galaxy Tab A9+                                 │ PHYSICAL │ 1920 x 1200 │ 34                               │                        │
+│ gta9pwifi                        │ Samsung                  │ Galaxy Tab A9+                                 │ PHYSICAL │ 1280 x 800  │ 34                               │                        │
 │ gts10pwifi                       │ Samsung                  │ Galaxy Tab S10+                                │ PHYSICAL │ 2800 x 1752 │ 36                               │                        │
 │ gts7lwifi                        │ Samsung                  │ Galaxy Tab S7                                  │ PHYSICAL │ 2560 x 1600 │ 33                               │                        │
 │ gts7xllite                       │ Samsung                  │ Galaxy Tab S7 FE 5G                            │ PHYSICAL │ 2560 x 1600 │ 34                               │                        │
