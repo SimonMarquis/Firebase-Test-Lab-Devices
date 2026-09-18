@@ -11,6 +11,7 @@
 │ AndroidTablet270dpi.arm          │ Generic                  │ Generic 720x1600 Android tablet @ 270dpi (Arm) │ VIRTUAL  │ 1600 x 720  │ 30                               │                        │
 │ CPH2449                          │ OnePlus                  │ OnePlus 11 5G                                  │ PHYSICAL │ 2412 x 1080 │ 34                               │                        │
 │ F01L                             │ FUJITSU                  │ F-01L                                          │ PHYSICAL │ 1280 x 720  │ 27                               │                        │
+│ Frogger                          │ Nothing                  │ Nothing Phone (4a)                             │ PHYSICAL │ 2720 x 1224 │ 36                               │                        │
 │ GoogleTvEmulator                 │ Google                   │ Google TV                                      │ VIRTUAL  │  720 x 1280 │ 30                               │ beta=30, deprecated=30 │
 │ Infinix-X6525                    │ INFINIX MOBILITY LIMITED │ Infinix SMART 8                                │ PHYSICAL │ 1612 x 720  │ 33                               │                        │
 │ MediumPhone.arm                  │ Generic                  │ Medium Phone, 6.4in/16cm (Arm)                 │ VIRTUAL  │ 2400 x 1080 │ 26,27,28,29,30,31,32,33,34,35,36 │                        │
@@ -112,6 +113,7 @@
 │ dm2q                             │ Samsung                  │ Galaxy S23+                                    │ PHYSICAL │ 2340 x 1080 │ 34                               │                        │
 │ dm2qksx                          │ Samsung                  │ Galaxy S23+                                    │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
 │ dm3q                             │ Samsung                  │ Galaxy S23 Ultra                               │ PHYSICAL │ 3088 x 1440 │ 33,34                            │                        │
+│ dm3qksx                          │ Samsung                  │ Galaxy S23 Ultra                               │ PHYSICAL │ 2316 x 1080 │ 36                               │                        │
 │ dubai                            │ Motorola                 │ motorola edge 30                               │ PHYSICAL │ 2400 x 1080 │ 34                               │                        │
 │ e1q                              │ Samsung                  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 34,36                            │                        │
 │ e1s                              │ Samsung                  │ Galaxy S24                                     │ PHYSICAL │ 2340 x 1080 │ 36                               │                        │
@@ -147,6 +149,7 @@
 │ gts9wifi                         │ Samsung                  │ Galaxy Tab S9                                  │ PHYSICAL │ 2560 x 1600 │ 34                               │                        │
 │ guamna                           │ Motorola                 │ moto g play (2021)                             │ PHYSICAL │ 1600 x 720  │ 30                               │                        │
 │ guamp                            │ Motorola                 │ moto g(9) play                                 │ PHYSICAL │ 1600 x 720  │ 30                               │                        │
+│ houji                            │ Xiaomi                   │ Xiaomi 14                                      │ PHYSICAL │ 2670 x 1200 │ 35                               │                        │
 │ husky                            │ Google                   │ Pixel 8 Pro                                    │ PHYSICAL │ 2244 x 1008 │ 34,35                            │                        │
 │ java                             │ Motorola                 │ Motorola G20                                   │ PHYSICAL │ 1600 x 720  │ 30                               │                        │
 │ kansas                           │ Motorola                 │ moto g - 2025                                  │ PHYSICAL │ 1604 x 720  │ 35                               │                        │

@@ -103,6 +103,24 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/42SDlSVVJ2jXKlHp4P4iHDP4Alsrc4FIF5gW2N5t8RkEFcUVNgd_47K1qUilHdvPd86R9XCxXq1n"
   },
   {
+    "brand": "qti",
+    "codename": "Frogger",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "Frogger",
+    "manufacturer": "Nothing",
+    "name": "Nothing Phone (4a)",
+    "screenDensity": 480,
+    "screenX": 1224,
+    "screenY": 2720,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
     "brand": "Google",
     "codename": "GoogleTvEmulator",
     "form": "VIRTUAL",
@@ -2218,6 +2236,26 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/iXtm0Mdnx3jjtxdetuuE1zjb30lMdKKuBYPlf_kv0lIIRjjG3tyn9YCmEOaJ-wXBiGKlnLB0rN8"
   },
   {
+    "brand": "samsung",
+    "codename": "dm3qksx",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "dm3qksx",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S23 Ultra",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2316,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
     "brand": "motorola",
     "codename": "dubai",
     "form": "PHYSICAL",
@@ -2924,6 +2962,25 @@
       "30"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/QLCLQd09bil6XN0iv-GC_Ed4LI76VsrS0Z25yVWBqf3A8JdHNJz58KKg3tj5CARYSG_kHfRajRZl"
+  },
+  {
+    "brand": "Xiaomi",
+    "codename": "houji",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "houji",
+    "manufacturer": "Xiaomi",
+    "name": "Xiaomi 14",
+    "screenDensity": 480,
+    "screenX": 1200,
+    "screenY": 2670,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/FsL_sD06CeFaKX4ztPGVHVEdS2cL3fcC5mrz7oB7-WW8v4mbsMikquQMoeOjHrxSH8lkfxA0mQ"
   },
   {
     "brand": "google",
