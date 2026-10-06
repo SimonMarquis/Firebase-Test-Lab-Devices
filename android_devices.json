@@ -654,27 +654,6 @@
   },
   {
     "brand": "TECNO",
-    "codename": "TECNO-BF7",
-    "form": "PHYSICAL",
-    "formFactor": "PHONE",
-    "id": "TECNO-BF7",
-    "manufacturer": "TECNO",
-    "name": "TECNO",
-    "screenDensity": 320,
-    "screenX": 720,
-    "screenY": 1612,
-    "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
-    ],
-    "supportedVersionIds": [
-      "31"
-    ],
-    "thumbnailUrl": "https://lh3.googleusercontent.com/OHbqP_ANVl-DYenGlw5VmBLS13_M_MntP_PNlFqgoOFiwGqUga5ULyTs0ojOGATK6EYiAd4Ev7zh"
-  },
-  {
-    "brand": "TECNO",
     "codename": "TECNO-BG6",
     "form": "PHYSICAL",
     "formFactor": "PHONE",

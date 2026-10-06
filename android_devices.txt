@@ -31,7 +31,6 @@
 │ SmallPhone.arm                   │ Generic                  │ Small Phone, 4.65in/12cm (Arm)                 │ VIRTUAL  │ 1280 x 720  │ 26,27,28,29,30,31,32,33,34,35    │                        │
 │ TB370FU                          │ Lenovo                   │ Lenovo Tab P12                                 │ PHYSICAL │ 2944 x 1840 │ 35                               │                        │
 │ TECNO-BF6                        │ TECNO                    │ TECNO POP 7                                    │ PHYSICAL │ 1612 x 720  │ 31                               │                        │
-│ TECNO-BF7                        │ TECNO                    │ TECNO                                          │ PHYSICAL │ 1612 x 720  │ 31                               │                        │
 │ TECNO-BG6                        │ TECNO MOBILE LIMITED     │ SPARK Go 2024                                  │ PHYSICAL │ 1612 x 720  │ 33                               │                        │
 │ TECNO-KI5k                       │ TECNO                    │ TECNO SPARK 10C                                │ PHYSICAL │ 1612 x 720  │ 31                               │                        │
 │ XQ-DC54                          │ Sony                     │ Xperia 10 V                                    │ PHYSICAL │ 2520 x 1080 │ 34                               │                        │
