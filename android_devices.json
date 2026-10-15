@@ -416,6 +416,16 @@
       "31",
       "32",
       "33"
+    ],
+    "tags": [
+      "deprecated=26",
+      "deprecated=27",
+      "deprecated=28",
+      "deprecated=29",
+      "deprecated=30",
+      "deprecated=31",
+      "deprecated=32",
+      "deprecated=33"
     ]
   },
   {
