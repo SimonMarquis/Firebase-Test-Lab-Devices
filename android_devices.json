@@ -1770,6 +1770,25 @@
     ]
   },
   {
+    "brand": "samsung",
+    "codename": "b8q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "b8q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Flip8",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2520,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "37"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/lHYRfmMKTVuq-DAsHU2ro507YHzQZS94WQVYHMPiGAf_4hcv3STymgVWZ4Zuehr7pMW7UJs6_zb9"
+  },
+  {
     "brand": "google",
     "codename": "blazer",
     "form": "PHYSICAL",
@@ -2951,6 +2970,25 @@
       "30"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/QLCLQd09bil6XN0iv-GC_Ed4LI76VsrS0Z25yVWBqf3A8JdHNJz58KKg3tj5CARYSG_kHfRajRZl"
+  },
+  {
+    "brand": "samsung",
+    "codename": "h8q",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "h8q",
+    "manufacturer": "Samsung",
+    "name": "Galaxy Z Fold8",
+    "screenDensity": 420,
+    "screenX": 2448,
+    "screenY": 1848,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "37"
+    ],
+    "thumbnailUrl": "https://lh3.googleusercontent.com/6pkW_OEb0a1YZFD-Dnmj7BUKrC1jT3hsMyidZ6ualbgpGQ3nHQY7oBnf8OgDgwZSRzcaf-ijdXE"
   },
   {
     "brand": "Xiaomi",
