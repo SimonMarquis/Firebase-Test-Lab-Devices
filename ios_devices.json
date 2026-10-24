@@ -31,6 +31,9 @@
     "screenY": 2360,
     "supportedVersionIds": [
       "16.6"
+    ],
+    "tags": [
+      "deprecated=16.6"
     ]
   },
   {
@@ -71,6 +74,9 @@
     "screenY": 2436,
     "supportedVersionIds": [
       "16.6"
+    ],
+    "tags": [
+      "deprecated=16.6"
     ]
   },
   {
@@ -113,7 +119,7 @@
       "16.6"
     ],
     "tags": [
-      "default"
+      "deprecated=16.6"
     ]
   },
   {
@@ -194,6 +200,9 @@
     "screenY": 1334,
     "supportedVersionIds": [
       "16.6"
+    ],
+    "tags": [
+      "deprecated=16.6"
     ]
   },
   {
@@ -234,6 +243,9 @@
     "supportedVersionIds": [
       "18.4",
       "26.3"
+    ],
+    "tags": [
+      "default"
     ]
   }
 ]
