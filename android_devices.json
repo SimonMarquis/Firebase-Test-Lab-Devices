@@ -852,6 +852,26 @@
   },
   {
     "brand": "samsung",
+    "codename": "a05sub",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "a05sub",
+    "manufacturer": "Samsung",
+    "name": "Galaxy A05s",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2400,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "supportedVersionIds": [
+      "35"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "a06",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -3460,6 +3480,24 @@
   },
   {
     "brand": "samsung",
+    "codename": "pa1qsqw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "pa1qsqw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S25",
+    "screenDensity": 480,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
+  },
+  {
+    "brand": "samsung",
     "codename": "pa2q",
     "form": "PHYSICAL",
     "formFactor": "PHONE",
@@ -3578,6 +3616,24 @@
       "35"
     ],
     "thumbnailUrl": "https://lh3.googleusercontent.com/TVGaOMMXEoBC_bYhXYgmWYIMO6gZjIhCehfwTQ-8xYpeHsTtqR6uy80y93_xlFOyXFw4cdnsYFPDQQ"
+  },
+  {
+    "brand": "samsung",
+    "codename": "psqsqw",
+    "form": "PHYSICAL",
+    "formFactor": "PHONE",
+    "id": "psqsqw",
+    "manufacturer": "Samsung",
+    "name": "Galaxy S25 Edge",
+    "screenDensity": 450,
+    "screenX": 1080,
+    "screenY": 2340,
+    "supportedAbis": [
+      "arm64-v8a"
+    ],
+    "supportedVersionIds": [
+      "36"
+    ]
   },
   {
     "brand": "samsung",
