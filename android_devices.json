@@ -394,41 +394,6 @@
     "thumbnailUrl": "https://lh3.googleusercontent.com/_Qljgtm5ase9sA-Isw9K23yM-2l6lS5iRwi9H51Nu3IZsMs5K6uZnT5varo8ywKlJb13k0jIN3Yx"
   },
   {
-    "brand": "Google",
-    "codename": "Pixel2.arm",
-    "form": "VIRTUAL",
-    "formFactor": "PHONE",
-    "id": "Pixel2.arm",
-    "manufacturer": "Google",
-    "name": "Pixel 2 (Arm)",
-    "screenDensity": 420,
-    "screenX": 1080,
-    "screenY": 1920,
-    "supportedAbis": [
-      "arm64-v8a"
-    ],
-    "supportedVersionIds": [
-      "26",
-      "27",
-      "28",
-      "29",
-      "30",
-      "31",
-      "32",
-      "33"
-    ],
-    "tags": [
-      "deprecated=26",
-      "deprecated=27",
-      "deprecated=28",
-      "deprecated=29",
-      "deprecated=30",
-      "deprecated=31",
-      "deprecated=32",
-      "deprecated=33"
-    ]
-  },
-  {
     "brand": "realme",
     "codename": "RE58C2",
     "form": "PHYSICAL",
@@ -3142,9 +3107,7 @@
     "screenX": 720,
     "screenY": 1604,
     "supportedAbis": [
-      "arm64-v8a",
-      "armeabi",
-      "armeabi-v7a"
+      "arm64-v8a"
     ],
     "supportedVersionIds": [
       "35"
@@ -3545,9 +3508,7 @@
     "screenX": 1080,
     "screenY": 2340,
     "supportedAbis": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "armeabi"
+      "arm64-v8a"
     ],
     "supportedVersionIds": [
       "35",
